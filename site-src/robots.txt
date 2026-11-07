@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /form-handler.php
+Disallow: /thankyou
+Disallow: /?s=
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+Sitemap: https://www.midwest-tropical.com/sitemap.xml

@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glass Water Wall Maintenance: Tips For Sparkling Results</title>
+<meta name="description" content="Enhance your space with a beautiful glass water wall, bringing serenity indoors. Ensure proper maintenance for continued enjoyment of this exquisite feature."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link crossorigin="anonymous" rel="canonical" href="https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Glass Water Wall Maintenance: Tips For Sparkling Results" />
+<meta property="og:description" content="Enhance your space with a beautiful glass water wall, bringing serenity indoors. Ensure proper maintenance for continued enjoyment of this exquisite feature." />
+<meta property="og:url" content="https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/" />
+<meta property="og:site_name" content="Midwest Tropical" />
+<meta property="article:tag" content="Glass Water Fall" />
+<meta property="article:tag" content="water wall" />
+<meta property="article:section" content="blog" />
+<meta property="og:updated_time" content="2025-05-28T19:48:06+00:00" />
+<meta property="og:image" content="https://www.midwest-tropical.com/wp-content/uploads/midwest0215.jpg" />
+<meta property="og:image:secure_url" content="https://www.midwest-tropical.com/wp-content/uploads/midwest0215.jpg" />
+<meta property="og:image:width" content="1170" />
+<meta property="og:image:height" content="780" />
+<meta property="og:image:alt" content="Glass Water Wall Maintenance" />
+<meta property="og:image:type" content="image/webp" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Glass Water Wall Maintenance: Tips For Sparkling Results" />
+<meta name="twitter:description" content="Enhance your space with a beautiful glass water wall, bringing serenity indoors. Ensure proper maintenance for continued enjoyment of this exquisite feature." />
+<meta name="twitter:image" content="https://www.midwest-tropical.com/wp-content/uploads/midwest0215.jpg" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Jennifer Sirkin" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="3 minutes" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; The Easy Guide to Glass Water Wall Maintenance Comments Feed" href="https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/feed/" />
+<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fthe-easy-guide-to-glass-water-wall-maintenance%2F" />
+<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fthe-easy-guide-to-glass-water-wall-maintenance%2F&#038;format=xml" />
+<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/posts/104546" />
+<meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
+<script type="application/ld+json" class="saswp-schema-markup-output">
+{"@context":"https:\/\/schema.org\/","@graph":[{
+    "@context": "https://schema.org/",
+    "@graph": [
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#home",
+            "name": "Home",
+            "url": "https://www.midwest-tropical.com/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#bubble-walls",
+            "name": "Bubble Walls",
+            "url": "https://www.midwest-tropical.com/bubble-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#water-walls",
+            "name": "Water Walls",
+            "url": "https://www.midwest-tropical.com/water-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#specialty-fountains",
+            "name": "Specialty Fountains",
+            "url": "https://www.midwest-tropical.com/specialty-fountains/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#galleries",
+            "name": "Galleries",
+            "url": "https://www.midwest-tropical.com/gallery/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#about",
+            "name": "About",
+            "url": "https://www.midwest-tropical.com/our-story/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#contact-us",
+            "name": "Contact Us",
+            "url": "https://www.midwest-tropical.com/contact-us/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#locations",
+            "name": "Locations",
+            "url": "https://www.midwest-tropical.com/locations/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BreadcrumbList",
+    "@id": "https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/#breadcrumb",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.midwest-tropical.com",
+                "name": "Midwest Tropical Expertly Built Custom Water Features!"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/category/blog/",
+                "name": "blog"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/",
+                "name": "Glass Water Wall Maintenance: Tips for Sparkling Results"
+            }
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BlogPosting",
+    "@id": "https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/#BlogPosting",
+    "url": "https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": "https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/",
+    "headline": "Glass Water Wall Maintenance: Tips for Sparkling Results",
+    "description": "Enhance your space with a beautiful glass water wall, bringing serenity indoors. Ensure proper maintenance for continued enjoyment of this exquisite feature.",
+    "articleBody": "A glass water wall is a stunning addition to any space, bringing the calming beauty of water indoors. But like any water feature, they require a little Tender-Loving-Care (TLC) to keep them sparkling clean and functioning smoothly.    So, in this blog, we will be giving a complete breakdown of simple maintenance tasks to ensure your glass water wall continues to be a source of tranquility and visual delight.    We have divided the cleaning phases into regular cleaning and deep cleaning, followed by a few general tips to ensure your water wall feature remains shiny and functional for years to come. Let?s begin.    Regular Cleaning (Every 1-2 Weeks).    To ensure your glass water fall feature stays as new as it was installed, follow the weekly cleaning routine defined below. We recommend doing this routine every week or two for the best results.    Wipe Down the Glass.\u0026nbsp;    Firstly, you need to clean the glass of your water feature. For this, you can use a soft, microfiber cloth to gently wipe down the glass panels. This removes dust, fingerprints, and water spots, keeping the view unobstructed. Try to avoid harsh chemicals or abrasive cleaners, as they can scratch the glass.    Skim the Surface.\u0026nbsp;    Next, you need to skim the surface. You can use a small net or skimmer to remove any leaves, debris, or insects that might have landed on the water?s surface. This keeps the water looking fresh and prevents the build-up of organic matter.    Top Up the Water Level.\u0026nbsp;    Over time, water evaporates, so check the water level regularly and top it up with filtered or distilled water. This prevents the pump from running dry and ensures a consistent flow of water.    Deep Clean (Every 3-4 Months).    If you can?t manage weekly cleaning, you can do the deep cleaning every three to four months. Follow the process below:    Empty and Refill the Water.\u0026nbsp;    We recommend changing the water completely every three to four months. For this, you need to turn off the pump and completely empty the water reservoir. This will allow for a more thorough cleaning.    Clean the Reservoir.\u0026nbsp;    Next, with the reservoir empty, you can use a mild soap solution and a soft sponge to clean the interior surfaces. Rinse thoroughly to remove any soap residue.    Clean the Pump.\u0026nbsp;    Most pumps have removable parts for easy cleaning. Feel free to follow the manufacturer?s instructions for your specific pump model. This might involve removing the impeller and wiping it down to remove any mineral deposits or debris.    Clean the Decorative Elements (if applicable).\u0026nbsp;    If your water wall has decorative rocks or other elements, remove them and clean them with a mild soap solution and a soft brush. Rinse them thoroughly and allow them to dry completely before placing them back.    General Tips:     Prevent Algae Growth ?\u0026nbsp;Adding a small amount of algaecide to the water can help prevent algae growth. Follow the manufacturer?s recommended dosage for your water wall?s size.    Monitor Water Quality ?\u0026nbsp;Keep an eye on the water clarity. If you notice cloudiness, discoloration, or a strong odor, it might be time for a more frequent water change or a deeper clean.    Change the Water Filter (if applicable) ?\u0026nbsp;Some water walls come with built-in water filters. Change these filters regularly according to the manufacturer?s instructions.     To Wrap Up.    If you are someone who has spent a lot of time on your water wall design, it is pertinent that you take the time out for its maintenance.    Always consult your water wall?s user manual for specific cleaning instructions or recommendations from the manufacturer. Unplug the pump before performing any maintenance tasks that involve submerging your hands in the water.    By following these simple maintenance steps, you can ensure your glass water wall continues to be a beautiful and functional focal point in your home for years to come. For any complex cleaning issues or repairs, you can consult Midwest Tropical.",
+    "datePublished": "2024-04-01T17:17:09+00:00",
+    "dateModified": "2025-05-28T19:48:06+00:00",
+    "author": {
+        "@type": "Person",
+        "name": "Jennifer Sirkin",
+        "url": "https://www.midwest-tropical.com/author/jennifermidwest-tropical-com/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/9003dcb1172ba3ba428243cd859ac218cd0cef191e141d6df992e9940e070999?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "editor": {
+        "@type": "Person",
+        "name": "Jennifer Sirkin",
+        "url": "https://www.midwest-tropical.com/author/jennifermidwest-tropical-com/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/9003dcb1172ba3ba428243cd859ac218cd0cef191e141d6df992e9940e070999?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "keywords": "Glass Water Fall, water wall, ",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Midwest Tropical",
+        "url": "https://www.midwest-tropical.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/logo-midwest-tropical.png",
+            "width": 334,
+            "height": 84
+        }
+    },
+    "image": [
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/#primaryimage",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/midwest0215.jpg",
+            "width": "1170",
+            "height": "780"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "@id": "https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/#Product",
+    "review": [],
+    "image": [
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.midwest-tropical.com/the-easy-guide-to-glass-water-wall-maintenance/#primaryimage",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/midwest0215.jpg",
+            "width": "1170",
+            "height": "780"
+        }
+    ]
+}]}
+</script>
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-32x32.avif" sizes="32x32" />
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
+<link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
+<link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/core.css?v=c36c552c">
+<link rel="stylesheet" href="/assets/css/b-2ebd9ed713.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=9a8c9807">
+<script src="/assets/js/main.js?v=55fd0cd6" defer></script>
+</head>
+<body class="wp-singular post-template-default single single-post postid-104546 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
+<main id="content" class="site-main post mt-article"><div class="page-header"><h1 class="entry-title">The Easy Guide to Glass Water Wall Maintenance</h1></div><div class="page-content"><p class="mt-article-meta"><time datetime="2024-04-01T17:17:09">April 1, 2024</time></p><figure class="mt-article-hero"><img src="/wp-content/uploads/midwest0215.jpg" srcset="/wp-content/uploads/midwest0215-800x533.jpg 800w, /wp-content/uploads/midwest0215-100x100.jpg 100w, /wp-content/uploads/midwest0215.jpg 600w, /wp-content/uploads/midwest0215-768x512.jpg 768w, /wp-content/uploads/midwest0215-950x320.avif 950w, /wp-content/uploads/midwest0215-150x100.jpg 150w, /wp-content/uploads/midwest0215-300x200.jpg 300w, /wp-content/uploads/midwest0215-380x253.jpg 380w, /wp-content/uploads/midwest0215-480x320.jpg 480w, /wp-content/uploads/midwest0215-640x427.jpg 640w, /wp-content/uploads/midwest0215-768x512.jpg 768w, /wp-content/uploads/midwest0215-1024x683.jpg 1024w, /wp-content/uploads/midwest0215.jpg 1170w" sizes="(max-width: 900px) 100vw, 860px" width="1170" height="780" alt="The Easy Guide to Glass Water Wall Maintenance" fetchpriority="high" decoding="async"></figure><div class="mt-article-body">
+<p class="wp-block-paragraph">A glass water wall is a stunning addition to any space, bringing the calming beauty of water indoors. But like any water feature, they require a little Tender-Loving-Care (TLC) to keep them sparkling clean and functioning smoothly.</p>
+
+
+
+<p class="wp-block-paragraph">So, in this blog, we will be giving a complete breakdown of simple maintenance tasks to ensure your glass water wall continues to be a source of tranquility and visual delight.</p>
+
+
+
+<p class="wp-block-paragraph">We have divided the cleaning phases into regular cleaning and deep cleaning, followed by a few general tips to ensure your water wall feature remains shiny and functional for years to come. Let?s begin.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Regular Cleaning (Every 1-2 Weeks).</strong></p>
+
+
+
+<p class="wp-block-paragraph">To ensure your <strong><a href="/bubble-walls/">glass water fall</a></strong> feature stays as new as it was installed, follow the weekly cleaning routine defined below. We recommend doing this routine every week or two for the best results.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Wipe Down the Glass.</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Firstly, you need to clean the glass of your water feature. For this, you can use a soft, microfiber cloth to gently wipe down the glass panels. This removes dust, fingerprints, and water spots, keeping the view unobstructed. Try to avoid harsh chemicals or abrasive cleaners, as they can scratch the glass.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Skim the Surface.</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Next, you need to skim the surface. You can use a small net or skimmer to remove any leaves, debris, or insects that might have landed on the water?s surface. This keeps the water looking fresh and prevents the build-up of organic matter.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Top Up the Water Level.</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Over time, water evaporates, so check the water level regularly and top it up with filtered or distilled water. This prevents the pump from running dry and ensures a consistent flow of water.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Deep Clean (Every 3-4 Months).</strong></p>
+
+
+
+<p class="wp-block-paragraph">If you can?t manage weekly cleaning, you can do the deep cleaning every three to four months. Follow the process below:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Empty and Refill the Water.</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">We recommend changing the water completely every three to four months. For this, you need to turn off the pump and completely empty the water reservoir. This will allow for a more thorough cleaning.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Clean the Reservoir.</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Next, with the reservoir empty, you can use a mild soap solution and a soft sponge to clean the interior surfaces. Rinse thoroughly to remove any soap residue.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Clean the Pump.</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Most pumps have removable parts for easy cleaning. Feel free to follow the manufacturer?s instructions for your specific pump model. This might involve removing the impeller and wiping it down to remove any mineral deposits or debris.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Clean the Decorative Elements (if applicable).</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">If your water wall has decorative rocks or other elements, remove them and clean them with a mild soap solution and a soft brush. Rinse them thoroughly and allow them to dry completely before placing them back.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>General Tips:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Prevent Algae Growth ?</strong>&nbsp;Adding a small amount of algaecide to the water can help prevent algae growth. Follow the manufacturer?s recommended dosage for your water wall?s size.</li>
+
+
+
+<li><strong>Monitor Water Quality ?</strong>&nbsp;Keep an eye on the water clarity. If you notice cloudiness, discoloration, or a strong odor, it might be time for a more frequent water change or a deeper clean.</li>
+
+
+
+<li><strong>Change the Water Filter (if applicable) ?</strong>&nbsp;Some water walls come with built-in water filters. Change these filters regularly according to the manufacturer?s instructions.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>To Wrap Up.</strong></p>
+
+
+
+<p class="wp-block-paragraph">If you are someone who has spent a lot of time on your <strong><a href="/waterwalls/">water wall design</a></strong>, it is pertinent that you take the time out for its maintenance.</p>
+
+
+
+<p class="wp-block-paragraph">Always consult your water wall?s user manual for specific cleaning instructions or recommendations from the manufacturer. Unplug the pump before performing any maintenance tasks that involve submerging your hands in the water.</p>
+
+
+
+<p class="wp-block-paragraph">By following these simple maintenance steps, you can ensure your glass water wall continues to be a beautiful and functional focal point in your home for years to come. For any complex cleaning issues or repairs, you can consult Midwest Tropical.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+</div></div></main>
+
+		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/how-water-walls-transform-high-traffic-spaces-into-calm-welcoming-environments/"><span class="mtx-related__img"><img decoding="async" src="/wp-content/uploads/Alter-36-768x576.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">How Water Walls Transform High-Traffic Spaces into Calm, Welcoming Environments</span></a></li><li><a href="/decorating-around-indoor-water-features-to-enhance-look/"><span class="mtx-related__img"><img decoding="async" fetchpriority="high" src="/wp-content/uploads/midweste-01-768x512.webp" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Decorating Around Indoor Water Features to Enhance Look</span></a></li><li><a href="/water-features-in-hospitality-uplifting-guest-experiences-in-hotels-and-resorts/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/ALTER-17.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Water Features in Hospitality – Uplifting Guest Experiences in Hotels and Resorts</span></a></li><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/glass-water-features/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Glass Water Walls</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+					<div class="jetpack-instant-search__widget-area" style="display: none">
+					</div>
+		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
+		<?php include __DIR__ . '/../includes/popup-8c9eb8e8.php'; ?>
+
+</body>
+</html>

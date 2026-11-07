@@ -1,0 +1,15 @@
+# Images / videos (1.8 GB) are too large for GitHub (2 GB push limit).
+# They are delivered separately: copy the "uploads" folder to site/wp-content/uploads/ before deploying.
+site/wp-content/uploads/
+site/wp-content/grand-media/
+
+# Browser-upload bundle (only needed when uploading through github.com in Chrome)
+GitHub-Upload/
+
+# Runtime / local files
+site/includes/form-submissions.log
+__pycache__/
+*.pyc
+.claude/
+Thumbs.db
+desktop.ini

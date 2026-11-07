@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inside The Design Process Of Custom Bubble | Midwest Tropical</title>
+<meta name="description" content="Explore how custom bubble walls are designed for commercial spaces—from planning and visual style to engineering, fabrication, and installation for long-lasting impact."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link crossorigin="anonymous" rel="canonical" href="https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Inside The Design Process Of Custom Bubble | Midwest Tropical" />
+<meta property="og:description" content="Explore how custom bubble walls are designed for commercial spaces—from planning and visual style to engineering, fabrication, and installation for long-lasting impact." />
+<meta property="og:url" content="https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/" />
+<meta property="og:site_name" content="Midwest Tropical" />
+<meta property="article:tag" content="Custom Bubble Walls" />
+<meta property="article:section" content="blog" />
+<meta property="og:updated_time" content="2025-11-26T16:50:06+00:00" />
+<meta property="og:image" content="https://www.midwest-tropical.com/wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces.png" />
+<meta property="og:image:secure_url" content="https://www.midwest-tropical.com/wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta property="og:image:alt" content="Custom Bubble Walls" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Inside The Design Process Of Custom Bubble | Midwest Tropical" />
+<meta name="twitter:description" content="Explore how custom bubble walls are designed for commercial spaces—from planning and visual style to engineering, fabrication, and installation for long-lasting impact." />
+<meta name="twitter:image" content="https://www.midwest-tropical.com/wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces.png" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Midwest Tropical" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="4 minutes" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Inside the Design Process of Custom Bubble Walls for Commercial Spaces Comments Feed" href="https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/feed/" />
+<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Finside-the-design-process-of-custom-bubble-walls-for-commercial-spaces%2F" />
+<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Finside-the-design-process-of-custom-bubble-walls-for-commercial-spaces%2F&#038;format=xml" />
+<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/posts/131541" />
+<meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
+<script type="application/ld+json" class="saswp-schema-markup-output">
+{"@context":"https:\/\/schema.org\/","@graph":[{
+    "@context": "https://schema.org/",
+    "@graph": [
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#home",
+            "name": "Home",
+            "url": "https://www.midwest-tropical.com/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#bubble-walls",
+            "name": "Bubble Walls",
+            "url": "https://www.midwest-tropical.com/bubble-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#water-walls",
+            "name": "Water Walls",
+            "url": "https://www.midwest-tropical.com/water-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#specialty-fountains",
+            "name": "Specialty Fountains",
+            "url": "https://www.midwest-tropical.com/specialty-fountains/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#galleries",
+            "name": "Galleries",
+            "url": "https://www.midwest-tropical.com/gallery/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#about",
+            "name": "About",
+            "url": "https://www.midwest-tropical.com/our-story/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#contact-us",
+            "name": "Contact Us",
+            "url": "https://www.midwest-tropical.com/contact-us/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#locations",
+            "name": "Locations",
+            "url": "https://www.midwest-tropical.com/locations/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BreadcrumbList",
+    "@id": "https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/#breadcrumb",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.midwest-tropical.com",
+                "name": "Midwest Tropical Expertly Built Custom Water Features!"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/category/blog/",
+                "name": "blog"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/",
+                "name": "Inside The Design Process Of Custom Bubble | Midwest Tropical"
+            }
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BlogPosting",
+    "@id": "https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/#BlogPosting",
+    "url": "https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": "https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/",
+    "headline": "Inside The Design Process Of Custom Bubble | Midwest Tropical",
+    "description": "Explore how custom bubble walls are designed for commercial spaces—from planning and visual style to engineering, fabrication, and installation for long-lasting impact.",
+    "articleBody": "Designing a commercial space that feels inviting, memorable, and visually balanced takes more than furniture and lighting. Many architects and business owners now look for features that bring motion, personality, and a sense of calm into large indoor environments. This is one of the reasons bubble walls have become so popular. They blend design and relaxation, and they give any lobby, hallway, or gathering area a strong visual identity.    At Midwest Tropical, we create custom bubble walls from the ground up to match the needs of each project. Every building is different, and every space has unique goals. Some lobbies need a strong focal point that pulls people in. Others need a gentle, soothing feature that softens noise and creates calm. No matter the purpose, the design process plays a key role in making sure the final installation fits perfectly and performs well for years. Here is a closer look at how that process works.    Step 1: Understanding the Space    The design journey begins with a walkthrough of the space or a detailed review of building plans. We look at the room’s size, layout, lighting, and visitor flow. This helps us understand how a bubble wall can support the overall environment.    Some spaces call for tall installations that draw the eye upward. Others need wider features that stretch across a wall to create balance. We also look at nearby materials like wood, stone, metal, and glass to make sure the bubble panel complements the interior design.    This early planning helps us determine the ideal scale and shape of the feature. It also gives us insight into practical needs like electrical access, structural support, and traffic patterns that might influence placement.    Step 2: Choosing the Right Visual Style    Bubble walls are known for their soft glow, rising bubbles, and constant sense of motion. They bring life into a room without feeling overwhelming. During the design stage, we help clients choose the experience they want to create.    Some businesses prefer a clean and modern look with crisp lighting. Others want brighter colors that shift throughout the day. Many healthcare facilities choose soft, calming tones that help patients feel relaxed while they wait. Restaurants and hotels often choose lighting options that match their brand identity.    This step also includes decisions about shapes, panel styles, and bubble patterns. Different bubble speeds and flow styles can create very different moods. Even small design choices can influence the final feel of the installation.    Step 3: Selecting Materials Built for Longevity    Commercial buildings need features that last. Bubble walls operate all day in high-traffic environments, so durable materials are essential. Midwest Tropical uses strong acrylic panels, clear framing materials, reliable lighting components, and commercial-grade pumps.    We also look at safety needs. Many spaces, such as hospitals or schools, require sealed systems that protect both the equipment and the people near it. Sealed bubble panels help keep maintenance low and support long-term reliability. Every component is chosen to match the building’s demands, its climate, and the expected level of daily use.    Step 4: Engineering the Internal System    A Custom Bubble wall is much more than a decorative panel. Inside each installation is a carefully engineered system that controls lighting, bubble flow, water clarity, and long-term function.    We review pump placement, airflow distribution, filtration needs, and lighting control systems. Everything is tested and adjusted to make sure the feature runs smoothly. This step is important because the system needs to be quiet, reliable, and easy to maintain. For commercial environments, consistent performance is essential.    Step 5: Building the Feature    Once the design and engineering plans are approved, we begin fabrication. All Custom Bubble walls are built in our workshop with precise measurements. Because we control the entire process, we can ensure every detail meets the client’s expectations.    Each piece is inspected for clarity, strength, and performance. The lighting and airflow systems are tested together before delivery. Building everything in-house also helps us maintain predictable timelines and quality standards.    Step 6: Installation and Final Setup    The final step is installation. Our team coordinates with contractors, designers, and building managers to place the Bubble wall safely and securely. Once the feature is installed, we test the airflow, lighting, and water quality again. We also teach the on-site team how to operate basic controls.    Many clients are surprised at how quick the installation process is. After everything is set up, the space transforms instantly. What was once an ordinary lobby becomes a calm, engaging environment that captures attention as soon as visitors walk in.    A Feature That Brings the Space to Life    A well-designed bubble wall brings movement and colour into a still environment, and it helps visitors feel more comfortable while they wait or pass through the space. For many businesses, it becomes the centrepiece that defines their lobby and makes the experience memorable.    When designed with care, custom bubble walls can serve a commercial space for many years. At Midwest Tropical, the process is built around understanding both the design needs and the technical requirements to create a feature that works beautifully from day one.",
+    "datePublished": "2025-11-21T16:27:14+00:00",
+    "dateModified": "2025-11-26T16:50:06+00:00",
+    "author": {
+        "@type": "Person",
+        "name": "Midwest Tropical",
+        "url": "https://www.midwest-tropical.com/author/midwest-tropical-seo/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/1bfd23398de078f328888cd994ee51c4c6b89a7f19803ccc8146901956055b63?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "editor": {
+        "@type": "Person",
+        "name": "Midwest Tropical",
+        "url": "https://www.midwest-tropical.com/author/midwest-tropical-seo/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/1bfd23398de078f328888cd994ee51c4c6b89a7f19803ccc8146901956055b63?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "keywords": "Custom Bubble Walls, ",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Midwest Tropical",
+        "url": "https://www.midwest-tropical.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/logo-midwest-tropical.png",
+            "width": 334,
+            "height": 84
+        }
+    },
+    "image": [
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/#primaryimage",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces.png",
+            "width": "1200",
+            "height": "800"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "@id": "https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/#Product",
+    "review": [],
+    "image": [
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.midwest-tropical.com/inside-the-design-process-of-custom-bubble-walls-for-commercial-spaces/#primaryimage",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces.png",
+            "width": "1200",
+            "height": "800"
+        }
+    ]
+}]}
+</script>
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-32x32.avif" sizes="32x32" />
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
+<link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
+<link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/core.css?v=c36c552c">
+<link rel="stylesheet" href="/assets/css/b-2ebd9ed713.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=9a8c9807">
+<script src="/assets/js/main.js?v=55fd0cd6" defer></script>
+</head>
+<body class="wp-singular post-template-default single single-post postid-131541 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
+<main id="content" class="site-main post mt-article"><div class="page-header"><h1 class="entry-title">Inside the Design Process of Custom Bubble Walls for Commercial Spaces</h1></div><div class="page-content"><p class="mt-article-meta"><time datetime="2025-11-21T16:27:14">November 21, 2025</time></p><figure class="mt-article-hero"><img src="/wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces.png" srcset="/wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-768x512.png 768w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-800x533.png 800w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-100x100.png 100w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-150x100.png 150w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-300x200.png 300w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-380x253.png 380w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-480x320.png 480w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-640x427.png 640w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-768x512.png 768w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces-1024x683.png 1024w, /wp-content/uploads/Inside-the-Design-Process-of-Custom-Bubble-Walls-for-Commercial-Spaces.png 1200w" sizes="(max-width: 900px) 100vw, 860px" width="1200" height="800" alt="Inside the Design Process of Custom Bubble Walls for Commercial Spaces" fetchpriority="high" decoding="async"></figure><div class="mt-article-body">
+<p class="wp-block-paragraph">Designing a commercial space that feels inviting, memorable, and visually balanced takes more than furniture and lighting. Many architects and business owners now look for features that bring motion, personality, and a sense of calm into large indoor environments. This is one of the reasons <a href="/bubble-walls/">bubble walls</a> have become so popular. They blend design and relaxation, and they give any lobby, hallway, or gathering area a strong visual identity.</p>
+
+
+
+<p class="wp-block-paragraph">At Midwest Tropical, we create <a href="/bubble-walls/custom-bubble-walls/">custom bubble walls</a> from the ground up to match the needs of each project. Every building is different, and every space has unique goals. Some lobbies need a strong focal point that pulls people in. Others need a gentle, soothing feature that softens noise and creates calm. No matter the purpose, the design process plays a key role in making sure the final installation fits perfectly and performs well for years. Here is a closer look at how that process works.</p>
+
+
+
+<h2 class="wp-block-heading">Step 1: Understanding the Space</h2>
+
+
+
+<p class="wp-block-paragraph">The design journey begins with a walkthrough of the space or a detailed review of building plans. We look at the room’s size, layout, lighting, and visitor flow. This helps us understand how a bubble wall can support the overall environment.</p>
+
+
+
+<p class="wp-block-paragraph">Some spaces call for tall installations that draw the eye upward. Others need wider features that stretch across a wall to create balance. We also look at nearby materials like wood, stone, metal, and glass to make sure the bubble panel complements the interior design.</p>
+
+
+
+<p class="wp-block-paragraph">This early planning helps us determine the ideal scale and shape of the feature. It also gives us insight into practical needs like electrical access, structural support, and traffic patterns that might influence placement.</p>
+
+
+
+<h2 class="wp-block-heading">Step 2: Choosing the Right Visual Style</h2>
+
+
+
+<p class="wp-block-paragraph">Bubble walls are known for their soft glow, rising bubbles, and constant sense of motion. They bring life into a room without feeling overwhelming. During the design stage, we help clients choose the experience they want to create.</p>
+
+
+
+<p class="wp-block-paragraph">Some businesses prefer a clean and modern look with crisp lighting. Others want brighter colors that shift throughout the day. Many healthcare facilities choose soft, calming tones that help patients feel relaxed while they wait. Restaurants and hotels often choose lighting options that match their brand identity.</p>
+
+
+
+<p class="wp-block-paragraph">This step also includes decisions about shapes, panel styles, and bubble patterns. Different bubble speeds and flow styles can create very different moods. Even small design choices can influence the final feel of the installation.</p>
+
+
+
+<h2 class="wp-block-heading">Step 3: Selecting Materials Built for Longevity</h2>
+
+
+
+<p class="wp-block-paragraph">Commercial buildings need features that last. Bubble walls operate all day in high-traffic environments, so durable materials are essential. Midwest Tropical uses strong acrylic panels, clear framing materials, reliable lighting components, and commercial-grade pumps.</p>
+
+
+
+<p class="wp-block-paragraph">We also look at safety needs. Many spaces, such as hospitals or schools, require sealed systems that protect both the equipment and the people near it. Sealed bubble panels help keep maintenance low and support long-term reliability. Every component is chosen to match the building’s demands, its climate, and the expected level of daily use.</p>
+
+
+
+<h2 class="wp-block-heading">Step 4: Engineering the Internal System</h2>
+
+
+
+<p class="wp-block-paragraph">A Custom Bubble wall is much more than a decorative panel. Inside each installation is a carefully engineered system that controls lighting, bubble flow, water clarity, and long-term function.</p>
+
+
+
+<p class="wp-block-paragraph">We review pump placement, airflow distribution, filtration needs, and lighting control systems. Everything is tested and adjusted to make sure the feature runs smoothly. This step is important because the system needs to be quiet, reliable, and easy to maintain. For commercial environments, consistent performance is essential.</p>
+
+
+
+<h2 class="wp-block-heading">Step 5: Building the Feature</h2>
+
+
+
+<p class="wp-block-paragraph">Once the design and engineering plans are approved, we begin fabrication. All Custom Bubble walls are built in our workshop with precise measurements. Because we control the entire process, we can ensure every detail meets the client’s expectations.</p>
+
+
+
+<p class="wp-block-paragraph">Each piece is inspected for clarity, strength, and performance. The lighting and airflow systems are tested together before delivery. Building everything in-house also helps us maintain predictable timelines and quality standards.</p>
+
+
+
+<h3 class="wp-block-heading">Step 6: Installation and Final Setup</h3>
+
+
+
+<p class="wp-block-paragraph">The final step is installation. Our team coordinates with contractors, designers, and building managers to place the Bubble wall safely and securely. Once the feature is installed, we test the airflow, lighting, and water quality again. We also teach the on-site team how to operate basic controls.</p>
+
+
+
+<p class="wp-block-paragraph">Many clients are surprised at how quick the installation process is. After everything is set up, the space transforms instantly. What was once an ordinary lobby becomes a calm, engaging environment that captures attention as soon as visitors walk in.</p>
+
+
+
+<h4 class="wp-block-heading">A Feature That Brings the Space to Life</h4>
+
+
+
+<p class="wp-block-paragraph">A well-designed bubble wall brings movement and colour into a still environment, and it helps visitors feel more comfortable while they wait or pass through the space. For many businesses, it becomes the centrepiece that defines their lobby and makes the experience memorable.</p>
+
+
+
+<p class="wp-block-paragraph">When designed with care, custom bubble walls can serve a commercial space for many years. At Midwest Tropical, the process is built around understanding both the design needs and the technical requirements to create a feature that works beautifully from day one.</p>
+</div></div></main>
+
+		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/why-custom-bubble-walls-are-gaining-ground-in-experiential-interior-design/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Why Custom Bubble Walls Are Gaining Ground in Experiential Interior Design</span></a></li><li><a href="/a-more-memorable-interior-with-custom-bubble-walls/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">A More Memorable Interior with Custom Bubble Walls</span></a></li><li><a href="/custom-bubble-walls-transforming-modern-spaces/"><span class="mtx-related__img"><img decoding="async" src="/wp-content/uploads/Rod-Style-Swirley-Bubble-Wall-for-Spare-TIme-Enter-scaled-1-768x415.jpeg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Custom Bubble Walls: Transforming Modern Spaces</span></a></li><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+					<div class="jetpack-instant-search__widget-area" style="display: none">
+					</div>
+		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
+		<?php include __DIR__ . '/../includes/popup-8c9eb8e8.php'; ?>
+
+</body>
+</html>

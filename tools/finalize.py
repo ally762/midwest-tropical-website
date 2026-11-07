@@ -1,0 +1,178 @@
+"""Copy hand-written files (site-src) into the build, write sitemap.xml and 404.php.
+usage: python -I tools/finalize.py site site-src"""
+import os
+import re
+import shutil
+import sys
+
+OUT, SRC = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
+ORIGIN = "https://www.midwest-tropical.com"
+
+for dp, dn, fn in os.walk(SRC):
+    for f in fn:
+        s = os.path.join(dp, f)
+        d = os.path.join(OUT, os.path.relpath(s, SRC))
+        os.makedirs(os.path.dirname(d), exist_ok=True)
+        shutil.copy2(s, d)
+
+# Theme-template pages whose title was hidden had no H1 and no title band: add the band with the
+# page's own SEO title (from <title>, minus the site-name suffix) so every page has the same frame + one H1.
+def page_name(t):
+    title = re.search(r"<title>(.*?)</title>", t, re.S)
+    return re.split(r"\s+[-|–]\s+Midwest Tropical.*$", title.group(1).strip())[0].strip() if title else ""
+
+
+INC_RE = r"<\?php include __DIR__ \. '[^']*/includes/%s-[0-9a-f]+\.php'; \?>"
+
+
+def wrap_classic(t):
+    """Classic-editor text dropped straight into a full-width template (no wrapper at all):
+    wrap it in the theme frame so it gets the same title band / width as every other page."""
+    h = re.search(INC_RE % "header", t)
+    f = re.search(INC_RE % "footer", t)
+    if not h or not f or f.start() < h.end():
+        return t
+    mid = t[h.end(): f.start()]
+    if "data-elementor-type=" in mid or "<main" in mid or not re.search(r"<(p|h2|h3|ul)\b", mid):
+        return t
+    h1 = "" if "<h1" in mid else f'<div class="page-header"><h1 class="entry-title">{page_name(t)}</h1></div>'
+    return t[: h.end()] + f'\n<main id="content" class="site-main page mt-classic">{h1}<div class="page-content">' + mid + "</div></main>\n" + t[f.start():]
+
+
+def add_title_band(t):
+    t = wrap_classic(t)
+    if 'class="page-header"' in t or "<h1" in t:
+        return t
+    m = re.search(r'(<main id="content" class="site-main[^"]*"[^>]*>)\s*(<div class="page-content">)', t)
+    if not m:
+        return t
+    band = f'<div class="page-header"><h1 class="entry-title">{page_name(t)}</h1></div>'
+    return t[: m.end(1)] + band + t[m.start(2):]
+
+
+# preload the main text font (Quicksand, latin) so the first paint already uses it
+preload = ""
+core = os.path.join(OUT, "assets", "css", "core.css")
+if os.path.exists(core):
+    cc = open(core, encoding="utf-8").read()
+    for blk in re.findall(r"@font-face\s*{[^}]*}", cc):
+        if re.search(r"font-family:\s*['\"]?Quicksand", blk, re.I) and "U+0000-00FF" in blk.upper():
+            u = re.search(r"url\(([^)]+\.woff2)\)", blk)
+            if u:
+                preload = f'<link rel="preload" href="{u.group(1)}" as="font" type="font/woff2" crossorigin>\n'
+                break
+
+banded = 0
+for dp, dn, fn in os.walk(OUT):
+    if os.sep + "wp-content" in dp or os.sep + "assets" in dp or os.sep + "includes" in dp:
+        continue
+    for f in fn:
+        if f == "index.php":
+            p = os.path.join(dp, f)
+            t = open(p, encoding="utf-8").read()
+            n = add_title_band(t)
+            if preload and 'as="font"' not in n:
+                n = n.replace('<link rel="stylesheet" href="/assets/css/core.css', preload + '<link rel="stylesheet" href="/assets/css/core.css', 1)
+            if n != t:
+                open(p, "w", encoding="utf-8").write(n)
+                banded += 1
+print("title band + H1 added to", banded, "theme pages that had none")
+
+# drop srcset candidates / image refs whose file is missing (sizes that 404 on the live server too)
+def exists(u):
+    u = u.split("?")[0].split("#")[0]
+    if not u.startswith("/") or u.startswith("//"):
+        return True
+    p = OUT + urllib.parse.unquote(u)
+    return os.path.exists(p) and os.path.getsize(p) > 0
+
+
+def fix_img(m):
+    tag = m.group(0)
+    ss = re.search(r'\ssrcset="([^"]*)"', tag)
+    good = []
+    if ss:
+        for cand in ss.group(1).split(","):
+            parts = cand.strip().split()
+            if parts and exists(parts[0]):
+                good.append(" ".join(parts))
+        tag = tag.replace(ss.group(0), (' srcset="' + ", ".join(good) + '"') if good else "")
+        if not good:
+            tag = re.sub(r'\ssizes="[^"]*"', "", tag)
+    src = re.search(r'\ssrc="([^"]*)"', tag)
+    if src and not exists(src.group(1)) and good:
+        # missing main file: use the largest existing srcset entry
+        best = sorted(good, key=lambda c: int(re.sub(r"\D", "", c.split()[-1]) or 0))[-1].split()[0]
+        tag = tag.replace(src.group(0), f' src="{best}"')
+    return tag
+
+
+import urllib.parse
+# Image paths are kept exactly as on the live site (/wp-content/uploads/...). Any file that could
+# not be downloaded is listed in MISSING-IMAGES.txt; copying the client's wp-content/uploads folder
+# from their hosting into site/wp-content/uploads fills those gaps with no HTML change needed.
+def drop_bad_source(m):
+    # <picture><source srcset="x.webp"> whose file is missing would win over the working <img>: drop it
+    tag = m.group(0)
+    ss = re.search(r'srcset="([^"]*)"', tag)
+    if ss and any(not exists(c.strip().split(" ")[0]) for c in ss.group(1).split(",") if c.strip()):
+        return ""
+    return tag
+
+
+missing = set()
+dropped = 0
+for dp, dn, fn in os.walk(OUT):
+    if os.sep + "wp-content" in dp or os.sep + "assets" in dp:
+        continue
+    for f in fn:
+        if f.endswith(".php") and f != "form-handler.php":
+            pth = os.path.join(dp, f)
+            t = open(pth, encoding="utf-8").read()
+            n = re.sub(r"<source\b[^>]*>", drop_bad_source, t)
+            if n != t:
+                dropped += t.count("<source") - n.count("<source")
+                open(pth, "w", encoding="utf-8").write(n)
+                t = n
+            for u in re.findall(r'(?:src|href|srcset)="([^"]+)"', t):
+                for part in u.split(","):
+                    p = part.strip().split(" ")[0]
+                    if p.startswith("/wp-content/") and re.search(r"\.(jpe?g|png|gif|webp|avif|svg|mp4|pdf)$", p, re.I) and not exists(p):
+                        missing.add(p)
+with open(os.path.join(os.path.dirname(OUT), "MISSING-IMAGES.txt"), "w", encoding="utf-8") as fh:
+    fh.write("\n".join(sorted(missing)))
+print("missing media files:", len(missing), "| <source> tags dropped (fallback to <img>):", dropped)
+
+# sitemap.xml – same URLs as the WordPress sitemaps
+urls = open(os.path.join(OUT, "includes", "urls.txt"), encoding="utf-8").read().split()
+xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+for u in urls:
+    p = os.path.join(OUT, u.strip("/"), "index.php")
+    mod = os.path.getmtime(p) if os.path.exists(p) else None
+    xml.append(f"<url><loc>{ORIGIN}{u}</loc></url>")
+xml.append("</urlset>")
+open(os.path.join(OUT, "sitemap.xml"), "w", encoding="utf-8").write("\n".join(xml))
+
+# 404.php built from the home page shell (same header/footer/css)
+home = open(os.path.join(OUT, "index.php"), encoding="utf-8").read()
+head, rest = home.split("</head>", 1)
+head = re.sub(r"<title>.*?</title>", "<title>Page Not Found - Midwest Tropical</title>", head, flags=re.S)
+head = re.sub(r"<meta name=\"robots\"[^>]*>", "", head)
+head = re.sub(r"<(?:meta property|meta name=\"(?:description|twitter)|link rel=\"canonical|script type=\"application/ld)[^>]*?(?:/>|>(?:.*?</script>)?)", "", head, flags=re.S)
+head = head.replace("<head>", '<head>\n<meta name="robots" content="noindex, follow">', 1)
+inc = re.findall(r"<\?php include __DIR__ \. '[^']+'; \?>", rest)
+header = next((i for i in inc if "/header-" in i), "")
+footer = next((i for i in inc if "/footer-" in i), "")
+popup = next((i for i in inc if "/popup-" in i), "")
+body_cls = re.search(r'<body class="([^"]*)"', rest)
+page = head + "</head>\n" + f'<body class="{body_cls.group(1) if body_cls else ""}">\n' + header + """
+<?php http_response_code(404); ?>
+<main id="content" style="max-width:900px;margin:0 auto;padding:80px 20px;text-align:center;font-family:Nunito,sans-serif">
+<h1 style="font-size:42px;margin-bottom:16px">Page Not Found</h1>
+<p style="font-size:18px;margin-bottom:28px">Sorry, the page you are looking for doesn't exist or has been moved.</p>
+<p><a href="/" style="display:inline-block;padding:14px 28px;background:#3761A7;color:#fff;text-decoration:none;border-radius:3px">Back to Home</a>
+&nbsp; <a href="/request-a-quote/" style="display:inline-block;padding:14px 28px;border:2px solid #3761A7;color:#3761A7;text-decoration:none;border-radius:3px">Request a Quote</a></p>
+</main>
+""" + footer + popup + "\n</body>\n</html>\n"
+open(os.path.join(OUT, "404.php"), "w", encoding="utf-8").write(page)
+print("finalized:", len(urls), "urls in sitemap")

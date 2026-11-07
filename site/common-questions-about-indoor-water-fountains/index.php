@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Debunking Indoor Water Fountain Myths: Low Maintenance Guide</title>
+<meta name="description" content="Transform your commercial space with an indoor water fountain for a serene ambiance and elegant touch. Create a peaceful and stylish environment effortlessly."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link crossorigin="anonymous" rel="canonical" href="https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Debunking Indoor Water Fountain Myths: Low Maintenance Guide" />
+<meta property="og:description" content="Transform your commercial space with an indoor water fountain for a serene ambiance and elegant touch. Create a peaceful and stylish environment effortlessly." />
+<meta property="og:url" content="https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/" />
+<meta property="og:site_name" content="Midwest Tropical" />
+<meta property="article:tag" content="water feature" />
+<meta property="article:tag" content="Water Fountains" />
+<meta property="article:section" content="blog" />
+<meta property="og:updated_time" content="2025-05-29T22:32:59+00:00" />
+<meta property="og:image" content="https://www.midwest-tropical.com/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains.jpg" />
+<meta property="og:image:secure_url" content="https://www.midwest-tropical.com/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains.jpg" />
+<meta property="og:image:width" content="813" />
+<meta property="og:image:height" content="542" />
+<meta property="og:image:alt" content="Common Questions about Indoor Water Fountains" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Debunking Indoor Water Fountain Myths: Low Maintenance Guide" />
+<meta name="twitter:description" content="Transform your commercial space with an indoor water fountain for a serene ambiance and elegant touch. Create a peaceful and stylish environment effortlessly." />
+<meta name="twitter:image" content="https://www.midwest-tropical.com/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains.jpg" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Jennifer Sirkin" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="3 minutes" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
+<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fcommon-questions-about-indoor-water-fountains%2F" />
+<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fcommon-questions-about-indoor-water-fountains%2F&#038;format=xml" />
+<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/posts/78010" />
+<meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
+<script type="application/ld+json" class="saswp-schema-markup-output">
+{"@context":"https:\/\/schema.org\/","@graph":[{
+    "@context": "https://schema.org/",
+    "@graph": [
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#home",
+            "name": "Home",
+            "url": "https://www.midwest-tropical.com/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#bubble-walls",
+            "name": "Bubble Walls",
+            "url": "https://www.midwest-tropical.com/bubble-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#water-walls",
+            "name": "Water Walls",
+            "url": "https://www.midwest-tropical.com/water-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#specialty-fountains",
+            "name": "Specialty Fountains",
+            "url": "https://www.midwest-tropical.com/specialty-fountains/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#galleries",
+            "name": "Galleries",
+            "url": "https://www.midwest-tropical.com/gallery/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#about",
+            "name": "About",
+            "url": "https://www.midwest-tropical.com/our-story/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#contact-us",
+            "name": "Contact Us",
+            "url": "https://www.midwest-tropical.com/contact-us/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#locations",
+            "name": "Locations",
+            "url": "https://www.midwest-tropical.com/locations/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BreadcrumbList",
+    "@id": "https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/#breadcrumb",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.midwest-tropical.com",
+                "name": "Midwest Tropical Expertly Built Custom Water Features!"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/category/blog/",
+                "name": "blog"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/",
+                "name": "Debunking Indoor Water Fountain Myths: Low Maintenance Guide"
+            }
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BlogPosting",
+    "@id": "https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/#BlogPosting",
+    "url": "https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": "https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/",
+    "headline": "Debunking Indoor Water Fountain Myths: Low Maintenance Guide",
+    "description": "Transform your commercial space with an indoor water fountain for a serene ambiance and elegant touch. Create a peaceful and stylish environment effortlessly.",
+    "articleBody": "Installing an indoor water fountain won\u0026#x2122;t only give your commercial space a virtual facelift, but it\u0026#x2122;ll also keep the environment calm and composed. You might be wondering why installing an indoor water fountain can help you have that chic and modern look. Well, water fountains have come a long way, spanning from ancient Greek civilizations, the monarchies of Great Britain and France, all the way to the glamorous modern-day hotels of Las Vegas, water fountains, have stood the test of time.  The biggest hotels and the fanciest malls are often found incomplete without a waterfall wall and other indoor water features. If you\u0026#x2122;re planning to install indoor water features for your commercial building, then you might have several questions on your mind because with advancements in technology and a huge variety of styles and materials to choose from, you might end up being confused between different water features.  We understand that it can be stressful to find the right water feature for your commercial space. Therefore, we\u0026#x2122;ve answered the most common questions that help you in choosing the best indoor water feature for your commercial space. Will there be any maintenance cost on the fountain? You might have heard that fountains are very high maintenance, but that\u0026#x2122;s not true at all. Indoor water fountains are fairly low maintenance, and they are easy to care for. You just need to make sure that your fountain has enough water to circulate through its system. If your fountain keeps on working without any water, then its pump will start to malfunction and eventually break down. How to check water level? The simplest way is to check your indoor fountain\u0026#x2122;s basin from time to time to make sure that the water level is sufficiently high. If water seems to be running low, then add more water. Another way of checking water is by listening to your fountain. If the pump is making spurting noise instead of smooth flowing or rippling, then the pump might be having difficulty in rotating water because of its low level. Cleaning the fountain If you look carefully at the basin of your fountain, then you\u0026#x2122;ll notice dirt along with other debris at the bottom. This is mainly because the negative ions from your fountain\u0026#x2122;s water source attract these particles from air. To keep your fountain minty clean, simply unplug it, drain the water and wipe down its bottom with a clean, damp cloth. You can also wipe your pump with a clean cloth because it usually gathers most of the dirt and debris. Will my indoor water fountain make noise? If you\u0026#x2122;re installing a small indoor water fountain, then there will be less noise; if the fountain is large in size, then there will be some noise; in short, the level of noise depends on the size and type of your fountain.  If you plan to install a large wall fountain, then be ready for a roar-like noise; if you\u0026#x2122;re installing a desktop fountain, then it will make a quiet, continuous burble, while a tiered garden fountain will make a flowing sound that will increase with size.  If your fountain is making more noise than usual, get it checked by a commercial indoor water fountain specialist.  Midwest Tropical has a talented and professional team of technicians who install, offer maintenance, and other services for high-end indoor water features. Call us today for one-on-one consultations to ensure that you find the best indoor fountain that fits your need. How much electricity will the fountain consume? Most indoor fountains that you see in malls and hotels use the same amount of electricity as a medium-sized lamp, which means that you shouldn\u0026#x2122;t see much difference in your electricity bill after installing your fountain.  \u0026nbsp;",
+    "datePublished": "2021-05-05T04:39:26+00:00",
+    "dateModified": "2025-05-29T22:32:59+00:00",
+    "author": {
+        "@type": "Person",
+        "name": "Jennifer Sirkin",
+        "url": "https://www.midwest-tropical.com/author/jennifermidwest-tropical-com/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/9003dcb1172ba3ba428243cd859ac218cd0cef191e141d6df992e9940e070999?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "editor": {
+        "@type": "Person",
+        "name": "Jennifer Sirkin",
+        "url": "https://www.midwest-tropical.com/author/jennifermidwest-tropical-com/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/9003dcb1172ba3ba428243cd859ac218cd0cef191e141d6df992e9940e070999?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "keywords": "water feature, Water Fountains, ",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Midwest Tropical",
+        "url": "https://www.midwest-tropical.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/logo-midwest-tropical.png",
+            "width": 334,
+            "height": 84
+        }
+    },
+    "image": [
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/#primaryimage",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains.jpg",
+            "width": "813",
+            "height": "542",
+            "caption": "Common Questions about Indoor Water Fountains"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "@id": "https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/#Product",
+    "review": [],
+    "image": [
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.midwest-tropical.com/common-questions-about-indoor-water-fountains/#primaryimage",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains.jpg",
+            "width": "813",
+            "height": "542",
+            "caption": "Common Questions about Indoor Water Fountains"
+        }
+    ]
+}]}
+</script>
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-32x32.avif" sizes="32x32" />
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
+<link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
+<link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/core.css?v=c36c552c">
+<link rel="stylesheet" href="/assets/css/b-2ebd9ed713.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=9a8c9807">
+<script src="/assets/js/main.js?v=55fd0cd6" defer></script>
+</head>
+<body class="wp-singular post-template-default single single-post postid-78010 single-format-gallery wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
+<main id="content" class="site-main post mt-article"><div class="page-header"><h1 class="entry-title">Common Questions about Indoor Water Fountains</h1></div><div class="page-content"><p class="mt-article-meta"><time datetime="2021-05-05T04:39:26">May 5, 2021</time></p><figure class="mt-article-hero"><img src="/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains.jpg" srcset="/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-jpg-800x533.avif 800w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-jpg-100x100.avif 100w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-jpg.avif 600w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-768x512.jpg 768w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains.jpg 813w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-jpg-813x320.avif 813w" sizes="(max-width: 900px) 100vw, 860px" width="813" height="542" alt="Common Questions about Indoor Water Fountains" fetchpriority="high" decoding="async"></figure><div class="mt-article-body"><p><img loading="lazy" decoding="async" decoding="async" data-attachment-id="78011" data-permalink="https://www.midwest-tropical.com/moving-boxes-in-new-apartment-real-estate-concept-3/" data-orig-file="/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains.jpg" data-orig-size="813,542" data-comments-opened="0" data-image-title="" data-image-description="" data-image-caption="" data-large-file="/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-jpg.avif" crossorigin="anonymous" class="aligncenter size-full wp-image-78011" src="/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains1.jpg" alt="Common Questions about Indoor Water Fountains" width="813" height="542" title="" srcset="/wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-jpg-100x100.avif 100w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-600x400.avif 600w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-768x512.jpg 768w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-jpg-800x533.avif 800w, /wp-content/uploads/Common-Questions-about-Indoor-Water-Fountains-jpg.avif 813w" sizes="(max-width: 813px) 100vw, 813px" data-mtfi="1"></p>
+<p>Installing an indoor water fountain won&#x2122;t only give your commercial space a virtual facelift, but it&#x2122;ll also keep the environment calm and composed. You might be wondering why installing an indoor water fountain can help you have that chic and modern look. Well, water fountains have come a long way, spanning from ancient Greek civilizations, the monarchies of Great Britain and France, all the way to the glamorous modern-day hotels of Las Vegas, water fountains, have stood the test of time.</p>
+<p>The biggest hotels and the fanciest malls are often found incomplete without a waterfall wall and other indoor water features. If you&#x2122;re planning to install indoor water features for your commercial building, then you might have several questions on your mind because with advancements in technology and a huge variety of styles and materials to choose from, you might end up being confused between different water features.</p>
+<p>We understand that it can be stressful to find the right water feature for your commercial space. Therefore, we&#x2122;ve answered the most common questions that help you in choosing the best indoor water feature for your commercial space.</p>
+<h2>Will there be any maintenance cost on the fountain?</h2>
+<p>You might have heard that fountains are very high maintenance, but that&#x2122;s not true at all. Indoor water fountains are fairly low maintenance, and they are easy to care for. You just need to make sure that your fountain has enough water to circulate through its system. If your fountain keeps on working without any water, then its pump will start to malfunction and eventually break down.</p>
+<h2>How to check water level?</h2>
+<p>The simplest way is to check your indoor fountain&#x2122;s basin from time to time to make sure that the water level is sufficiently high. If water seems to be running low, then add more water. Another way of checking water is by listening to your fountain. If the pump is making spurting noise instead of smooth flowing or rippling, then the pump might be having difficulty in rotating water because of its low level.</p>
+<h2>Cleaning the fountain</h2>
+<p>If you look carefully at the basin of your fountain, then you&#x2122;ll notice dirt along with other debris at the bottom. This is mainly because the negative ions from your fountain&#x2122;s water source attract these particles from air. To keep your fountain minty clean, simply unplug it, drain the water and wipe down its bottom with a clean, damp cloth. You can also wipe your pump with a clean cloth because it usually gathers most of the dirt and debris.</p>
+<h2>Will my indoor water fountain make noise?</h2>
+<p>If you&#x2122;re installing a small indoor water fountain, then there will be less noise; if the fountain is large in size, then there will be some noise; in short, the level of noise depends on the size and type of your fountain.</p>
+<p>If you plan to install a large wall fountain, then be ready for a roar-like noise; if you&#x2122;re installing a desktop fountain, then it will make a quiet, continuous burble, while a tiered garden fountain will make a flowing sound that will increase with size.</p>
+<p>If your fountain is making more noise than usual, get it checked by a commercial indoor water fountain specialist.</p>
+<p>Midwest Tropical has a talented and professional team of technicians who install, offer maintenance, and other services for high-end indoor water features. Call us today for one-on-one consultations to ensure that you find the best indoor fountain that fits your need.</p>
+<h2>How much electricity will the fountain consume?</h2>
+<p>Most indoor fountains that you see in malls and hotels use the same amount of electricity as a medium-sized lamp, which means that you shouldn&#x2122;t see much difference in your electricity bill after installing your fountain.</p>
+<p>&nbsp;</p>
+</div></div></main>
+
+		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/built-in-or-freestanding-choosing-the-right-water-feature-for-your-space/"><span class="mtx-related__img"><img decoding="async" src="/wp-content/uploads/Choosing-the-Right-Water-Feature-for-Your-Space-1-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Built-In or Freestanding? Choosing the Right Water Feature for Your Space</span></a></li><li><a href="/why-every-modern-space-needs-a-water-feature-with-purpose/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Why Every Modern Space Needs a Water Feature with Purpose</span></a></li><li><a href="/bring-your-vision-to-life-with-a-one-of-a-kind-water-feature/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Bring Your Vision to Life with a One-of-a-Kind Water Feature</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li><li><a href="/indoor-water-fountains/"><span class="mtx-related__img"><img decoding="async" fetchpriority="high" src="/wp-content/uploads/Reflection-Pool-with-Bubbler-Fountain-Jets-at-Embassy-Suites-Milpitas-San-Jose-California-jpg-768x576.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Indoor Water Fountains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+					<div class="jetpack-instant-search__widget-area" style="display: none">
+					</div>
+		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
+		<?php include __DIR__ . '/../includes/popup-8c9eb8e8.php'; ?>
+
+</body>
+</html>

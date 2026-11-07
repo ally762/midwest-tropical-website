@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The New Era Of Custom Water Features For | Midwest Tropical</title>
+<meta name="description" content="Explore how custom water features are transforming workplaces and wellness spaces. Discover how Midwest Tropical designs innovative indoor water walls and fountains that enhance calm, creativity, and well-being through sound, movement, and natural flow."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link crossorigin="anonymous" rel="canonical" href="https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The New Era Of Custom Water Features For | Midwest Tropical" />
+<meta property="og:description" content="Explore how custom water features are transforming workplaces and wellness spaces. Discover how Midwest Tropical designs innovative indoor water walls and fountains that enhance calm, creativity, and well-being through sound, movement, and natural flow." />
+<meta property="og:url" content="https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/" />
+<meta property="og:site_name" content="Midwest Tropical" />
+<meta property="article:tag" content="custom water features" />
+<meta property="article:section" content="blog" />
+<meta property="og:updated_time" content="2025-10-23T21:41:19+00:00" />
+<meta property="og:image" content="https://www.midwest-tropical.com/wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness.png" />
+<meta property="og:image:secure_url" content="https://www.midwest-tropical.com/wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta property="og:image:alt" content="Custom Water Features" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="The New Era Of Custom Water Features For | Midwest Tropical" />
+<meta name="twitter:description" content="Explore how custom water features are transforming workplaces and wellness spaces. Discover how Midwest Tropical designs innovative indoor water walls and fountains that enhance calm, creativity, and well-being through sound, movement, and natural flow." />
+<meta name="twitter:image" content="https://www.midwest-tropical.com/wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness.png" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Midwest Tropical" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="4 minutes" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; The New Era of Custom Water Features for Work and Wellness Comments Feed" href="https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/feed/" />
+<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fthe-new-era-of-custom-water-features-for-work-and-wellness%2F" />
+<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fthe-new-era-of-custom-water-features-for-work-and-wellness%2F&#038;format=xml" />
+<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/posts/130698" />
+<meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
+<script type="application/ld+json" class="saswp-schema-markup-output">
+{"@context":"https:\/\/schema.org\/","@graph":[{
+    "@context": "https://schema.org/",
+    "@graph": [
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#home",
+            "name": "Home",
+            "url": "https://www.midwest-tropical.com/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#bubble-walls",
+            "name": "Bubble Walls",
+            "url": "https://www.midwest-tropical.com/bubble-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#water-walls",
+            "name": "Water Walls",
+            "url": "https://www.midwest-tropical.com/water-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#specialty-fountains",
+            "name": "Specialty Fountains",
+            "url": "https://www.midwest-tropical.com/specialty-fountains/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#galleries",
+            "name": "Galleries",
+            "url": "https://www.midwest-tropical.com/gallery/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#about",
+            "name": "About",
+            "url": "https://www.midwest-tropical.com/our-story/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#contact-us",
+            "name": "Contact Us",
+            "url": "https://www.midwest-tropical.com/contact-us/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#locations",
+            "name": "Locations",
+            "url": "https://www.midwest-tropical.com/locations/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BreadcrumbList",
+    "@id": "https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/#breadcrumb",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.midwest-tropical.com",
+                "name": "Midwest Tropical Expertly Built Custom Water Features!"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/category/blog/",
+                "name": "blog"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/",
+                "name": "The New Era Of Custom Water Features For | Midwest Tropical"
+            }
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BlogPosting",
+    "@id": "https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/#BlogPosting",
+    "url": "https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": "https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/",
+    "headline": "The New Era Of Custom Water Features For | Midwest Tropical",
+    "description": "Explore how custom water features are transforming workplaces and wellness spaces. Discover how Midwest Tropical designs innovative indoor water walls and fountains that enhance calm, creativity, and well-being through sound, movement, and natural flow.",
+    "articleBody": "There’s something timeless about the sound of running water. It soothes, refreshes, and invites you to pause, even for a moment. But today, this natural rhythm is finding a new home indoors. From corporate offices and medical facilities to fitness studios and luxury homes, custom water features are redefining how we think about wellness and design.    Being in the business for over four decades at Midwest Tropical, we’ve seen this shift unfold up close. What once was a luxury aesthetic choice has become an essential part of creating healthier, more human spaces, environments that support calm, creativity, and focus.    Why Water Is the New Design Element for Well-Being    Designers have long known that the spaces we live and work in influence how we feel. The rise of biophilic design has made that connection even clearer.    Custom water features bring that philosophy to life. The movement, sound, and reflection of water help counteract the static nature of modern spaces filled with screens, machines, and artificial light. Whether it’s a flowing water wall, a tranquil fountain, or a misting installation, the goal is the same: to bring natural energy indoors.    Workspaces That Flow Better    In corporate offices, wellness is a necessity. Stress, fatigue, and burnout affect productivity, and the environment plays a big role in that. More businesses are now investing in custom water features as part of their wellness-focused office design.    These installations influence mood and focus. Studies show that natural elements in workplaces can increase productivity by up to 15% and reduce stress levels. Water, in particular, adds both energy and calm, a combination that encourages better thinking and smoother collaboration.    Wellness Spaces That Offer More    Wellness is no longer limited to gyms and spas. It’s part of hospitals, therapy centers, and residential communities, and water is becoming a key design ingredient in all of them.    Custom water features are used to create a sense of flow and renewal, turning any space into a place of restoration. In medical facilities, they help patients feel more at ease while waiting for appointments. In spas, they enhance sensory experiences with sound and movement. In yoga or meditation studios, they provide a natural focal point for reflection and deep breathing.    At Midwest Tropical, we’ve worked with designers to create custom water features that match the purpose of each space. Some are serene and minimal, while others are bold and expressive. But the impact is always the same: people feel connected, balanced, and refreshed.    How Custom Water Features Work in Modern Design    The beauty of today’s custom water features lies in their flexibility. They can be built into walls, set as freestanding centerpieces, or suspended as artistic installations. They can be silent and subtle or expressive and dramatic, depending on the tone of the space.    Behind every design is smart engineering. Each system recirculates water efficiently, using advanced pumps and filtration systems that keep the flow smooth and the water clean. Many include programmable lighting for dynamic effects, making them adaptable to changing moods and settings.    Materials like glass, stainless steel, and natural stone give designers full creative freedom, allowing them to integrate the feature seamlessly into any architectural style.    The Psychology of Flow and Focus    It’s no coincidence that people gather near water. For centuries, human beings have been drawn to its movement, sound, and sparkle. Psychologists call this the “blue space effect,” the calming mental response triggered by seeing or hearing water.    In the workplace, that translates into better focus and reduced stress. In wellness spaces, it promotes mindfulness and emotional balance. Even a simple trickle or ripple can signal the brain to relax, helping people reset and recharge.    That’s why forward-thinking designers now see custom water features not as extras, but as essentials for human-centered environments.    Bringing Life Into Everyday Spaces    The magic of a water feature is that it can bring life to spaces that feel too rigid or sterile. In offices, they break up uniformity. In homes, they add character. In hotels, they create instant atmosphere. The trick lies in designing them thoughtfully, considering scale, sound, and placement so the feature enhances the flow of the entire environment.    At Midwest Tropical, we tailor every design to the space it lives in. A small glass water wall might bring motion to a quiet reception, while a large floor-to-ceiling installation might anchor a corporate atrium. Each one is unique because each client’s vision and each space’s purpose are different.    To Summarize    At Midwest Tropical, we’ve spent decades fabricating custom water features that turn spaces into living environments. Whether you’re designing for work, wellness, or hospitality, our team can help you create something extraordinary, a feature that feels alive, purposeful, and timeless. Get in touch to discuss or start today.",
+    "datePublished": "2025-10-13T21:29:51+00:00",
+    "dateModified": "2025-10-23T21:41:19+00:00",
+    "author": {
+        "@type": "Person",
+        "name": "Midwest Tropical",
+        "url": "https://www.midwest-tropical.com/author/midwest-tropical-seo/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/1bfd23398de078f328888cd994ee51c4c6b89a7f19803ccc8146901956055b63?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "editor": {
+        "@type": "Person",
+        "name": "Midwest Tropical",
+        "url": "https://www.midwest-tropical.com/author/midwest-tropical-seo/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/1bfd23398de078f328888cd994ee51c4c6b89a7f19803ccc8146901956055b63?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "keywords": "custom water features, ",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Midwest Tropical",
+        "url": "https://www.midwest-tropical.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/logo-midwest-tropical.png",
+            "width": 334,
+            "height": 84
+        }
+    },
+    "image": [
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/#primaryimage",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness.png",
+            "width": "1200",
+            "height": "800"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "@id": "https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/#Product",
+    "review": [],
+    "image": [
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.midwest-tropical.com/the-new-era-of-custom-water-features-for-work-and-wellness/#primaryimage",
+            "url": "https://www.midwest-tropical.com/wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness.png",
+            "width": "1200",
+            "height": "800"
+        }
+    ]
+}]}
+</script>
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-32x32.avif" sizes="32x32" />
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
+<link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
+<link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/core.css?v=c36c552c">
+<link rel="stylesheet" href="/assets/css/b-2ebd9ed713.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=9a8c9807">
+<script src="/assets/js/main.js?v=55fd0cd6" defer></script>
+</head>
+<body class="wp-singular post-template-default single single-post postid-130698 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
+<main id="content" class="site-main post mt-article"><div class="page-header"><h1 class="entry-title">The New Era of Custom Water Features for Work and Wellness</h1></div><div class="page-content"><p class="mt-article-meta"><time datetime="2025-10-13T21:29:51">October 13, 2025</time></p><figure class="mt-article-hero"><img src="/wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness.png" srcset="/wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-768x512.png 768w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-800x533.png 800w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-100x100.png 100w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-150x100.png 150w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-300x200.png 300w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-380x253.png 380w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-480x320.png 480w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-640x427.png 640w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-768x512.png 768w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness-1024x683.png 1024w, /wp-content/uploads/The-New-Era-of-Custom-Water-Features-for-Work-and-Wellness.png 1200w" sizes="(max-width: 900px) 100vw, 860px" width="1200" height="800" alt="The New Era of Custom Water Features for Work and Wellness" fetchpriority="high" decoding="async"></figure><div class="mt-article-body">
+<p class="wp-block-paragraph">There’s something timeless about the sound of running water. It soothes, refreshes, and invites you to pause, even for a moment. But today, this natural rhythm is finding a new home indoors. From corporate offices and medical facilities to fitness studios and luxury homes, <a href="/">custom water features</a> are redefining how we think about wellness and design.</p>
+
+
+
+<p class="wp-block-paragraph">Being in the business for over four decades at Midwest Tropical, we’ve seen this shift unfold up close. What once was a luxury aesthetic choice has become an essential part of creating healthier, more human spaces, environments that support calm, creativity, and focus.</p>
+
+
+
+<h2 class="wp-block-heading">Why Water Is the New Design Element for Well-Being</h2>
+
+
+
+<p class="wp-block-paragraph">Designers have long known that the spaces we live and work in influence how we feel. The rise of biophilic design has made that connection even clearer.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="/">Custom water features</a> bring that philosophy to life. The movement, sound, and reflection of water help counteract the static nature of modern spaces filled with screens, machines, and artificial light. Whether it’s a flowing water wall, a tranquil fountain, or a misting installation, the goal is the same: to bring natural energy indoors.</p>
+
+
+
+<h2 class="wp-block-heading">Workspaces That Flow Better</h2>
+
+
+
+<p class="wp-block-paragraph">In corporate offices, wellness is a necessity. Stress, fatigue, and burnout affect productivity, and the environment plays a big role in that. More businesses are now investing in custom water features as part of their wellness-focused office design.</p>
+
+
+
+<p class="wp-block-paragraph">These installations influence mood and focus. Studies show that natural elements in workplaces can increase productivity by up to 15% and reduce stress levels. Water, in particular, adds both energy and calm, a combination that encourages better thinking and smoother collaboration.</p>
+
+
+
+<h2 class="wp-block-heading">Wellness Spaces That Offer More</h2>
+
+
+
+<p class="wp-block-paragraph">Wellness is no longer limited to gyms and spas. It’s part of hospitals, therapy centers, and residential communities, and water is becoming a key design ingredient in all of them.</p>
+
+
+
+<p class="wp-block-paragraph">Custom water features are used to create a sense of flow and renewal, turning any space into a place of restoration. In medical facilities, they help patients feel more at ease while waiting for appointments. In spas, they enhance sensory experiences with sound and movement. In yoga or meditation studios, they provide a natural focal point for reflection and deep breathing.</p>
+
+
+
+<p class="wp-block-paragraph">At Midwest Tropical, we’ve worked with designers to create custom water features that match the purpose of each space. Some are serene and minimal, while others are bold and expressive. But the impact is always the same: people feel connected, balanced, and refreshed.</p>
+
+
+
+<h2 class="wp-block-heading">How Custom Water Features Work in Modern Design</h2>
+
+
+
+<p class="wp-block-paragraph">The beauty of today’s custom water features lies in their flexibility. They can be built into walls, set as freestanding centerpieces, or suspended as artistic installations. They can be silent and subtle or expressive and dramatic, depending on the tone of the space.</p>
+
+
+
+<p class="wp-block-paragraph">Behind every design is smart engineering. Each system recirculates water efficiently, using advanced pumps and filtration systems that keep the flow smooth and the water clean. Many include programmable lighting for dynamic effects, making them adaptable to changing moods and settings.</p>
+
+
+
+<p class="wp-block-paragraph">Materials like glass, stainless steel, and natural stone give designers full creative freedom, allowing them to integrate the feature seamlessly into any architectural style.</p>
+
+
+
+<h3 class="wp-block-heading">The Psychology of Flow and Focus</h3>
+
+
+
+<p class="wp-block-paragraph">It’s no coincidence that people gather near water. For centuries, human beings have been drawn to its movement, sound, and sparkle. Psychologists call this the “blue space effect,” the calming mental response triggered by seeing or hearing water.</p>
+
+
+
+<p class="wp-block-paragraph">In the workplace, that translates into better focus and reduced stress. In wellness spaces, it promotes mindfulness and emotional balance. Even a simple trickle or ripple can signal the brain to relax, helping people reset and recharge.</p>
+
+
+
+<p class="wp-block-paragraph">That’s why forward-thinking designers now see custom water features not as extras, but as essentials for human-centered environments.</p>
+
+
+
+<h3 class="wp-block-heading">Bringing Life Into Everyday Spaces</h3>
+
+
+
+<p class="wp-block-paragraph">The magic of a <a href="/">water feature</a> is that it can bring life to spaces that feel too rigid or sterile. In offices, they break up uniformity. In homes, they add character. In hotels, they create instant atmosphere. The trick lies in designing them thoughtfully, considering scale, sound, and placement so the feature enhances the flow of the entire environment.</p>
+
+
+
+<p class="wp-block-paragraph">At Midwest Tropical, we tailor every design to the space it lives in. A small glass water wall might bring motion to a quiet reception, while a large floor-to-ceiling installation might anchor a corporate atrium. Each one is unique because each client’s vision and each space’s purpose are different.</p>
+
+
+
+<h4 class="wp-block-heading">To Summarize</h4>
+
+
+
+<p class="wp-block-paragraph">At Midwest Tropical, we’ve spent decades fabricating custom water features that turn spaces into living environments. Whether you’re designing for work, wellness, or hospitality, our team can help you create something extraordinary, a feature that feels alive, purposeful, and timeless. Get in touch to discuss or start today.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+</div></div></main>
+
+		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/the-end-of-the-copy-paste-lobby-how-custom-water-features-give-spaces-a-signature/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The End of the Copy-Paste Lobby – How Custom Water Features Give Spaces a Signature</span></a></li><li><a href="/why-designers-are-planning-water-features-earlier-in-the-building-process/"><span class="mtx-related__img"><img decoding="async" src="/wp-content/uploads/Enclosed-Water-Wall-Waterfall-with-Etched-Vinyl-Logo-at-Eagle-Crest-North-Senior-Living-in-Onalaska-Wisconsin-2048x1495-1-768x561.jpeg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Why Designers Are Planning Water Features Earlier in the Building Process</span></a></li><li><a href="/what-designers-see-in-vertical-chamber-bubble-walls-that-others-miss/"><span class="mtx-related__img"><img decoding="async" fetchpriority="high" src="/wp-content/uploads/1-8-768x915.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">What Designers See in Vertical Chamber Bubble Walls That Others Miss</span></a></li><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/glass-water-features/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Glass Water Walls</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+					<div class="jetpack-instant-search__widget-area" style="display: none">
+					</div>
+		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
+		<?php include __DIR__ . '/../includes/popup-8c9eb8e8.php'; ?>
+
+</body>
+</html>
