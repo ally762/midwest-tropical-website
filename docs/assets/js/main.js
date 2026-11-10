@@ -6,11 +6,20 @@
   function bp() { var w = innerWidth; return w <= 767 ? 'mobile' : w <= 1024 ? 'tablet' : 'desktop'; }
 
   /* ---------- header shrink on scroll + back-to-top (from the site's mtx-ux.js) ---------- */
-  var root = d.documentElement, header = d.querySelector('header.elementor-location-header'), tick = false;
+  var root = d.documentElement, header = d.querySelector('header.elementor-location-header'), tick = false, collapsed = false;
   function measureH() { header && root.style.setProperty('--mtx-header-h', header.offsetHeight + 'px'); }
+  // Collapsing the top bar makes the sticky header ~60px shorter; the browser then moves the scroll
+  // position up by the same amount. With one threshold (72px) that toggled the class back and forth
+  // forever ("header shaking"). Separate collapse/expand thresholds, further apart than 60px, stop it.
   function onScroll() {
     if (tick) return; tick = true;
-    requestAnimationFrame(function () { var y = scrollY || 0; root.classList.toggle('mtx-scrolled', y > 72); root.classList.toggle('mtx-scrolled-far', y > 640); tick = false; });
+    requestAnimationFrame(function () {
+      var y = scrollY || 0;
+      if (!collapsed && y > 150) { collapsed = true; root.classList.add('mtx-scrolled'); }
+      else if (collapsed && y < 10) { collapsed = false; root.classList.remove('mtx-scrolled'); }
+      root.classList.toggle('mtx-scrolled-far', y > 640);
+      tick = false;
+    });
   }
   addEventListener('scroll', onScroll, { passive: true }); addEventListener('resize', measureH, { passive: true }); measureH(); onScroll();
   var topBtn = d.createElement('button'); topBtn.type = 'button'; topBtn.className = 'mtx-top'; topBtn.setAttribute('aria-label', 'Back to top');

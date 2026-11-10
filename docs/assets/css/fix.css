@@ -57,6 +57,11 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
 :is(.product_title,.elementor-widget-woocommerce-product-title .elementor-heading-title,.single-product h1){font-family:"Quicksand",sans-serif!important;font-weight:300!important;color:var(--mt-ink)!important;letter-spacing:-.4px}
 .single-product :is(.woocommerce-product-details__short-description,.woocommerce-Tabs-panel) :is(p,li){font-family:"Quicksand",sans-serif;font-size:16px;line-height:1.65;color:var(--mt-text)}
 
+/* 5c. Blog post hero (live single-post template): dark title on a dark photo was unreadable -> white + shadow */
+[data-elementor-type="single-post"] .elementor-element-ab0cdb0 h1,
+[data-elementor-type="single-post"] .elementor-element-ab0cdb0 h1 *{color:#fff!important;text-shadow:0 2px 14px rgba(0,0,0,.65),0 1px 3px rgba(0,0,0,.5)}
+[data-elementor-type="single-post"] .elementor-element-ab0cdb0 h1{font-weight:500}
+
 /* 6. Blog articles (restored): same frame as other pages, comfortable reading width */
 .mt-article .page-content{max-width:860px}
 .mt-article--head{padding-bottom:0!important}

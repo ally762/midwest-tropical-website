@@ -205,19 +205,91 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=c36c552c">
-<link rel="stylesheet" href="/assets/css/b-2ebd9ed713.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=9a8c9807">
-<script src="/assets/js/main.js?v=55fd0cd6" defer></script>
+<link rel="stylesheet" href="/assets/css/core.css?v=16b2469a">
+<link rel="stylesheet" href="/assets/css/b-63b8ea4ffd.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=1c95f831">
+<script src="/assets/js/main.js?v=da22870a" defer></script>
 </head>
 <body class="wp-singular post-template-default single single-post postid-10065 single-format-gallery wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page elementor-page-10065 elementor-page-109341 elementor-page-103796">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
-<main id="content" class="site-main post mt-article"><div class="page-header"><h1 class="entry-title">Easy Ways To Enhance Your New Yoga Studio</h1></div><div class="page-content"><p class="mt-article-meta"><time datetime="2019-06-11T21:33:56">June 11, 2019</time></p><div class="mt-article-body">
-
+				<div data-elementor-type="single-post" data-elementor-id="103796" class="elementor elementor-103796 elementor-location-single post-10065 post type-post status-publish format-gallery hentry category-blog tag-bubble-walls tag-rain-curtains tag-water-feature post_format-post-format-gallery" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-ab0cdb0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab0cdb0" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-51f7b0b" data-id="51f7b0b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f77f881 elementor-widget elementor-widget-text-editor" data-id="f77f881" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<h1>Easy Ways To Enhance Your New Yoga Studio</h1>								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f6b5f68" data-id="f6b5f68" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e43fe8a elementor-button-align-stretch elementor-widget elementor-widget-global elementor-global-98585 elementor-widget-form" data-id="e43fe8a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+							<form class="elementor-form" method="post" name="New Form" aria-label="New Form">
+			<input type="hidden" name="post_id" value="103796"/>
+			<input type="hidden" name="form_id" value="e43fe8a"/>
+			<input type="hidden" name="referer_title" value="Upgrade Your Yoga Studio With These 5 Simple Enhancements" />
+							<input type="hidden" name="queried_id" value="10065"/>
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_48200c8 elementor-col-100">
+					<h3 style="font-size:17px;">Get A Free Water Feature Consultation & Price Estimate:</h3>				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
+												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
+								Name							</label>
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_3d7442a elementor-col-50">
+												<label for="form-field-field_3d7442a" class="elementor-field-label elementor-screen-only">
+								Company							</label>
+														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
+											</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
+												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
+								Email							</label>
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_30844ce elementor-col-50 elementor-field-required">
+												<label for="form-field-field_30844ce" class="elementor-field-label elementor-screen-only">
+								Phone							</label>
+														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required">
+											</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_a9d1d36 elementor-col-100">
+												<label for="form-field-field_a9d1d36" class="elementor-field-label elementor-screen-only">
+								Project Address							</label>
+						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+												<label for="form-field-message" class="elementor-field-label elementor-screen-only">
+								Information							</label>
+						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
+								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-field_8f21363 elementor-col-100">
+							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm  elementor-upload-field">
+						</div>
+								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-token_field elementor-col-100">
+													<input size="1" type="hidden" name="form_fields[token_field]" id="form-field-token_field" class="elementor-field elementor-size-sm  elementor-field-textual">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2669a54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2669a54" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-703748b" data-id="703748b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6b4eb03 elementor-widget elementor-widget-theme-post-content" data-id="6b4eb03" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
+<h2>Easy Ways To Enhance Your New Yoga Studio</h2>
 <p>A yoga studio is a place of health, serenity and peace for all who enter. However, creating a calming atmosphere in your new yoga studio may not be so stress-free. You want everything to be perfect for your guests, but you may not know exactly where to start. The following are a few ways to enhance your yoga studio, so it&#x2122;s inviting and rejuvenating for all of your guests.</p>
-<figure><img loading="lazy" decoding="async" crossorigin="anonymous" src="/wp-content/uploads/bubble-walls_sierra-resort-spa_reno-11.jpg" alt="Screen Shot 2019 06 11 at 1 31 42 PM" width="527" height="395" title=""></figure>
+<figure><img decoding="async" src="/wp-content/uploads/bubble-walls_sierra-resort-spa_reno-11.jpg" alt="Screen Shot 2019 06 11 at 1 31 42 PM" width="527" height="395" title="Easy Ways To Enhance Your New Yoga Studio 1"></figure>
 <ul style="font-family: brandon grotesque regular;">
 <li><strong>Let the light in</strong> ? Natural light is one of the best ways to brighten your studio while reducing the amount of light you need to use from less inviting LED bulbs. This is important to keep in mind when choosing a studio space, because you may not be able to add windows after you sign a lease agreement. If you&#x2122;re already in your forever studio, be careful not to block windows with curtains or shades unless you&#x2122;re purposely darkening the room for a meditation session.</li>
 <li><strong>Choose colors wisely</strong> ? Soft colors reduce stress while bright colors can heighten it. It&#x2122;s best to avoid bright reds, oranges and yellows, opting instead for a calm gray, light blue or natural beige. Variety isn&#x2122;t frowned upon, so feel free to use different calming colors for different spaces in your studio.</li>
@@ -225,15 +297,16 @@
 <li><strong>Personal space</strong> ? Yoga studios aren&#x2122;t typically as roomy as traditional workout spaces, so spacious locker rooms and changing areas aren&#x2122;t common. However, you can create personal space for each of your clients by offering plenty of hooks, cubbies or lockers in the entryway. This space lets them leave their jackets, keys, shoes and other accessories in a safe, organized place while they practice. The reduction of clutter will also make your space less distracting.?</li>
 <li><strong>Custom water feature</strong> ? Water elements are calming and can help your guests transition from the stresses of daily life to a more peaceful state. A <a href="/waterwalls/water-displays/">water feature</a> in the entryway can feature your yoga studio&#x2122;s name for additional branding or smaller features can be placed in individual rooms for superior mediation and relaxation. A quality custom water feature will set your studio apart from the others in town and exude an air of success.</li>
 </ul>
-
-<figure><img loading="lazy" decoding="async" crossorigin="anonymous" sizes="(max-width: 992px) 100vw, 992px" src="/wp-content/uploads/Screen-Shot-2019-06-11-at-1.31.42-PM1.jpg" alt="Screen Shot 2019 06 11 at 1 31 42 PM" width="527" height="395" title=""></figure>
-
+<figure><img decoding="async" fetchpriority="high" sizes="(max-width: 992px) 100vw, 992px" src="/wp-content/uploads/Screen-Shot-2019-06-11-at-1.31.42-PM1.jpg" alt="Screen Shot 2019 06 11 at 1 31 42 PM" width="527" height="395" title="Easy Ways To Enhance Your New Yoga Studio 2"></figure>
 <h2 class="wp-block-heading">Upgrade Your Studio Today</h2>
-
 <p class="wp-block-paragraph">Midwest Tropical is your one-stop shop for the highest-quality custom water features. From <a href="/waterwalls/">water walls</a> and <a href="/bubble-walls/">bubble walls</a> to <a href="/rain-curtains/">rain curtains</a> and a long list of other water dramatic features, Midwest Tropical can turn your traditional yoga studio into one that wows customers the moment they enter. <a href="/contact-us/">Contact us</a> today to find out more about the choices we offer and how we can customize our water features to fit any space.</p>
-</div></div></main>
-
-		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/built-in-or-freestanding-choosing-the-right-water-feature-for-your-space/"><span class="mtx-related__img"><img decoding="async" src="/wp-content/uploads/Choosing-the-Right-Water-Feature-for-Your-Space-1-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Built-In or Freestanding? Choosing the Right Water Feature for Your Space</span></a></li><li><a href="/the-lobby-has-enough-screens-why-bubble-walls-are-winning-back-attention/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Lobby Has Enough Screens – Why Bubble Walls Are Winning Back Attention</span></a></li><li><a href="/bubble-walls-or-water-wall-how-to-choose-the-right-moving-feature-for-your-space/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Bubble Walls or Water Wall? How to Choose the Right Moving Feature for Your Space</span></a></li><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" fetchpriority="high" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/rain-curtains/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Vertical-Chamber-Bubble-Wall-Homewood-SUites-Orlando-FLorida-300x1631-jpg.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Rain Curtains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/the-screen-free-design-trend-bringing-movement-into-modern-spaces/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/The-Screen-Free-Design-Trend-Bringing-Movement-Into-Modern-Spaces-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Screen-Free Design Trend – Bringing Movement Into Modern Spaces</span></a></li><li><a href="/the-hidden-design-decisions-that-make-indoor-water-features-work/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/The-Hidden-Design-Decisions-That-Make-Indoor-Water-Features-Work-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Hidden Design Decisions That Make Indoor Water Features Work</span></a></li><li><a href="/built-in-or-freestanding-choosing-the-right-water-feature-for-your-space/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Choosing-the-Right-Water-Feature-for-Your-Space-1-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Built-In or Freestanding? Choosing the Right Water Feature for Your Space</span></a></li><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/rain-curtains/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Vertical-Chamber-Bubble-Wall-Homewood-SUites-Orlando-FLorida-300x1631-jpg.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Rain Curtains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
 					<div class="jetpack-instant-search__widget-area" style="display: none">
 					</div>
 		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />

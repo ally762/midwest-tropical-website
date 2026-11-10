@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shop - Page 29 Of 76 - Midwest Tropical Expertly Built Custom Water Features!</title>
+<meta name="description" content="Shop custom water features — bubble walls, water walls, rain curtains and reflection pools from Midwest Tropical, built in Skokie, IL since 1977."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link crossorigin="anonymous" rel="canonical" href="https://www.midwest-tropical.com/shop/page/29/" />
+<link crossorigin="anonymous" rel="prev" href="https://www.midwest-tropical.com/shop/page/28/" />
+<link crossorigin="anonymous" rel="next" href="https://www.midwest-tropical.com/shop/page/30/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Shop - Page 29 Of 76 - Midwest Tropical Expertly Built Custom Water Features!" />
+<meta property="og:description" content="Shop custom water features — bubble walls, water walls, rain curtains and reflection pools from Midwest Tropical, built in Skokie, IL since 1977." />
+<meta property="og:url" content="https://www.midwest-tropical.com/shop/page/29/" />
+<meta property="og:site_name" content="Midwest Tropical" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Shop - Page 29 Of 76 - Midwest Tropical Expertly Built Custom Water Features!" />
+<meta name="twitter:description" content="Shop custom water features — bubble walls, water walls, rain curtains and reflection pools from Midwest Tropical, built in Skokie, IL since 1977." />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
+<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Products Feed" href="https://www.midwest-tropical.com/shop/feed/" />
+<meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
+<script type="application/ld+json" class="saswp-schema-markup-output">
+{"@context":"https:\/\/schema.org\/","@graph":[{
+    "@context": "https://schema.org/",
+    "@type": "VideoObject",
+    "@id": "https://www.midwest-tropical.com/product/video-custom-bubble-wall-dancing-bubble-waterfall/#videoobject",
+    "url": "https://www.midwest-tropical.com/product/video-custom-bubble-wall-dancing-bubble-waterfall/",
+    "headline": "Shop - Page 29 Of 76 - Midwest Tropical Expertly Built Custom Water Features!",
+    "datePublished": "2023-09-08T21:16:06+00:00",
+    "dateModified": "2024-09-12T21:37:15+00:00",
+    "description": "Custom Bubble Wall Indoor Water Wall was built by Midwest Tropical Custom Water Features  and includes custom lighting effects with computer controlled choreographed bubble, water and light movement to create a \"Dancing Bubble Wall Feature\".\r\n\r\nThis Amazing Bubble Wall Water Wall Feature was installed in Houston, Texas but many similar projects have been completed by Midwest Tropical Custom Water Features all over the United States as well as several international Water Features projects.\r\n\r\nContact Midwest Tropical for any Bubble Walls, Indoor Waterfalls, Bubble Panels, Water Walls or similar Custom Water Features at 847-679-6666, email  or  \r\n\r\n\r\nUtilizing computer controls and sophisticated LED lighting the bubbles and lights are choreographed to create a beautiful effect which can be customized to any size or application.\r\n\r\nMidwest Tropical invented the bubble wall and is the world leader on building large scale bubble walls and water features for resorts, casinos, cruise ships, restaurants, nightclubs, hospitals, and other venues around the world.\r\n\r\n\r\nWater feature design, fabrication \u0026amp; installation: Midwest Tropical Inc.",
+    "transcript": "Video Custom Bubble Wall-Dancing Bubble Waterfall    https://www.youtube.com/watch?vecDeR7aEEHM    Custom Bubble Wall Indoor Water Wall was built by Midwest Tropical Custom Water Features and includes custom lighting effects with computer controlled choreographed bubble, water and light movement to create a \"Dancing Bubble Wall Feature\".    This Amazing Bubble Wall Water Wall Feature was installed in Houston, Texas but many similar projects have been completed by Midwest Tropical Custom Water Features all over the United States as well as several international Water Features projects.    Contact Midwest Tropical for any Bubble Walls, Indoor Waterfalls, Bubble Panels, Water Walls or similar Custom Water Features at 847-679-6666, email or    Utilizing computer controls and sophisticated LED lighting the bubbles and lights are choreographed to create a beautiful effect which can be customized to any size or application.    Midwest Tropical invented the bubble wall and is the world leader on building large scale bubble walls and water features for resorts, casinos, cruise ships, restaurants, nightclubs, hospitals, and other venues around the world.    Water feature design, fabrication \u0026amp; installation: Midwest Tropical Inc.",
+    "name": "Shop - Page 29 Of 76 - Midwest Tropical Expertly Built Custom Water Features!",
+    "uploadDate": "2023-09-08T21:16:06+00:00",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ecDeR7aEEHM/hqdefault.jpg",
+    "author": {
+        "@type": "Person",
+        "name": "Jennifer Sirkin",
+        "url": "https://www.midwest-tropical.com/author/jennifermidwest-tropical-com/",
+        "sameAs": [],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/9003dcb1172ba3ba428243cd859ac218cd0cef191e141d6df992e9940e070999?s=96\u0026d=mm\u0026r=g",
+            "height": 96,
+            "width": 96
+        }
+    },
+    "contentUrl": "https://www.youtube.com/watch?v=ecDeR7aEEHM",
+    "embedUrl": "https://www.youtube.com/watch?v=ecDeR7aEEHM"
+},
+
+{
+    "@context": "https://schema.org/",
+    "@graph": [
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#home",
+            "name": "Home",
+            "url": "https://www.midwest-tropical.com/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#bubble-walls",
+            "name": "Bubble Walls",
+            "url": "https://www.midwest-tropical.com/bubble-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#water-walls",
+            "name": "Water Walls",
+            "url": "https://www.midwest-tropical.com/water-walls/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#specialty-fountains",
+            "name": "Specialty Fountains",
+            "url": "https://www.midwest-tropical.com/specialty-fountains/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#galleries",
+            "name": "Galleries",
+            "url": "https://www.midwest-tropical.com/gallery/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#about",
+            "name": "About",
+            "url": "https://www.midwest-tropical.com/our-story/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#contact-us",
+            "name": "Contact Us",
+            "url": "https://www.midwest-tropical.com/contact-us/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#locations",
+            "name": "Locations",
+            "url": "https://www.midwest-tropical.com/locations/"
+        },
+        {
+            "@context": "https://schema.org/",
+            "@type": "SiteNavigationElement",
+            "@id": "https://www.midwest-tropical.com/#blog",
+            "name": "Blog",
+            "url": "https://www.midwest-tropical.com/blog/"
+        }
+    ]
+},
+
+{
+    "@context": "https://schema.org/",
+    "@type": "BreadcrumbList",
+    "@id": "https://www.midwest-tropical.com/shop/#breadcrumb",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.midwest-tropical.com",
+                "name": "Midwest Tropical Expertly Built Custom Water Features!"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.midwest-tropical.com/shop/",
+                "name": "Shop"
+            }
+        }
+    ]
+}]}
+</script>
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-32x32.avif" sizes="32x32" />
+<link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
+<link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
+<link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/core.css?v=16b2469a">
+<link rel="stylesheet" href="/assets/css/b-b6189eb9db.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=1c95f831">
+<script src="/assets/js/main.js?v=da22870a" defer></script>
+</head>
+<body class="archive paged post-type-archive post-type-archive-product wp-custom-logo wp-embed-responsive paged-29 post-type-paged-29 wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-shop woocommerce woocommerce-page woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5">
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<?php include __DIR__ . '/../../../includes/header-43acf302.php'; ?>
+		<div id="primary" class="content-area"><main id="main" class="site-main" role="main"><nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a>&nbsp;&#47;&nbsp;<a href="/shop/">Shop</a>&nbsp;&#47;&nbsp;Page 29</nav><header class="woocommerce-products-header">
+			<h1 class="woocommerce-products-header__title page-title">Shop</h1>
+	</header>
+<div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count" role="status" aria-relevant="all" data-is-sorted-by="true">
+	Showing 253&ndash;261 of 683 results<span class="screen-reader-text">Sorted by latest</span></p>
+<form class="woocommerce-ordering" method="get">
+		<select
+		name="orderby"
+		class="orderby"
+					aria-label="Shop order"
+			>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="date"  selected='selected'>Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-3">
+<li class="product type-product post-101217 status-publish first instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-custom-bubble-wall-dancing-bubble-waterfall/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" width="800" height="450" src="/wp-content/uploads/ecder7aeehmmaxresdefault-jpg-800x450.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Custom Bubble Wall-Dancing Bubble Waterfall" srcset="/wp-content/uploads/ecder7aeehmmaxresdefault-jpg-100x100.avif 100w, /wp-content/uploads/ecder7aeehmmaxresdefault-600x338.avif 600w, /wp-content/uploads/ecder7aeehmmaxresdefault-768x432.jpg 768w, /wp-content/uploads/ecder7aeehmmaxresdefault-jpg-800x450.avif 800w, /wp-content/uploads/ecder7aeehmmaxresdefault-jpg.avif 1280w" sizes="(max-width: 800px) 100vw, 800px" title="Video Custom Bubble Wall-Dancing Bubble Waterfall" /><h2 class="woocommerce-loop-product__title">Video Custom Bubble Wall-Dancing Bubble Waterfall</h2>
+</a><a href="/product/video-custom-bubble-wall-dancing-bubble-waterfall/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101217" data-quantity="1" class="button product_type_simple" data-product_id="101217" data-product_sku="" aria-label="Read more about &ldquo;Video Custom Bubble Wall-Dancing Bubble Waterfall&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101217" class="screen-reader-text">
+			</span>
+</li>
+<li class="product type-product post-101215 status-publish instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-custom-water-wall-indoor-glass-lobby-waterfall-holiday-inn-houston-texas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" fetchpriority="high" width="800" height="450" src="/wp-content/uploads/x3dvv3amipwmaxresdefault-jpg-800x450.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Custom Water Wall-Indoor Glass Lobby Waterfall-Holiday Inn Houston, Texas" srcset="/wp-content/uploads/x3dvv3amipwmaxresdefault-jpg-100x100.avif 100w, /wp-content/uploads/x3dvv3amipwmaxresdefault-600x338.avif 600w, /wp-content/uploads/x3dvv3amipwmaxresdefault-768x432.jpg 768w, /wp-content/uploads/x3dvv3amipwmaxresdefault-jpg-800x450.avif 800w, /wp-content/uploads/x3dvv3amipwmaxresdefault-jpg.avif 1280w" sizes="(max-width: 800px) 100vw, 800px" title="Video Custom Water Wall-Indoor Glass Lobby Waterfall-Holiday Inn Houston, Texas" /><h2 class="woocommerce-loop-product__title">Video Custom Water Wall-Indoor Glass Lobby Waterfall-Holiday Inn Houston, Texas</h2>
+</a><a href="/product/video-custom-water-wall-indoor-glass-lobby-waterfall-holiday-inn-houston-texas/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101215" data-quantity="1" class="button product_type_simple" data-product_id="101215" data-product_sku="" aria-label="Read more about &ldquo;Video Custom Water Wall-Indoor Glass Lobby Waterfall-Holiday Inn Houston, Texas&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101215" class="screen-reader-text">
+			</span>
+</li>
+<li class="product type-product post-101212 status-publish last instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-custom-bubble-wall-indoor-waterfall-dancing-water-wall-feature/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" loading="lazy" width="800" height="450" src="/wp-content/uploads/wzqn7updiiimaxresdefault-jpg-800x450.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Custom Bubble Wall-Indoor Waterfall-Dancing Water Wall Feature" srcset="/wp-content/uploads/wzqn7updiiimaxresdefault-jpg-100x100.avif 100w, /wp-content/uploads/wzqn7updiiimaxresdefault-600x338.avif 600w, /wp-content/uploads/wzqn7updiiimaxresdefault-768x432.jpg 768w, /wp-content/uploads/wzqn7updiiimaxresdefault-jpg-800x450.avif 800w, /wp-content/uploads/wzqn7updiiimaxresdefault-jpg.avif 1280w" sizes="(max-width: 800px) 100vw, 800px" title="Video Custom Bubble Wall-Indoor Waterfall-Dancing Water Wall Feature" /><h2 class="woocommerce-loop-product__title">Video Custom Bubble Wall-Indoor Waterfall-Dancing Water Wall Feature</h2>
+</a><a href="/product/video-custom-bubble-wall-indoor-waterfall-dancing-water-wall-feature/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101212" data-quantity="1" class="button product_type_simple" data-product_id="101212" data-product_sku="" aria-label="Read more about &ldquo;Video Custom Bubble Wall-Indoor Waterfall-Dancing Water Wall Feature&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101212" class="screen-reader-text">
+			</span>
+</li>
+<li class="product type-product post-101209 status-publish first instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-bubble-wall-panel-with-bubble-effects-by-midwest-tropical/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" loading="lazy" width="800" height="450" src="/wp-content/uploads/pk1ts0uef2omaxresdefault-jpg-800x450.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Bubble Wall Panel with Bubble Effects by Midwest Tropical" srcset="/wp-content/uploads/pk1ts0uef2omaxresdefault-jpg-100x100.avif 100w, /wp-content/uploads/pk1ts0uef2omaxresdefault-600x338.avif 600w, /wp-content/uploads/pk1ts0uef2omaxresdefault-768x432.jpg 768w, /wp-content/uploads/pk1ts0uef2omaxresdefault-jpg-800x450.avif 800w, /wp-content/uploads/pk1ts0uef2omaxresdefault-jpg.avif 1280w" sizes="(max-width: 800px) 100vw, 800px" title="Video Bubble Wall Panel with Bubble Effects by Midwest Tropical" /><h2 class="woocommerce-loop-product__title">Video Bubble Wall Panel with Bubble Effects by Midwest Tropical</h2>
+</a><a href="/product/video-bubble-wall-panel-with-bubble-effects-by-midwest-tropical/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101209" data-quantity="1" class="button product_type_simple" data-product_id="101209" data-product_sku="" aria-label="Read more about &ldquo;Video Bubble Wall Panel with Bubble Effects by Midwest Tropical&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101209" class="screen-reader-text">
+			</span>
+</li>
+<li class="product type-product post-101206 status-publish instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-clam-water-feature/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" loading="lazy" width="480" height="360" src="/wp-content/uploads/qusiqzalvx0hqdefault-jpg.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Clam Water Feature" srcset="/wp-content/uploads/qusiqzalvx0hqdefault-jpg-100x100.avif 100w, /wp-content/uploads/qusiqzalvx0hqdefault-300x225.avif 300w, /wp-content/uploads/qusiqzalvx0hqdefault-jpg.avif 480w" sizes="(max-width: 480px) 100vw, 480px" title="Video Clam Water Feature" /><h2 class="woocommerce-loop-product__title">Video Clam Water Feature</h2>
+</a><a href="/product/video-clam-water-feature/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101206" data-quantity="1" class="button product_type_simple" data-product_id="101206" data-product_sku="" aria-label="Read more about &ldquo;Video Clam Water Feature&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101206" class="screen-reader-text">
+			</span>
+</li>
+<li class="product type-product post-101178 status-publish last instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-bubble-walls-custom-sizes/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" loading="lazy" width="480" height="360" src="/wp-content/uploads/thd1k84avjmhqdefault-jpg.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Bubble Walls-Custom Sizes" srcset="/wp-content/uploads/thd1k84avjmhqdefault-jpg-100x100.avif 100w, /wp-content/uploads/thd1k84avjmhqdefault-300x225.avif 300w, /wp-content/uploads/thd1k84avjmhqdefault-jpg.avif 480w" sizes="(max-width: 480px) 100vw, 480px" title="Video Bubble Walls-Custom Sizes" /><h2 class="woocommerce-loop-product__title">Video Bubble Walls-Custom Sizes</h2>
+</a><a href="/product/video-bubble-walls-custom-sizes/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101178" data-quantity="1" class="button product_type_simple" data-product_id="101178" data-product_sku="" aria-label="Read more about &ldquo;Video Bubble Walls-Custom Sizes&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101178" class="screen-reader-text">
+			</span>
+</li>
+<li class="product type-product post-101177 status-publish first instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-bubble-tubes-led-lighting/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" loading="lazy" width="480" height="360" src="/wp-content/uploads/fge3wlb7hqahqdefault-jpg.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Bubble Tubes LED lighting" srcset="/wp-content/uploads/fge3wlb7hqahqdefault-jpg-100x100.avif 100w, /wp-content/uploads/fge3wlb7hqahqdefault-jpg-300x225.avif 300w, /wp-content/uploads/fge3wlb7hqahqdefault-jpg.avif 480w" sizes="(max-width: 480px) 100vw, 480px" title="Video Bubble Tubes LED lighting" /><h2 class="woocommerce-loop-product__title">Video Bubble Tubes LED lighting</h2>
+</a><a href="/product/video-bubble-tubes-led-lighting/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101177" data-quantity="1" class="button product_type_simple" data-product_id="101177" data-product_sku="" aria-label="Read more about &ldquo;Video Bubble Tubes LED lighting&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101177" class="screen-reader-text">
+			</span>
+</li>
+<li class="product type-product post-101174 status-publish instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-black-grooved-acrylic-water-fall-w-logo/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" loading="lazy" width="640" height="480" src="/wp-content/uploads/ca2asm0xzyksddefault-jpg.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Black Grooved Acrylic Water Fall w/ Logo" srcset="/wp-content/uploads/ca2asm0xzyksddefault-jpg-100x100.avif 100w, /wp-content/uploads/ca2asm0xzyksddefault-jpg-300x225.avif 300w, /wp-content/uploads/ca2asm0xzyksddefault-jpg-600x450.avif 600w, /wp-content/uploads/ca2asm0xzyksddefault-jpg.avif 640w" sizes="(max-width: 640px) 100vw, 640px" title="Video Black Grooved Acrylic Water Fall w/ Logo" /><h2 class="woocommerce-loop-product__title">Video Black Grooved Acrylic Water Fall w/ Logo</h2>
+</a><a href="/product/video-black-grooved-acrylic-water-fall-w-logo/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101174" data-quantity="1" class="button product_type_simple" data-product_id="101174" data-product_sku="" aria-label="Read more about &ldquo;Video Black Grooved Acrylic Water Fall w/ Logo&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101174" class="screen-reader-text">
+			</span>
+</li>
+<li class="product type-product post-101171 status-publish last instock product_cat-portfolio product_cat-portfolio-export4 has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/video-custom-water-wall-waterfall-features-over-30-high/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" loading="lazy" width="640" height="480" src="/wp-content/uploads/4a38fggon5qsddefault-jpg.avif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Video Custom Water Wall Waterfall Features-Over 30&#039; High!" srcset="/wp-content/uploads/4a38fggon5qsddefault-jpg-100x100.avif 100w, /wp-content/uploads/4a38fggon5qsddefault-jpg-300x225.avif 300w, /wp-content/uploads/4a38fggon5qsddefault-jpg-600x450.avif 600w, /wp-content/uploads/4a38fggon5qsddefault-jpg.avif 640w" sizes="(max-width: 640px) 100vw, 640px" title="Video Custom Water Wall Waterfall Features-Over 30&#8242; High!" /><h2 class="woocommerce-loop-product__title">Video Custom Water Wall Waterfall Features-Over 30&#8242; High!</h2>
+</a><a href="/product/video-custom-water-wall-waterfall-features-over-30-high/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_101171" data-quantity="1" class="button product_type_simple" data-product_id="101171" data-product_sku="" aria-label="Read more about &ldquo;Video Custom Water Wall Waterfall Features-Over 30&#039; High!&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_101171" class="screen-reader-text">
+			</span>
+</li>
+</ul>
+<nav class="woocommerce-pagination" aria-label="Product Pagination">
+	<ul class='page-numbers'>
+	<li><a class="prev page-numbers" href="/shop/page/28/">&larr;</a></li>
+	<li><a aria-label="Page 1" class="page-numbers" href="/shop/">1</a></li>
+	<li><a aria-label="Page 2" class="page-numbers" href="/shop/page/2/">2</a></li>
+	<li><a aria-label="Page 3" class="page-numbers" href="/shop/page/3/">3</a></li>
+	<li><span class="page-numbers dots">&hellip;</span></li>
+	<li><a aria-label="Page 26" class="page-numbers" href="/shop/page/26/">26</a></li>
+	<li><a aria-label="Page 27" class="page-numbers" href="/shop/page/27/">27</a></li>
+	<li><a aria-label="Page 28" class="page-numbers" href="/shop/page/28/">28</a></li>
+	<li><span aria-label="Page 29" aria-current="page" class="page-numbers current">29</span></li>
+	<li><a aria-label="Page 30" class="page-numbers" href="/shop/page/30/">30</a></li>
+	<li><a aria-label="Page 31" class="page-numbers" href="/shop/page/31/">31</a></li>
+	<li><a aria-label="Page 32" class="page-numbers" href="/shop/page/32/">32</a></li>
+	<li><span class="page-numbers dots">&hellip;</span></li>
+	<li><a aria-label="Page 74" class="page-numbers" href="/shop/page/74/">74</a></li>
+	<li><a aria-label="Page 75" class="page-numbers" href="/shop/page/75/">75</a></li>
+	<li><a aria-label="Page 76" class="page-numbers" href="/shop/page/76/">76</a></li>
+	<li><a class="next page-numbers" href="/shop/page/30/">&rarr;</a></li>
+</ul>
+</nav>
+</main></div>		<?php include __DIR__ . '/../../../includes/footer-ab9d1246.php'; ?>
+					<div class="jetpack-instant-search__widget-area" style="display: none">
+					</div>
+		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
+		<?php include __DIR__ . '/../../../includes/popup-ce2367a3.php'; ?>
+
+</body>
+</html>

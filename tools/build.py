@@ -125,6 +125,17 @@ def download_all_assets():
             if i and i % 500 == 0:
                 print(f"  {i}/{len(todo)}", flush=True)
 
+    # remember files whose local (safe) name differs from the live file name (e.g. en-dash -> "_"),
+    # so the GitHub Pages demo can load those images from the live site under their real name
+    mp = os.path.join(OUT, "includes", "media-map.json")
+    os.makedirs(os.path.dirname(mp), exist_ok=True)
+    mapping = json.load(open(mp, encoding="utf-8")) if os.path.exists(mp) else {}
+    for local, src in items:
+        live_path = urllib.parse.urlsplit(src).path
+        if local.startswith("/wp-content/") and urllib.parse.unquote(live_path) != local:
+            mapping[local] = src
+    json.dump(mapping, open(mp, "w", encoding="utf-8"), indent=0)
+
 
 UPLOAD_RE = re.compile(
     r"(?:https?:)?(?:\\?/){2}(?:i\d\.wp\.com(?:\\?/))?(?:www\.)?midwest-tropical\.com"
@@ -192,6 +203,10 @@ def process_css(css, base_url):
         absu = urllib.parse.urljoin(base_url, raw)
         if not absu.startswith("http"):
             return m.group(0)
+        # the optimizer's "rucss" copies point Font Awesome 4 at a file that doesn't exist next to them;
+        # use the copy the site ships in a plugin folder
+        if "/mt-page-cache/rucss/" in absu and re.search(r"fontawesome-webfont\.(woff2?|ttf|eot|svg)", absu):
+            absu = "https://www.midwest-tropical.com/wp-content/plugins/gallery-videos/public/css/fontawesome-webfont.woff2"
         return "url(" + local_asset_path(absu.split("#")[0].split("?")[0]) + ("#" + raw.split("#")[1] if "#" in raw else "") + ")"
 
     css = re.sub(r"url\(\s*([^)]+?)\s*\)", rep, css)
@@ -365,6 +380,8 @@ def clean_body(body):
     body = re.sub(r"\belementor-invisible\b", "", body)
     # css links inside body are handled by caller (removed here)
     body = re.sub(r"<link[^>]*rel=['\"]stylesheet['\"][^>]*>", "", body)
+    # resource hints for WordPress plugin scripts we don't ship (e.g. jetpack swiper.js) -> wasted 404 requests
+    body = re.sub(r"<link\b[^>]*rel=['\"](?:prefetch|preload|modulepreload|prerender)['\"][^>]*>", "", body, flags=re.I)
     body = re.sub(r"<style[^>]*id=['\"](?:" + "|".join(SKIP_STYLE_IDS) + r")[^'\"]*['\"][^>]*>.*?</style>", "", body, flags=re.S)
     return body
 
@@ -374,6 +391,54 @@ def rewrite_links(text):
     # internal links -> root relative (keeps same URL structure)
     text = re.sub(r'(href|action)=(["\'])https?://(?:www\.)?midwest-tropical\.com(?=[/"\'#?])/?', r"\1=\2/", text)
     return text
+
+
+# .tif uploads used without any srcset: the same photo exists in the media library as JPG
+TIF_ALTERNATIVES = {
+    "Hotel-Lobby-Glass-and-Stainless-Water-Wall.tif":
+        "https://www.midwest-tropical.com/wp-content/uploads/Hotel-Lobby-Glass-and-Stainless-Water-Wall-scaled--768x1090.jpg",
+}
+
+
+def fix_tif(body):
+    """Browsers can't show .tif images (broken on the live site too). WordPress also made JPG/WebP
+    sizes of those uploads: use the largest of them as src and drop the .tif entries."""
+    def rep(m):
+        tag = m.group(0)
+        src = re.search(r'\ssrc="([^"]+)"', tag)
+        if not src or not re.search(r"\.tiff?$", src.group(1), re.I):
+            return tag
+        alt = TIF_ALTERNATIVES.get(src.group(1).rsplit("/", 1)[-1])
+        if alt:
+            return tag.replace(src.group(0), f' src="{alt}"')
+        ss = re.search(r'\ssrcset="([^"]*)"', tag)
+        cands = []
+        if ss:
+            for c in ss.group(1).split(","):
+                parts = c.strip().split()
+                if parts and not re.search(r"\.tiff?$", parts[0], re.I):
+                    w = int(re.sub(r"\D", "", parts[1])) if len(parts) > 1 and re.sub(r"\D", "", parts[1]) else 0
+                    cands.append((w, parts[0], c.strip()))
+        if not cands:
+            return tag
+        best = max(cands)[1]
+        tag = tag.replace(src.group(0), f' src="{best}"')
+        tag = tag.replace(ss.group(0), ' srcset="' + ", ".join(c[2] for c in cands) + '"')
+        return tag
+    return re.sub(r"<img\b[^>]*>", rep, body)
+
+
+def one_h1_in_posts(body):
+    """Blog posts: the template already has the title as H1; H1s inside the article text become H2."""
+    if 'data-elementor-type="single-post"' not in body:
+        return body
+    i = body.find("elementor-widget-theme-post-content")
+    if i < 0:
+        return body
+    head, rest = body[:i], body[i:]
+    rest = re.sub(r"<h1(\b[^>]*)>", r"<h2\1>", rest)
+    rest = rest.replace("</h1>", "</h2>")
+    return head + rest
 
 
 def lazyify(body, eager=2):
@@ -483,6 +548,7 @@ def _build_page(url):
         regions[k] = re.sub(r"(<img\b[^>]*?)\s+title=\"[^\"]*\"", r"\1", regions[k])
         regions[k] = re.sub(r'class="\s+', 'class="', regions[k])
         regions[k] = re.sub(r'(class="[^"]*?)\s+"', r'\1"', regions[k])
+    body = one_h1_in_posts(fix_tif(body))
     body = lazyify(body)
     for k in regions:
         regions[k] = re.sub(r"<img\b", '<img decoding="async"', re.sub(r'\s(?:loading|decoding|fetchpriority)="[^"]*"', "", regions[k]))
@@ -600,6 +666,11 @@ def main():
         urls += sitemap("post")
     if MODE in ("products", "all"):
         urls += sitemap("product")
+    if MODE in ("extra", "all"):
+        # live pages that are not in the sitemaps but are linked from the site (archives, pagination)
+        lst = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extra-urls.txt")
+        if os.path.exists(lst):
+            urls += [ORIGIN + l.strip() for l in open(lst, encoding="utf-8-sig") if l.strip() and not l.strip().startswith("#")]
     if MODE.startswith("http"):
         urls = [MODE]
     if LIMIT:

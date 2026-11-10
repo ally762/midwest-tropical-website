@@ -40,9 +40,21 @@ def keep_fonts_local(s):
     return s
 
 
+import json
+
+_MAP_FILE = os.path.join(SITE, "includes", "media-map.json")
+MEDIA_MAP = json.load(open(_MAP_FILE, encoding="utf-8")) if os.path.exists(_MAP_FILE) else {}
+# longest first so a path is never replaced inside a longer one
+_MAP_ITEMS = sorted(MEDIA_MAP.items(), key=lambda kv: -len(kv[0]))
+
+
 def live_media(s):
     # /wp-content/uploads/...  and JSON-escaped \/wp-content\/uploads\/...  -> live site (except fonts)
     keep_fonts_local(s)
+    # files saved under a safe local name: point at the real live file name
+    for local, real in _MAP_ITEMS:
+        if local in s:
+            s = re.sub(r'(?<![\w:/])' + re.escape(local) + r'(?=[\s"\'),]|$)', real, s)
 
     def rep(m):
         tail = s[m.end(): m.end() + 300]
@@ -135,4 +147,23 @@ for dp, dn, fn in os.walk(os.path.join(OUT, "assets", "css")):
 for name in ("robots.txt",):
     pass  # the demo is noindex; no robots/sitemap needed
 open(os.path.join(OUT, ".nojekyll"), "w").close()  # serve files as-is (no Jekyll processing)
+
+# ---- redirects (GitHub Pages can't send 301s; mirror the live site's behaviour with tiny pages)
+PAGES_BASE = "/midwest-tropical-website/docs/"   # https://ally762.github.io/midwest-tropical-website/docs/
+
+
+def redirect_page(target):
+    return ('<!doctype html><html><head><meta charset="utf-8"><meta name="robots" content="noindex">'
+            f'<meta http-equiv="refresh" content="0; url={target}"><script>location.replace("{target}")</script>'
+            f'</head><body><a href="{target}">Continue</a></body></html>')
+
+
+for old, new in (("waterwalls/", "../water-walls/"), ("contact-us-2/", "../contact-us/"),
+                 ("materials/wire-mesh-water-features-2/", "../wire-mesh-water-features/")):
+    os.makedirs(os.path.join(OUT, old), exist_ok=True)
+    open(os.path.join(OUT, old, "index.html"), "w", encoding="utf-8").write(redirect_page(new))
+# Pages serves /404.html from the publishing root (repo root) for any unknown URL:
+# like the live site (301 -> home), send it to the demo home page.
+open(os.path.join(ROOT, "404.html"), "w", encoding="utf-8").write(redirect_page(PAGES_BASE))
+os.remove(os.path.join(OUT, "404.html")) if os.path.exists(os.path.join(OUT, "404.html")) else None
 print(f"docs/: {pages} pages")

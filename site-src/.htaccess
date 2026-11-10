@@ -21,6 +21,20 @@ RewriteRule ^$ / [L,R=302]
 
 # block direct access to includes / logs
 RewriteRule ^includes/ - [F,L]
+
+# ---- 301 redirects that exist on the live WordPress site (keeps old links / rankings)
+RewriteRule ^waterwalls/?$ /water-walls/ [L,R=301]
+RewriteRule ^contact-us-2/?$ /contact-us/ [L,R=301]
+# page was renamed on the live site; send the old address to the new page (live sends it to home)
+RewriteRule ^materials/wire-mesh-water-features-2/?$ /materials/wire-mesh-water-features/ [L,R=301]
+
+# ---- same as the live site: any page URL that doesn't exist -> 301 to the home page
+#      (old/removed URLs such as /products/..., /waterwalls/..., /product/mt-diag-product/).
+#      Missing images/CSS/JS still return a normal 404.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !\.(?:avif|webp|jpe?g|png|gif|svg|ico|css|js|map|woff2?|ttf|eot|mp4|webm|pdf|xml|txt|json)$ [NC]
+RewriteRule ^ / [L,R=301]
 </IfModule>
 
 ErrorDocument 404 /404.php

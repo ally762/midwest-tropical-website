@@ -15,7 +15,7 @@ ROOT = os.path.dirname(HERE)
 SITE = os.path.join(ROOT, "site")
 cache = os.path.abspath(sys.argv[1])
 mode = sys.argv[2] if len(sys.argv) > 2 else "all"
-modes = ["pages", "posts", "products"] if mode == "all" else [mode]
+modes = ["pages", "posts", "products", "extra"] if mode == "all" else [mode]
 
 os.makedirs(SITE, exist_ok=True)
 for name in os.listdir(SITE):  # generated files only; media in wp-content / assets/ext is kept

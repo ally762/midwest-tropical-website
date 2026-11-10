@@ -201,67 +201,107 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=c36c552c">
-<link rel="stylesheet" href="/assets/css/b-2ebd9ed713.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=9a8c9807">
-<script src="/assets/js/main.js?v=55fd0cd6" defer></script>
+<link rel="stylesheet" href="/assets/css/core.css?v=16b2469a">
+<link rel="stylesheet" href="/assets/css/b-63b8ea4ffd.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=1c95f831">
+<script src="/assets/js/main.js?v=da22870a" defer></script>
 </head>
 <body class="wp-singular post-template-default single single-post postid-104601 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
-<main id="content" class="site-main post mt-article"><div class="page-header"><h1 class="entry-title">The Captivating Charm of Glass Fountain Walls Giving You a Reason to Get them Installed!</h1></div><div class="page-content"><p class="mt-article-meta"><time datetime="2024-04-04T21:14:00">April 4, 2024</time></p><div class="mt-article-body">
+				<div data-elementor-type="single-post" data-elementor-id="103796" class="elementor elementor-103796 elementor-location-single post-104601 post type-post status-publish format-standard hentry category-blog tag-glass-fountain-walls tag-water-walls" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-ab0cdb0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab0cdb0" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-51f7b0b" data-id="51f7b0b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f77f881 elementor-widget elementor-widget-text-editor" data-id="f77f881" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<h1>The Captivating Charm of Glass Fountain Walls Giving You a Reason to Get them Installed!</h1>								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f6b5f68" data-id="f6b5f68" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e43fe8a elementor-button-align-stretch elementor-widget elementor-widget-global elementor-global-98585 elementor-widget-form" data-id="e43fe8a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+							<form class="elementor-form" method="post" name="New Form" aria-label="New Form">
+			<input type="hidden" name="post_id" value="103796"/>
+			<input type="hidden" name="form_id" value="e43fe8a"/>
+			<input type="hidden" name="referer_title" value="Glass Fountain Walls By Midwest Tropical" />
+							<input type="hidden" name="queried_id" value="104601"/>
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_48200c8 elementor-col-100">
+					<h3 style="font-size:17px;">Get A Free Water Feature Consultation & Price Estimate:</h3>				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
+												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
+								Name							</label>
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_3d7442a elementor-col-50">
+												<label for="form-field-field_3d7442a" class="elementor-field-label elementor-screen-only">
+								Company							</label>
+														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
+											</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
+												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
+								Email							</label>
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_30844ce elementor-col-50 elementor-field-required">
+												<label for="form-field-field_30844ce" class="elementor-field-label elementor-screen-only">
+								Phone							</label>
+														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required">
+											</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_a9d1d36 elementor-col-100">
+												<label for="form-field-field_a9d1d36" class="elementor-field-label elementor-screen-only">
+								Project Address							</label>
+						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+												<label for="form-field-message" class="elementor-field-label elementor-screen-only">
+								Information							</label>
+						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
+								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-field_8f21363 elementor-col-100">
+							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm  elementor-upload-field">
+						</div>
+								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-token_field elementor-col-100">
+													<input size="1" type="hidden" name="form_fields[token_field]" id="form-field-token_field" class="elementor-field elementor-size-sm  elementor-field-textual">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2669a54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2669a54" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-703748b" data-id="703748b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6b4eb03 elementor-widget elementor-widget-theme-post-content" data-id="6b4eb03" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
 <p class="wp-block-paragraph">Imagine entering a place where grace and peace coexist, and where the sound of soft water cascading over clear glass forms an enthralling sensory symphony. This is the appeal of glass fountain walls?a stunning combination of aesthetics and practicality that breathes new life into any setting.</p>
-
-
-
 <h2 class="wp-block-heading"><strong>The Enchantment of Transparent Water Walls</strong></h2>
-
-
-
 <p class="wp-block-paragraph">Transparency is the key component of a glass fountain wall, providing an unobstructed view of the water as it cascades and flows smoothly down the surface. These <a href="/bubble-walls/">transparent water walls</a>, in contrast to conventional barriers, provide an airy, welcoming space that invites you to take in the beauty of the flowing water and shimmering light.</p>
-
-
-
 <h2 class="wp-block-heading"><strong>Water and Light in Harmony: The Amazing Performance of Reflections</strong></h2>
-
-
-
 <p class="wp-block-paragraph">The way light interacts with glass fountain walls is one of their most intriguing aspects. The play of light on water produces a dynamic spectacle of reflections and refractions, whether the light is coming from a window or strategically positioned LED lights. This dynamic display gives the area depth and appeal, turning it into a living piece of art.</p>
-
-
-
 <h2 class="wp-block-heading"><strong>Tailoring Glass Fountain Walls to Your Vision</strong></h2>
-
-
-
 <p class="wp-block-paragraph">Since <a href="/bubble-tubes/">glass fountain walls</a> can be tailored to fit your particular location and decor, no two are alike. The options are unlimited, ranging from simple, contemporary designs to complex patterns and textures. Glass fountain walls have exceptional visual appeal and versatility, making them ideal for commercial settings, whether you&#8217;re trying to improve a garden or create a magnificent focal point.</p>
-
-
-
 <h2 class="wp-block-heading"><strong>The Soothing Soundtrack of Cascading Water</strong></h2>
-
-
-
 <p class="wp-block-paragraph">Glass fountain walls offer more than just stunning visuals; they also have wonderful sounds. The soft sound of water trickling down the glass surface provides a serene atmosphere that encourages attention and relaxation. Glass Waterfall are an incredibly immersive addition to any setting because of this audio experience, which adds another level of sensory enjoyment.</p>
-
-
-
 <h2 class="wp-block-heading"><strong>The Importance of Professional Design</strong></h2>
-
-
-
 <p class="wp-block-paragraph">When thinking about installing a wall of glass fountains, working with skilled designers and artisans is essential. They may assist in transforming your idea into a magnificent reality while considering safety precautions, maintenance requirements, lighting effects, and water flow into account. Your glass fountain wall can become a seamless combination of style and utility with professional assistance.</p>
-
-
-
 <h2 class="wp-block-heading"><strong>The Bottom Line</strong></h2>
-
-
-
 <p class="wp-block-paragraph">Glass fountain walls are more than simply aesthetic accents; they are a wonderful fusion of creativity and functionality. Glass fountain walls are a striking feature that captivates anybody who sees them, whether they are used to decorate a waiting area, a business lobby, or a public area. Select from Midwest Tropical&#8217;s finest offerings!</p>
-</div></div></main>
-
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
 		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/water-walls-in-modern-interiors-why-businesses-are-choosing-custom-water-walls/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Water Walls in Modern Interiors – Why Businesses Are Choosing Custom Water Walls</span></a></li><li><a href="/water-walls-as-statement-features-in-boutique-hotels/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Water Walls as Statement Features in Boutique Hotels</span></a></li><li><a href="/top-design-trends-using-water-walls-and-custom-water-walls/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Top Design Trends Using Water Walls and Custom Water Walls</span></a></li><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/glass-water-features/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Glass Water Walls</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
 					<div class="jetpack-instant-search__widget-area" style="display: none">
 					</div>

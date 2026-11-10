@@ -225,234 +225,162 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=c36c552c">
-<link rel="stylesheet" href="/assets/css/b-2ebd9ed713.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=9a8c9807">
-<script src="/assets/js/main.js?v=55fd0cd6" defer></script>
+<link rel="stylesheet" href="/assets/css/core.css?v=16b2469a">
+<link rel="stylesheet" href="/assets/css/b-63b8ea4ffd.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=1c95f831">
+<script src="/assets/js/main.js?v=da22870a" defer></script>
 </head>
 <body class="wp-singular post-template-default single single-post postid-127146 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
-<main id="content" class="site-main post mt-article"><div class="page-header"><h1 class="entry-title">Bring Tranquility Home with a Stunning Custom Water Feature</h1></div><div class="page-content"><p class="mt-article-meta"><time datetime="2025-04-08T22:36:00">April 8, 2025</time></p><figure class="mt-article-hero"><img src="/wp-content/uploads/Custom-water-Feature.png" srcset="/wp-content/uploads/Custom-water-Feature-768x512.png 768w, /wp-content/uploads/Custom-water-Feature-800x533.png 800w, /wp-content/uploads/Custom-water-Feature-100x100.png 100w, /wp-content/uploads/Custom-water-Feature-150x100.png 150w, /wp-content/uploads/Custom-water-Feature-300x200.png 300w, /wp-content/uploads/Custom-water-Feature-380x253.png 380w, /wp-content/uploads/Custom-water-Feature-480x320.png 480w, /wp-content/uploads/Custom-water-Feature-640x427.png 640w, /wp-content/uploads/Custom-water-Feature-768x512.png 768w, /wp-content/uploads/Custom-water-Feature-1024x683.png 1024w, /wp-content/uploads/Custom-water-Feature.png 1200w" sizes="(max-width: 900px) 100vw, 860px" width="1200" height="800" alt="Bring Tranquility Home with a Stunning Custom Water Feature" fetchpriority="high" decoding="async"></figure><div class="mt-article-body">
+				<div data-elementor-type="single-post" data-elementor-id="103796" class="elementor elementor-103796 elementor-location-single post-127146 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-custom-water-feature" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-ab0cdb0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab0cdb0" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-51f7b0b" data-id="51f7b0b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f77f881 elementor-widget elementor-widget-text-editor" data-id="f77f881" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+									<h1>Bring Tranquility Home with a Stunning Custom Water Feature</h1>								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f6b5f68" data-id="f6b5f68" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e43fe8a elementor-button-align-stretch elementor-widget elementor-widget-global elementor-global-98585 elementor-widget-form" data-id="e43fe8a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+							<form class="elementor-form" method="post" name="New Form" aria-label="New Form">
+			<input type="hidden" name="post_id" value="103796"/>
+			<input type="hidden" name="form_id" value="e43fe8a"/>
+			<input type="hidden" name="referer_title" value="Custom Water Features By Midwest Tropical To Transform Sp" />
+							<input type="hidden" name="queried_id" value="127146"/>
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_48200c8 elementor-col-100">
+					<h3 style="font-size:17px;">Get A Free Water Feature Consultation & Price Estimate:</h3>				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
+												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
+								Name							</label>
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_3d7442a elementor-col-50">
+												<label for="form-field-field_3d7442a" class="elementor-field-label elementor-screen-only">
+								Company							</label>
+														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
+											</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
+												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
+								Email							</label>
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_30844ce elementor-col-50 elementor-field-required">
+												<label for="form-field-field_30844ce" class="elementor-field-label elementor-screen-only">
+								Phone							</label>
+														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required">
+											</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_a9d1d36 elementor-col-100">
+												<label for="form-field-field_a9d1d36" class="elementor-field-label elementor-screen-only">
+								Project Address							</label>
+						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+												<label for="form-field-message" class="elementor-field-label elementor-screen-only">
+								Information							</label>
+						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
+								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-field_8f21363 elementor-col-100">
+							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm  elementor-upload-field">
+						</div>
+								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-token_field elementor-col-100">
+													<input size="1" type="hidden" name="form_fields[token_field]" id="form-field-token_field" class="elementor-field elementor-size-sm  elementor-field-textual">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2669a54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2669a54" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-703748b" data-id="703748b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d22e79f elementor-widget elementor-widget-image" data-id="d22e79f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+															<img decoding="async" width="1200" height="800" src="/wp-content/uploads/Custom-water-Feature.png" class="attachment-large size-large wp-image-127147" alt="" srcset="/wp-content/uploads/Custom-water-Feature-100x100.png 100w, /wp-content/uploads/Custom-water-Feature-150x100.png 150w, /wp-content/uploads/Custom-water-Feature-300x200.png 300w, /wp-content/uploads/Custom-water-Feature-380x253.png 380w, /wp-content/uploads/Custom-water-Feature-480x320.png 480w, /wp-content/uploads/Custom-water-Feature-640x427.png 640w, /wp-content/uploads/Custom-water-Feature-768x512.png 768w, /wp-content/uploads/Custom-water-Feature-800x533.png 800w, /wp-content/uploads/Custom-water-Feature-1024x683.png 1024w, /wp-content/uploads/Custom-water-Feature.png 1200w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
+				<div class="elementor-element elementor-element-6b4eb03 elementor-widget elementor-widget-theme-post-content" data-id="6b4eb03" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-content.default">
 <p class="wp-block-paragraph">There’s something about the gentle sound of water that instantly puts us at ease. Whether it’s a babbling brook or a trickling fountain, water calms the mind and soothes the senses.</p>
-
-
-
 <p class="wp-block-paragraph">In home design, you can bring this sense of peace indoors—or right to your backyard—with a <a href="/">custom water feature</a>. More than just decoration, these elements change your space into a sanctuary that feels peaceful, grounded, and entirely your own. Let’s talk about how you can bring tranquility home with stunning <a href="/">custom water features</a>.</p>
-
-
-
 <h2 class="wp-block-heading"><strong>Why Water Features Add Tranquility</strong></h2>
-
-
-
 <p class="wp-block-paragraph">When people talk about creating a calming environment, flowing water often tops the list—and for good reason:</p>
-
-
-
 <ul class="wp-block-list">
 <li>The sound of running water masks background noise, replacing it with natural white noise.</li>
-
-
-
 <li>Water connects us to nature, encouraging relaxation and reducing daily stress.</li>
-
-
-
 <li>The visual movement of water adds a sense of flow and balance to your space.</li>
-
-
-
 <li>Just watching the water ripple can ease anxiety and promote mindfulness.</li>
 </ul>
-
-
-
 <p class="wp-block-paragraph">Whether inside or out, a water feature becomes a daily reminder to slow down and breathe.</p>
-
-
-
 <h3 class="wp-block-heading"><strong>What Makes It “Custom”?</strong></h3>
-
-
-
 <p class="wp-block-paragraph">When you hear the term custom water feature, it means your design isn’t limited by standard shapes or materials. You get something that suits your style, your space, and your personality:</p>
-
-
-
 <ul class="wp-block-list">
 <li>Choose materials like glass, copper, or stainless steel.</li>
-
-
-
 <li>Adjust the size to fit a cozy corner or a large entryway.</li>
-
-
-
 <li>Add lights, plant life, or architectural accents.</li>
-
-
-
 <li>Decide whether you want an indoor or outdoor installation—or both.</li>
 </ul>
-
-
-
 <p class="wp-block-paragraph">Customization means your water feature will never feel like an afterthought. It becomes a statement that reflects your vision and complements your surroundings.</p>
-
-
-
 <h3 class="wp-block-heading"><strong>Types of Custom Water Features</strong></h3>
-
-
-
 <p class="wp-block-paragraph">There’s a wide range of styles to explore, each offering a unique feel:</p>
-
-
-
 <ul class="wp-block-list">
 <li><strong>Wall-mounted water fountains</strong>: Perfect for indoor spaces or small patios.</li>
-
-
-
 <li><strong>Freestanding waterfall installations</strong>: Ideal for open spaces and dramatic backdrops.</li>
-
-
-
 <li><strong>Bubbling rock fountains</strong>: Great for adding sound and texture to a garden.</li>
-
-
-
 <li><strong>Modern glass water walls</strong>: Sleek and striking, perfect for contemporary designs.</li>
-
-
-
 <li><strong>Koi ponds and bridges</strong>: Add life, movement, and whimsy to outdoor spaces.</li>
 </ul>
-
-
-
 <p class="wp-block-paragraph">Each one brings a different energy and you can customize all to suit your layout and lifestyle.</p>
-
-
-
 <h3 class="wp-block-heading"><strong>Design Inspiration &amp; Placement Ideas</strong></h3>
-
-
-
 <p class="wp-block-paragraph">Not sure where to begin? Here are some thoughtful placements and uses:</p>
-
-
-
 <ul class="wp-block-list">
 <li><strong>Entryway elegance</strong>: Greet guests with a water feature that sets a calm, welcoming tone.</li>
-
-
-
 <li><strong>Backyard zen garden</strong>: Create a meditative corner where you can relax and recharge.</li>
-
-
-
 <li><strong>Patio centerpiece</strong>: Use a freestanding design to anchor your outdoor furniture setup.</li>
-
-
-
 <li><strong>Indoor relaxation corner</strong>: Pair your fountain with a comfy chair and a good book.</li>
-
-
-
 <li><strong>Spa-like bathroom addition</strong>: Bring luxury and tranquility to your daily routine.</li>
 </ul>
-
-
-
 <h3 class="wp-block-heading"><strong>Choosing the Right Professionals</strong></h3>
-
-
-
 <p class="wp-block-paragraph">Building a custom water feature requires more than artistic flair. You want a team that understands both design and functionality:</p>
-
-
-
 <ul class="wp-block-list">
 <li>Ask about their experience with similar projects.</li>
-
-
-
 <li>Make sure they can recommend the right materials for your environment.</li>
-
-
-
 <li>Check if they offer maintenance guidance after installation.</li>
 </ul>
-
-
-
 <p class="wp-block-paragraph">Working with the right team ensures your vision is realized and that your water feature performs beautifully for years to come.</p>
-
-
-
 <h3 class="wp-block-heading"><strong>Maintenance &amp; Longevity</strong></h3>
-
-
-
 <p class="wp-block-paragraph">These features are more durable than many people think, especially with proper care:</p>
-
-
-
 <ul class="wp-block-list">
 <li>Keep an eye on water levels and clean out debris regularly.</li>
-
-
-
 <li>Periodically check the pump and filter for blockages.</li>
-
-
-
 <li>Winterize outdoor fountains in colder climates.</li>
 </ul>
-
-
-
 <p class="wp-block-paragraph">With a little maintenance, your feature will continue to bring joy and tranquility for many seasons.</p>
-
-
-
 <h3 class="wp-block-heading"><strong>Budgeting &amp; Investment Benefits</strong></h3>
-
-
-
 <p class="wp-block-paragraph">Prices vary depending on the design, size, and materials used—but the value goes beyond dollars:</p>
-
-
-
 <ul class="wp-block-list">
 <li>Custom features often increase home value.</li>
-
-
-
 <li>They create a memorable first impression for guests or buyers.</li>
-
-
-
 <li>Compared to mass-produced items, custom designs offer better longevity and uniqueness.</li>
 </ul>
-
-
-
 <h3 class="wp-block-heading"><strong>To Summarize</strong></h3>
-
-
-
 <p class="wp-block-paragraph">Peace, beauty, and calm don’t need to wait for your next vacation; they can start right at home. A custom water feature brings nature’s tranquility into your space in a personal, lasting way.</p>
-
-
-
 <p class="wp-block-paragraph">Whether you’re dreaming of a sleek indoor wall fountain or a lush garden pond, there’s a design that’s just right for you. Start designing your tranquil space today with Midwest Tropical—your experts in creating custom water features that feel just right. Feel free to reach out to us and start discussing your vision today.</p>
-</div></div></main>
-
-		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/turning-empty-walls-into-living-art-with-a-custom-water-feature/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Turning Empty Walls into Living Art with a Custom Water Feature</span></a></li><li><a href="/bring-your-vision-to-life-with-a-one-of-a-kind-water-feature/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Bring Your Vision to Life with a One-of-a-Kind Water Feature</span></a></li><li><a href="/why-custom-water-features-are-perfect-for-creating-a-peaceful-atmosphere/"><span class="mtx-related__img"><img decoding="async" src="/wp-content/uploads/27-02-20255-768x512.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Why Custom Water Features Are Perfect for Creating a Peaceful Atmosphere</span></a></li><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" fetchpriority="high" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/glass-water-features/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Glass Water Walls</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/turning-empty-walls-into-living-art-with-a-custom-water-feature/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Turning Empty Walls into Living Art with a Custom Water Feature</span></a></li><li><a href="/bring-your-vision-to-life-with-a-one-of-a-kind-water-feature/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Bring Your Vision to Life with a One-of-a-Kind Water Feature</span></a></li><li><a href="/why-custom-water-features-are-perfect-for-creating-a-peaceful-atmosphere/"><span class="mtx-related__img"><img decoding="async" fetchpriority="high" src="/wp-content/uploads/27-02-20255-768x512.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Why Custom Water Features Are Perfect for Creating a Peaceful Atmosphere</span></a></li><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/glass-water-features/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Glass Water Walls</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
 					<div class="jetpack-instant-search__widget-area" style="display: none">
 					</div>
 		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />

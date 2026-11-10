@@ -145,6 +145,8 @@ print("missing media files:", len(missing), "| <source> tags dropped (fallback t
 
 # sitemap.xml – same URLs as the WordPress sitemaps
 urls = open(os.path.join(OUT, "includes", "urls.txt"), encoding="utf-8").read().split()
+# same set as the live sitemaps: archive / pagination pages exist but are not listed there
+urls = [u for u in urls if not re.match(r"^/(shop/page/|product-category/|tag/|category/)", u)]
 xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
 for u in urls:
     p = os.path.join(OUT, u.strip("/"), "index.php")

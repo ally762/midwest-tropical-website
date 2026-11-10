@@ -6,6 +6,11 @@ site/wp-content/grand-media/
 # Browser-upload bundle (only needed when uploading through github.com in Chrome)
 GitHub-Upload/
 
+# Download cache for rebuilds + audit reports
+.cache/
+url-audit.txt
+content-audit.txt
+
 # Runtime / local files
 site/includes/form-submissions.log
 __pycache__/

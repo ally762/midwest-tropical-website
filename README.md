@@ -6,7 +6,7 @@ Open Graph and schema markup are the same as the live site, so SEO rankings carr
 
 | | |
 |---|---|
-| Pages | **1,261** (99 main pages · 478 blog posts · 685 portfolio/product pages) |
+| Pages | **1,263** in the sitemap (99 main pages · 481 blog posts · 684 portfolio/product pages) + 154 archive/pagination pages |
 | JavaScript | ~10 KB vanilla JS (was jQuery + Elementor + ~40 WordPress plugins) |
 | Server needs | PHP 7.4+ on Apache/LiteSpeed. No database. |
 
@@ -27,9 +27,26 @@ Open Graph and schema markup are the same as the live site, so SEO rankings carr
 - Mobile sideways scrolling fixed (accordions, button rows, mobile menu).
 - Exactly one H1 on every page.
 
-**Content restored**
-- All 477 blog posts render **empty** on the live site (broken post template). Their article text,
-  date and featured image were restored from the client's WordPress.
+**SEO / URLs**
+- Every URL in the live sitemaps (pages, posts, products) exists, with the same address, title,
+  meta description, canonical and schema. `sitemap.xml` lists the same URLs as the live sitemaps.
+- Archive pages linked from the site also exist: portfolio category (+ pages 2–76), shop pages
+  2–76, tag pages.
+- Same 301 redirects as the live site (`.htaccess`): `/waterwalls/` → `/water-walls/`,
+  `/contact-us-2/` → `/contact-us/`, the renamed wire-mesh page → its new URL, and every other
+  unknown URL → home page.
+- Text audit: every sentence of every live page is present in the build (`tools/audit_content.py`).
+
+**Bugs fixed that also exist on the live site**
+- Header "shaking" while scrolling near the top (top bar collapsed and re-opened in a loop).
+- Blog post titles were dark text on a dark photo; now white with a shadow.
+- Several blog posts had 3–5 H1 tags; each page now has exactly one H1.
+- `.tif` images (browsers can't display them) now use the JPG versions WordPress made.
+
+**Content restore (fallback)**
+- When this was built, the blog posts rendered empty on the live site; the build can restore article
+  text from WordPress (`tools/restore_posts.py`). The live template has since been fixed, so posts
+  now come straight from the live pages and the restore step only fills a post that is still empty.
 
 ## Folder structure
 
