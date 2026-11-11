@@ -43,10 +43,10 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=16b2469a">
-<link rel="stylesheet" href="/assets/css/b-7c534e1c37.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=1c95f831">
-<script src="/assets/js/main.js?v=da22870a" defer></script>
+<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/b-892ab58d4c.css">
+<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
+<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
 </head>
 <body class="home wp-singular page-template page-template-elementor_header_footer page page-id-31 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-31">
 <?php include __DIR__ . '/includes/header-ce8fb444.php'; ?>
@@ -57,6 +57,6 @@
 <p><a href="/" style="display:inline-block;padding:14px 28px;background:#3761A7;color:#fff;text-decoration:none;border-radius:3px">Back to Home</a>
 &nbsp; <a href="/request-a-quote/" style="display:inline-block;padding:14px 28px;border:2px solid #3761A7;color:#3761A7;text-decoration:none;border-radius:3px">Request a Quote</a></p>
 </main>
-<?php include __DIR__ . '/includes/footer-976303bd.php'; ?><?php include __DIR__ . '/includes/popup-8c9eb8e8.php'; ?>
+<?php include __DIR__ . '/includes/footer-0fe06582.php'; ?><?php include __DIR__ . '/includes/popup-8c9eb8e8.php'; ?>
 </body>
 </html>

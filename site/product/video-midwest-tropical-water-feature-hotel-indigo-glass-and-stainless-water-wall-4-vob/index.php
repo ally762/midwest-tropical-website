@@ -223,10 +223,10 @@ Call us at 847-679-6666 or  for the best price, quality and experience on your i
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=16b2469a">
+<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
 <link rel="stylesheet" href="/assets/css/b-378b33ab50.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=1c95f831">
-<script src="/assets/js/main.js?v=da22870a" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
+<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
 </head>
 <body class="wp-singular product-template-default single single-product postid-100797 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce woocommerce-page woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page-118933">
 
@@ -238,7 +238,7 @@ Call us at 847-679-6666 or  for the best price, quality and experience on your i
 				<div class="elementor-element elementor-element-30ac0f8d elementor-widget__width-initial elementor-widget elementor-widget-woocommerce-product-images" data-id="30ac0f8d" data-element_type="widget" data-e-type="widget" data-widget_type="woocommerce-product-images.default">
 					<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
 	<div class="woocommerce-product-gallery__wrapper">
-		<div data-thumb="/wp-content/uploads/narbd1_wvu4hqdefault-jpg-100x100.avif" data-thumb-alt="Video Midwest Tropical Water Feature - Hotel Indigo, glass and stainless water wall (4).VOB" data-thumb-srcset=""  data-thumb-sizes="(max-width: 100px) 100vw, 100px" class="woocommerce-product-gallery__image"><a href="/wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif"><img decoding="async" width="480" height="360" src="/wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif" class="wp-post-image" alt="Video Midwest Tropical Water Feature - Hotel Indigo, glass and stainless water wall (4).VOB" data-caption="" data-src="/wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif" data-large_image="/wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif" data-large_image_width="480" data-large_image_height="360" srcset="/wp-content/uploads/narbd1_wvu4hqdefault-jpg-100x100.avif 100w, /wp-content/uploads/narbd1_wvu4hqdefault-300x225.avif 300w, /wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif 480w" sizes="(max-width: 480px) 100vw, 480px" title="Video Midwest Tropical Water Feature &#8211; Hotel Indigo, glass and stainless water wall (4).VOB" /></a></div>	</div>
+		<div data-thumb="/wp-content/uploads/narbd1_wvu4hqdefault-jpg-100x100.avif" data-thumb-alt="Video Midwest Tropical Water Feature - Hotel Indigo, glass and stainless water wall (4).VOB" data-thumb-srcset=""  data-thumb-sizes="(max-width: 100px) 100vw, 100px" class="woocommerce-product-gallery__image"><a href="/wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif"><img decoding="async" width="480" height="360" src="/wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif" class="wp-post-image" alt="Video Midwest Tropical Water Feature - Hotel Indigo, glass and stainless water wall (4).VOB" data-caption="" src="/wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif" data-large_image="/wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif" data-large_image_width="480" data-large_image_height="360" srcset="/wp-content/uploads/narbd1_wvu4hqdefault-jpg-100x100.avif 100w, /wp-content/uploads/narbd1_wvu4hqdefault-300x225.avif 300w, /wp-content/uploads/narbd1_wvu4hqdefault-jpg.avif 480w" sizes="(max-width: 480px) 100vw, 480px" title="Video Midwest Tropical Water Feature &#8211; Hotel Indigo, glass and stainless water wall (4).VOB" /></a></div>	</div>
 </div>
 				</div>
 				<div class="elementor-element elementor-element-656a042 elementor-widget elementor-widget-woocommerce-product-data-tabs" data-id="656a042" data-element_type="widget" data-e-type="widget" data-widget_type="woocommerce-product-data-tabs.default">

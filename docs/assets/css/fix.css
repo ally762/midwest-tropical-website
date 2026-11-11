@@ -53,9 +53,12 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
  .site-main .page-header{margin-bottom:32px;min-height:70px}
 }
 
-/* 5b. Product (portfolio) pages: title used a different font (Abel, bold) -> site standard */
-:is(.product_title,.elementor-widget-woocommerce-product-title .elementor-heading-title,.single-product h1){font-family:"Quicksand",sans-serif!important;font-weight:300!important;color:var(--mt-ink)!important;letter-spacing:-.4px}
-.single-product :is(.woocommerce-product-details__short-description,.woocommerce-Tabs-panel) :is(p,li){font-family:"Quicksand",sans-serif;font-size:16px;line-height:1.65;color:var(--mt-text)}
+/* 5b. Product (portfolio) pages: keep the live design (title and description as on the live site) */
+/* product gallery thumbnails (built by main.js, same look as WooCommerce flexslider on the live site) */
+.woocommerce-product-gallery .flex-control-thumbs{display:flex;flex-wrap:wrap;list-style:none;margin:0;padding:0;overflow:hidden}
+.woocommerce-product-gallery .flex-control-thumbs li{width:25%;margin:0;list-style:none}
+.woocommerce-product-gallery .flex-control-thumbs img{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;cursor:pointer;opacity:.5;transition:opacity .2s;margin:0}
+.woocommerce-product-gallery .flex-control-thumbs img.flex-active,.woocommerce-product-gallery .flex-control-thumbs img:hover{opacity:1}
 
 /* 5c. Blog post hero (live single-post template): dark title on a dark photo was unreadable -> white + shadow */
 [data-elementor-type="single-post"] .elementor-element-ab0cdb0 h1,
@@ -83,12 +86,22 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
 .mt-article-body::after{content:"";display:table;clear:both}
 @media (max-width:767px){.mt-article-meta{margin-top:-18px!important}.mt-article-body :is(.alignleft,.alignright){float:none;margin:16px auto}}
 
+/* Live custom CSS gives every section from the 3rd one "content-visibility:auto" with a guessed
+   height of 720px. Sections are drawn only when scrolled near, then jump to their real height ->
+   the page and scrollbar jump while scrolling. Draw them normally (our pages are light enough). */
+.elementor>section.elementor-top-section,.elementor>div.e-con.e-parent{content-visibility:visible!important;contain-intrinsic-size:none!important}
+
 /* live site removes this via JS */
 #mt-native-call-btn{display:none!important}
 
 /* Desktop nav: submenus on hover (SmartMenus replacement) */
 .elementor-nav-menu--main .elementor-nav-menu li{position:relative}
 .elementor-nav-menu--main .elementor-nav-menu ul.sub-menu{display:none;position:absolute;top:100%;left:0;min-width:12em;z-index:1000}
+/* live site sizes submenus with JS (SmartMenus: auto width, 10–20em); Elementor's CSS alone gives a
+   fixed narrow width that cut off "Vertical Chamber Bubble Walls" etc. */
+.elementor-nav-menu--main .elementor-nav-menu ul.sub-menu{width:max-content!important;max-width:22em!important;min-width:12em!important}
+/* normal names stay on one line (menu is max-content wide); very long ones wrap instead of being cut */
+.elementor-nav-menu--main .elementor-nav-menu ul.sub-menu a{white-space:normal}
 .elementor-nav-menu--main .elementor-nav-menu ul.sub-menu ul.sub-menu{top:0;left:100%}
 .elementor-nav-menu--main .elementor-nav-menu li:hover>ul.sub-menu,.elementor-nav-menu--main .elementor-nav-menu li:focus-within>ul.sub-menu{display:block}
 .elementor-nav-menu .sub-arrow{display:inline-flex;align-items:center;padding-left:6px;line-height:1}
@@ -110,6 +123,12 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
 .mt-modal-box{position:relative;width:640px;max-width:100%;max-height:92vh;overflow:auto;background:#fff;border-radius:4px}
 .mt-modal-x{position:absolute;top:6px;right:10px;z-index:2;font-size:28px;line-height:1;color:#333;cursor:pointer;text-decoration:none}
 .mt-noscroll{overflow:hidden}
+
+/* Video gallery popup (videos page) */
+[data-tsvg-src]{cursor:pointer}
+.mt-video-box{position:relative;width:min(960px,92vw);aspect-ratio:16/9;background:#000}
+.mt-video-box iframe,.mt-video-box video{display:block;width:100%;height:100%;border:0}
+.mt-video-box .mt-modal-x{position:absolute;top:-40px;right:0;font-size:34px;line-height:1;color:#fff;background:none;border:0;cursor:pointer}
 
 /* Lightbox */
 .mt-lightbox-box{position:fixed;inset:0;z-index:10000;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,.9);padding:20px;cursor:zoom-out}
@@ -142,7 +161,7 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
 
 /* custom accordions (HTML widgets): theme sets button{white-space:nowrap}, long titles pushed the page sideways */
 .accordion button{white-space:normal;word-wrap:break-word}
-.accordion button .accordion-title{display:inline-block;max-width:100%}
+.accordion button .accordion-title{max-width:100%}
 .elementor-nav-menu--dropdown a{white-space:normal}
 .elementor-nav-menu--dropdown .sub-arrow{flex-shrink:0}
 

@@ -193,8 +193,17 @@ def latin_only(css):
     return re.sub(r"(?:/\*[^*]*\*/\s*)?@font-face\s*{[^}]*}", ff, css)
 
 
+TWO_LAZY_BG = re.compile(r"""url\(\s*(['"]?)data:image/svg\+xml[^)]*?#\}\s*(https?://[^)'"\s]+)\s*\1\s*\)""", re.I)
+
+
+def real_backgrounds(css):
+    """10Web Booster lazy backgrounds: url(data:svg-placeholder#}REAL-URL) is swapped by its JS.
+    We don't ship that JS, so use the real image URL directly (also keeps CSS parsable)."""
+    return TWO_LAZY_BG.sub(lambda m: f"url({m.group(2)})", css)
+
+
 def process_css(css, base_url):
-    css = latin_only(woff2_only(css))
+    css = latin_only(woff2_only(real_backgrounds(css)))
 
     def rep(m):
         raw = m.group(1).strip().strip("'\"")
@@ -277,7 +286,9 @@ def make_bundle(parts):
             body.append(f"@media {media}{{{css}}}")
         else:
             body.append(css)
-    joined = css_minify("\n".join(body))
+    joined = css_minify(real_backgrounds("\n".join(body)))
+    # placeholders that only become visible after minifying (whitespace/quotes inside url())
+    joined = real_backgrounds(joined)
     # @charset/@import must be first: hoist
     imports = re.findall(r"@import[^;]+;", joined)
     joined = re.sub(r"@charset[^;]+;|@import[^;]+;", "", joined)
@@ -355,6 +366,35 @@ def gmedia_fix(body):
     return body
 
 
+def unlazy(body):
+    """10Web Booster lazy-load: <img src="data:svg placeholder" data-src=REAL data-srcset=... class="lazy">
+    (also <source data-srcset>, <iframe data-src>). Without its JS the images stay empty, so put the
+    real URLs back; the browser's own loading="lazy" (added later) keeps it fast."""
+    def img(m):
+        tag = m.group(0)
+        ds = re.search(r'\sdata-src=(["\'])(.*?)\1', tag)
+        if not ds:
+            return tag
+        tag = re.sub(r"""\ssrc=(["'])data:image/[^"']*\1""", "", tag)
+        tag = tag.replace(ds.group(0), f' src="{ds.group(2)}"')
+        tag = re.sub(r'\sdata-(srcset|sizes)=(["\'])', r' \1=\2', tag)
+        tag = re.sub(r'(class=["\'][^"\']*?)\s*\blazy\b', r"\1", tag)
+        return tag
+
+    body = re.sub(r"<img\b[^>]*\bdata-src=[^>]*>", img, body)
+    body = re.sub(r"(<source\b[^>]*?)\sdata-srcset=", r"\1 srcset=", body)
+    # the site's own "mt-page-cache" deferral: an empty <img class="mt-pc-deferred"> (no src), optionally in a
+    # <picture> with an empty <source>, followed by <noscript> holding the real image -> use the real one
+    body = re.sub(
+        r"(?:<picture>\s*(?:<source\b[^>]*>\s*)*<img\b[^>]*\bmt-pc-deferred\b[^>]*>\s*</picture>|<img\b[^>]*\bmt-pc-deferred\b[^>]*>)"
+        r"\s*<noscript>(.*?)</noscript>",
+        lambda m: m.group(1), body, flags=re.S | re.I)
+    # 10Web also keeps a second copy of every lazy image in <noscript> for no-JS visitors;
+    # the real image is in the page now, so drop the duplicate (smaller HTML)
+    body = re.sub(r"<noscript>\s*(?:<img\b[^>]*>\s*)+</noscript>", "", body, flags=re.I)
+    return body
+
+
 def clean_body(body):
     # keep ld+json + zoho validation scripts, drop all other scripts
     def script_rep(m):
@@ -372,6 +412,7 @@ def clean_body(body):
         return ""
 
     body = re.sub(r"<script\b[^>]*>.*?</script>", script_rep, body, flags=re.S | re.I)
+    body = unlazy(real_backgrounds(body))
     body = gmedia_fix(body)
     body = re.sub(r"<noscript>\s*<iframe[^>]*googletagmanager.*?</noscript>", "", body, flags=re.S | re.I)
     body = re.sub(r"<a [^>]*cdn-cgi/content[^>]*></a>", "", body)

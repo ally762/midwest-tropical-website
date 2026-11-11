@@ -226,10 +226,10 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=16b2469a">
+<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
 <link rel="stylesheet" href="/assets/css/b-63b8ea4ffd.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=1c95f831">
-<script src="/assets/js/main.js?v=da22870a" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
+<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
 </head>
 <body class="wp-singular post-template-default single single-post postid-75605 single-format-gallery wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
 

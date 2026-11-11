@@ -50,6 +50,49 @@ def add_title_band(t):
     return t[: m.end(1)] + band + t[m.start(2):]
 
 
+# Gallery / portfolio filters: on the live site the cards carry no category classes, so every filter
+# button shows nothing. Each product page knows its tags: copy them onto the matching card (same post-ID)
+# as mt-tag-<slug> classes; main.js filters by those.
+tags_by_id = {}
+prod_dir = os.path.join(OUT, "product")
+if os.path.isdir(prod_dir):
+    for slug in os.listdir(prod_dir):
+        f = os.path.join(prod_dir, slug, "index.php")
+        if not os.path.exists(f):
+            continue
+        t = open(f, encoding="utf-8", errors="replace").read()
+        m = re.search(r'class="[^"]*\bpost-(\d+)\b[^"]*\btype-product\b([^"]*)"', t)
+        if m:
+            tags_by_id[m.group(1)] = sorted(set(re.findall(r"product_tag-([\w-]+)", m.group(0))))
+
+
+def tag_cards(t):
+    def rep(m):
+        cls = m.group(1)
+        if "mt-tag-" in cls:  # already tagged (finalize can run more than once)
+            return m.group(0)
+        pid = re.search(r"\bpost-(\d+)\b", cls)
+        tags = tags_by_id.get(pid.group(1), []) if pid else []
+        extra = " ".join("mt-tag-" + s for s in tags)
+        return f'<article class="{cls}{(" " + extra) if extra else ""}"'
+    return re.sub(r'<article class="(elementor-portfolio-item[^"]*)"', rep, t)
+
+
+tagged_pages = 0
+for dp, dn, fn in os.walk(OUT):
+    if os.sep + "wp-content" in dp or os.sep + "assets" in dp:
+        continue
+    for f in fn:
+        if f == "index.php":
+            p = os.path.join(dp, f)
+            t = open(p, encoding="utf-8", errors="replace").read()
+            if "elementor-portfolio-item" in t:
+                n = tag_cards(t)
+                if n != t:
+                    open(p, "w", encoding="utf-8").write(n)
+                    tagged_pages += 1
+print("portfolio cards tagged on", tagged_pages, "pages (", len(tags_by_id), "products with tags )")
+
 # preload the main text font (Quicksand, latin) so the first paint already uses it
 preload = ""
 core = os.path.join(OUT, "assets", "css", "core.css")

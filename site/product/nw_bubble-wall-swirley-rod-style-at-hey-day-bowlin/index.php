@@ -189,10 +189,10 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=16b2469a">
+<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
 <link rel="stylesheet" href="/assets/css/b-378b33ab50.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=1c95f831">
-<script src="/assets/js/main.js?v=da22870a" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
+<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
 </head>
 <body class="wp-singular product-template-default single single-product postid-133074 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce woocommerce-page woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page-118933">
 
@@ -204,7 +204,7 @@
 				<div class="elementor-element elementor-element-30ac0f8d elementor-widget__width-initial elementor-widget elementor-widget-woocommerce-product-images" data-id="30ac0f8d" data-element_type="widget" data-e-type="widget" data-widget_type="woocommerce-product-images.default">
 					<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
 	<div class="woocommerce-product-gallery__wrapper">
-		<div data-thumb="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin-100x100.avif" data-thumb-alt="NW Bubble Wall-Swirley Rod Style at Hey Day Bowlin" data-thumb-srcset=""  data-thumb-sizes="(max-width: 100px) 100vw, 100px" class="woocommerce-product-gallery__image"><a href="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif"><img decoding="async" width="620" height="541" src="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif" class="wp-post-image" alt="NW Bubble Wall-Swirley Rod Style at Hey Day Bowlin" data-caption="" data-src="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif" data-large_image="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif" data-large_image_width="620" data-large_image_height="541" srcset="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin-100x100.avif 100w, /wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif 620w" sizes="(max-width: 620px) 100vw, 620px" title="NW Bubble Wall-Swirley Rod Style at Hey Day Bowlin" /></a></div>	</div>
+		<div data-thumb="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin-100x100.avif" data-thumb-alt="NW Bubble Wall-Swirley Rod Style at Hey Day Bowlin" data-thumb-srcset=""  data-thumb-sizes="(max-width: 100px) 100vw, 100px" class="woocommerce-product-gallery__image"><a href="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif"><img decoding="async" width="620" height="541" src="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif" class="wp-post-image" alt="NW Bubble Wall-Swirley Rod Style at Hey Day Bowlin" data-caption="" src="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif" data-large_image="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif" data-large_image_width="620" data-large_image_height="541" srcset="/wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin-100x100.avif 100w, /wp-content/uploads/NW_Bubble-Wall-Swirley-Rod-Style-at-Hey-Day-Bowlin.avif 620w" sizes="(max-width: 620px) 100vw, 620px" title="NW Bubble Wall-Swirley Rod Style at Hey Day Bowlin" /></a></div>	</div>
 </div>
 				</div>
 				</div>

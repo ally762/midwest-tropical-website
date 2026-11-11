@@ -155,7 +155,9 @@
   /* ---------- posts / portfolio grids: image ratio cropping (Elementor posts handler) ---------- */
   $$('.elementor-posts-container').forEach(function (c) {
     var thumbs = $$('.elementor-post__thumbnail', c);
-    if (!thumbs.length || !parseFloat(getComputedStyle(thumbs[0]).paddingBottom)) return;
+    // only a real aspect-ratio box (padding-bottom = a % of the width) means "crop images to ratio";
+    // a small padding (e.g. 10px spacing on the gallery cards) must not trigger it
+    if (!thumbs.length || parseFloat(getComputedStyle(thumbs[0]).paddingBottom) < thumbs[0].offsetWidth * 0.2) return;
     c.classList.add('elementor-has-item-ratio');
     thumbs.forEach(function (t) {
       var img = t.querySelector('img'); if (!img) return;
@@ -168,6 +170,44 @@
   });
   /* masonry-free portfolio widget: show items (Elementor fades them in with JS) */
   $$('.elementor-portfolio-item, .elementor-portfolio .elementor-post').forEach(function (p) { p.style.opacity = 1; });
+
+  /* ---------- portfolio (gallery) category filter: cards carry mt-tag-<slug> classes (added at build) ---------- */
+  function slugify(s) { return s.toLowerCase().trim().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
+  $$('.elementor-widget-portfolio').forEach(function (w) {
+    var items = $$('.elementor-portfolio-item', w), btns = $$('.elementor-portfolio__filter', w);
+    items.forEach(function (i) { i.style.opacity = 1; });
+    btns.forEach(function (b) {
+      b.addEventListener('click', function () {
+        btns.forEach(function (x) { x.classList.toggle('elementor-active', x === b); });
+        var all = b.getAttribute('data-filter') === '__all', cls = 'mt-tag-' + slugify(b.textContent);
+        items.forEach(function (i) { i.style.display = all || i.classList.contains(cls) ? '' : 'none'; });
+      });
+      b.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); b.click(); } });
+    });
+  });
+
+  /* ---------- WooCommerce product gallery (replaces flexslider): big image + square thumbnail row ---------- */
+  $$('.woocommerce-product-gallery').forEach(function (g) {
+    var wrap = g.querySelector('.woocommerce-product-gallery__wrapper'); if (!wrap) return;
+    var slides = $$('.woocommerce-product-gallery__image', wrap);
+    g.style.opacity = 1;
+    if (slides.length < 2) return;
+    var ol = d.createElement('ol'); ol.className = 'flex-control-nav flex-control-thumbs';
+    function show(k) {
+      slides.forEach(function (s, j) { s.style.display = j === k ? 'block' : 'none'; s.classList.toggle('flex-active-slide', j === k); });
+      $$('img', ol).forEach(function (im, j) { im.classList.toggle('flex-active', j === k); });
+    }
+    slides.forEach(function (s, i) {
+      s.style.width = '100%';
+      var li = d.createElement('li'), im = d.createElement('img'), big = s.querySelector('img');
+      im.src = s.getAttribute('data-thumb') || (big && big.src) || '';
+      im.alt = s.getAttribute('data-thumb-alt') || (big && big.alt) || '';
+      im.width = 100; im.height = 100; im.loading = 'lazy';
+      im.addEventListener('click', function () { show(i); });
+      li.appendChild(im); ol.appendChild(li);
+    });
+    g.appendChild(ol); show(0);
+  });
 
   /* ---------- video widgets: lite YouTube / Vimeo / hosted ---------- */
   function ytId(u) { var m = /(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]{11})/.exec(u || ''); return m && m[1]; }
@@ -182,6 +222,24 @@
       var v = /vimeo\.com\/(?:video\/)?(\d+)/.exec(s.vimeo_url); if (v) box.innerHTML = '<iframe loading="lazy" src="https://player.vimeo.com/video/' + v[1] + '" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;inset:0;width:100%;height:100%;border:0"></iframe>';
     }
   });
+  /* ---------- "TS Video Gallery" tiles (videos page): play in a popup (replaces the plugin's JS) ---------- */
+  d.addEventListener('click', function (e) {
+    var li = e.target.closest('[data-tsvg-src]'); if (!li) return;
+    var src = li.getAttribute('data-tsvg-src'); if (!src) return;
+    e.preventDefault();
+    var id = ytId(src), m = d.createElement('div');
+    m.className = 'mt-modal mt-open mt-video-modal'; m.setAttribute('role', 'dialog'); m.setAttribute('aria-modal', 'true');
+    var player = id
+      ? '<iframe src="https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen title="Video"></iframe>'
+      : '<video src="' + src.replace(/"/g, '&quot;') + '" controls autoplay playsinline></video>';
+    m.innerHTML = '<div class="mt-video-box"><button class="mt-modal-x" aria-label="Close">&times;</button>' + player + '</div>';
+    function shut() { m.remove(); d.documentElement.classList.remove('mt-noscroll'); d.removeEventListener('keydown', esc); }
+    function esc(ev) { if (ev.key === 'Escape') shut(); }
+    m.addEventListener('click', function (ev) { if (ev.target === m || ev.target.closest('.mt-modal-x')) shut(); });
+    d.addEventListener('keydown', esc);
+    d.body.appendChild(m); d.documentElement.classList.add('mt-noscroll');
+  });
+
   // lazy-activate any YouTube iframes already in markup that were given data-src
   $$('iframe[data-src]').forEach(function (f) { f.src = f.getAttribute('data-src'); });
 

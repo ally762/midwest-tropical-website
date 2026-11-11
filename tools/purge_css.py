@@ -133,8 +133,21 @@ for f in os.listdir(cssdir):
         continue
     p = os.path.join(cssdir, f)
     src = open(p, encoding="utf-8").read()
-    items, _ = parse(src)
+    # hide url(...) and quoted strings while parsing: braces/commas inside them (e.g. data: URIs,
+    # content:"}") must not be treated as CSS structure
+    masked = []
+
+    def _mask(m):
+        masked.append(m.group(0))
+        return f"\x00{len(masked) - 1}\x00"
+
+    work = re.sub(r"url\((?:\"[^\"]*\"|'[^']*'|[^)]*)\)|\"(?:\\.|[^\"\\])*\"|'(?:\\.|[^'\\])*'", _mask, src)
+    items, _ = parse(work)
     out = emit(items)
+    out = re.sub(r"\x00(\d+)\x00", lambda m: masked[int(m.group(1))], out)
+    if len(out) < len(src) * 0.05 and len(src) > 50000:
+        print(f"  WARNING {f}: purge kept under 5% ({len(out)} of {len(src)} bytes) - keeping the original")
+        out = src
     # drop @keyframes / @font-face that are no longer referenced
     used_anims = set(re.findall(r"animation(?:-name)?\s*:\s*([\w-]+)", out))
     out = re.sub(r"@(?:-webkit-)?keyframes\s+([\w-]+)\s*{(?:[^{}]*{[^{}]*})*[^{}]*}",
