@@ -189,8 +189,8 @@
 <link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
 <link rel="stylesheet" href="/assets/css/b-f47cde53a3.css">
 <link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
-<link rel="stylesheet" href="/assets/css/fix.css?v=559c709a">
-<script src="/assets/js/main.js?v=f8804d43" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=770a7b31">
+<script src="/assets/js/main.js?v=48d7623d" defer></script>
 </head>
 <body class="wp-singular product-template-default single single-product postid-100656 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop mtshop-page mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page-118933">
 

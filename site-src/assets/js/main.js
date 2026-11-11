@@ -307,6 +307,12 @@
       var btn = f.querySelector('[type=submit]'); btn && (btn.disabled = true, btn.classList.add('elementor-form-waiting'));
       $$('.elementor-message', f).forEach(function (m) { m.remove(); });
       var fd = new FormData(f); fd.append('page_url', location.href); fd.append('page_title', d.title);
+      var labels = {};
+      $$('[name^="form_fields["]', f).forEach(function (el) {
+        var k = el.name.replace(/^form_fields\[|\]$|\]\[\]$/g, ''), lab = el.id && f.querySelector('label[for="' + el.id + '"]');
+        labels[k] = (lab && lab.textContent.trim()) || el.placeholder || '';
+      });
+      fd.append('field_labels', JSON.stringify(labels));
       fetch('/form-handler.php', { method: 'POST', body: fd, headers: { 'X-Requested-With': 'fetch' } })
         .then(function (r) { return r.json(); })
         .then(function (j) { msg(j && j.success, j && j.message); if (j && j.success) { f.reset(); if (j.redirect) location.href = j.redirect; } })
@@ -416,6 +422,119 @@
   if ('IntersectionObserver' in window) {
     var io = new IntersectionObserver(function (en) { en.forEach(function (x) { if (x.isIntersecting) { var s = settings(x.target), a = s._animation || s.animation; if (a && a !== 'none') x.target.classList.add('animated', a); io.unobserve(x.target); } }); }, { rootMargin: '0px 0px -10% 0px' });
     $$('[data-settings*="animation"]').forEach(function (el) { if (!el.closest('.swiper')) io.observe(el); });
+  }
+
+  /* ---------- PDF flipbook (catalog): pdf.js renders the pages, loaded only when the book is near ---------- */
+  $$('.mt-flipbook[data-pdf]').forEach(function (box) {
+    var src = box.getAttribute('data-pdf');
+    // demo on github.io: the live site sends no CORS header, so the PDF is copied next to the demo
+    var LIVE = 'https://www.midwest-tropical.com/';
+    if (src.indexOf(LIVE) === 0 && location.origin + '/' !== LIVE) src = SITE_BASE + src.slice(LIVE.length);
+    else if (/^\//.test(src)) src = SITE_BASE + src.slice(1);
+    var started = false;
+    function start() {
+      if (started) return; started = true;
+      box.classList.add('mt-fb-loading');
+      loadScript(SITE_BASE + 'assets/js/pdfjs/pdf.min.js').then(function () {
+        var lib = window.pdfjsLib; lib.GlobalWorkerOptions.workerSrc = SITE_BASE + 'assets/js/pdfjs/pdf.worker.min.js';
+        return lib.getDocument({ url: src }).promise;
+      }).then(function (pdf) { book(box, pdf, src); })
+        .catch(function () { box.classList.remove('mt-fb-loading'); box.classList.add('mt-fb-failed'); });
+    }
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (es) { if (es[0].isIntersecting) { io.disconnect(); start(); } }, { rootMargin: '400px' });
+      io.observe(box);
+    } else start();
+  });
+  function loadScript(u) {
+    return new Promise(function (ok, bad) { var s = d.createElement('script'); s.src = u; s.onload = ok; s.onerror = bad; d.head.appendChild(s); });
+  }
+  function book(box, pdf, src) {
+    var n = pdf.numPages, cur = 1, ratio = 1.414, cache = {}, title = box.getAttribute('data-title') || 'Catalog';
+    box.innerHTML =
+      '<div class="mt-fb-stage" tabindex="0" aria-label="' + esc(title) + ' - use the arrow keys to turn pages"><div class="mt-fb-spread"></div></div>' +
+      '<button type="button" class="mt-fb-arrow mt-fb-prev" aria-label="Previous page"></button>' +
+      '<button type="button" class="mt-fb-arrow mt-fb-next" aria-label="Next page"></button>' +
+      '<div class="mt-fb-bar">' +
+      '<button type="button" data-go="first" aria-label="First page">&#171;</button>' +
+      '<button type="button" data-go="prev" aria-label="Previous page">&#8249;</button>' +
+      '<span class="mt-fb-num" aria-live="polite"></span>' +
+      '<button type="button" data-go="next" aria-label="Next page">&#8250;</button>' +
+      '<button type="button" data-go="last" aria-label="Last page">&#187;</button>' +
+      '<a href="' + esc(src) + '" download aria-label="Download PDF" title="Download PDF">&#8681;</a>' +
+      '<button type="button" data-go="full" aria-label="Fullscreen" title="Fullscreen">&#9974;</button></div>';
+    var stage = box.querySelector('.mt-fb-stage'), spread = box.querySelector('.mt-fb-spread'), num = box.querySelector('.mt-fb-num');
+    box.classList.remove('mt-fb-loading'); box.classList.add('mt-fb-ready');
+    function two() { return stage.clientWidth >= 700; }
+    // two-page view: cover alone, then 2-3, 4-5 ...; one page at a time on phones
+    function pagesAt(p) {
+      if (!two() || p === 1) return [p];
+      var l = p % 2 ? p - 1 : p;
+      return l + 1 <= n ? [l, l + 1] : [l];
+    }
+    function render(p, w) {
+      var key = p + '@' + w;
+      if (cache[key]) return cache[key];
+      return (cache[key] = pdf.getPage(p).then(function (pg) {
+        var v0 = pg.getViewport({ scale: 1 }), dpr = Math.min(window.devicePixelRatio || 1, 2);
+        var v = pg.getViewport({ scale: w / v0.width * dpr });
+        var c = d.createElement('canvas'); c.width = Math.round(v.width); c.height = Math.round(v.height);
+        c.setAttribute('role', 'img'); c.setAttribute('aria-label', title + ' - page ' + p);
+        return pg.render({ canvasContext: c.getContext('2d'), viewport: v }).promise.then(function () { return c; });
+      }));
+    }
+    function size() {
+      var sw = stage.clientWidth, per = two() ? 2 : 1;
+      var w = Math.floor(sw / per), h = w * ratio, maxH = Math.max(420, Math.min(window.innerHeight - 140, 900));
+      if (h > maxH) { h = maxH; w = Math.floor(h / ratio); }
+      return Math.floor(w);
+    }
+    var token = 0;
+    function show(p, dir) {
+      p = Math.max(1, Math.min(n, p));
+      var ps = pagesAt(p), w = size(), t = ++token;
+      cur = ps[0];
+      num.textContent = (ps.length > 1 ? ps[0] + '-' + ps[1] : ps[0]) + ' / ' + n;
+      box.querySelector('.mt-fb-prev').disabled = cur <= 1;
+      box.querySelector('.mt-fb-next').disabled = ps[ps.length - 1] >= n;
+      spread.style.minHeight = Math.round(w * ratio) + 'px';
+      Promise.all(ps.map(function (q) { return render(q, w); })).then(function (cs) {
+        if (t !== token) return;
+        spread.innerHTML = '';
+        spread.className = 'mt-fb-spread' + (dir ? ' mt-fb-turn-' + dir : '') + (ps.length === 1 && two() ? ' mt-fb-single' : '');
+        cs.forEach(function (c) { var pg = d.createElement('div'); pg.className = 'mt-fb-page'; pg.style.width = w + 'px'; pg.appendChild(c); spread.appendChild(pg); });
+        // render the next spread in the background so turning feels instant
+        var nx = pagesAt(ps[ps.length - 1] + 1);
+        if (nx[0] <= n) nx.forEach(function (q) { render(q, w); });
+      });
+    }
+    function next() { var ps = pagesAt(cur); if (ps[ps.length - 1] < n) show(ps[ps.length - 1] + 1, 'next'); }
+    function prev() { if (cur > 1) show(two() ? (cur <= 3 ? 1 : cur - 2) : cur - 1, 'prev'); }
+    box.querySelector('.mt-fb-prev').onclick = prev;
+    box.querySelector('.mt-fb-next').onclick = next;
+    box.querySelector('.mt-fb-bar').addEventListener('click', function (e) {
+      var b = e.target.closest('[data-go]'); if (!b) return;
+      var g = b.getAttribute('data-go');
+      if (g === 'first') show(1, 'prev'); else if (g === 'last') show(n, 'next');
+      else if (g === 'prev') prev(); else if (g === 'next') next();
+      else if (g === 'full') { if (d.fullscreenElement) d.exitFullscreen(); else if (box.requestFullscreen) box.requestFullscreen(); }
+    });
+    stage.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowRight') { next(); e.preventDefault(); } else if (e.key === 'ArrowLeft') { prev(); e.preventDefault(); }
+    });
+    var sx = null;
+    stage.addEventListener('touchstart', function (e) { sx = e.touches[0].clientX; }, { passive: true });
+    stage.addEventListener('touchend', function (e) {
+      if (sx === null) return; var dx = e.changedTouches[0].clientX - sx; sx = null;
+      if (Math.abs(dx) > 40) (dx < 0 ? next : prev)();
+    });
+    stage.addEventListener('click', function (e) { // click right half = next, left half = previous
+      var r = stage.getBoundingClientRect(); (e.clientX - r.left > r.width / 2 ? next : prev)();
+    });
+    pdf.getPage(1).then(function (pg) { var v = pg.getViewport({ scale: 1 }); ratio = v.height / v.width; show(1); });
+    var rw = stage.clientWidth;
+    addEventListener('resize', function () { if (Math.abs(stage.clientWidth - rw) > 40) { rw = stage.clientWidth; cache = {}; show(cur); } });
+    d.addEventListener('fullscreenchange', function () { cache = {}; show(cur); });
   }
 
   /* ---------- analytics: loaded after first interaction (keeps page fast) ---------- */

@@ -147,6 +147,37 @@ for dp, dn, fn in os.walk(OUT):
                 lg_pages += 1
 print("project-gallery cards resized on", lg_pages, "pages")
 
+
+# PDF flipbook: the live site uses a flipbook plugin; replace its placeholder with our own viewer
+# (main.js + pdf.js). The plugin's PDF is the page's own .pdf link (the plugin options are not kept).
+def flipbook(t):
+    def rep(m):
+        before = t[: m.start()]
+        pdfs = re.findall(r'href="([^"]+\.pdf)"', before) or re.findall(r'href="([^"]+\.pdf)"', t)
+        if not pdfs:
+            return m.group(0)
+        src = pdfs[-1]
+        title = re.search(r'data-title="([^"]*)"', m.group(0))
+        title = title.group(1).replace("-", " ").title() if title else "Catalog"
+        return (f'<div class="mt-flipbook" data-pdf="{src}" data-title="{title}">'
+                f'<a class="mt-fb-fallback" href="{src}">Open the catalog (PDF)</a></div>')
+    return re.sub(r'<div class="_df_book[^"]*"[^>]*>\s*</div>', rep, t)
+
+
+fb_pages = 0
+for dp, dn, fn in os.walk(OUT):
+    if os.sep + "wp-content" in dp or os.sep + "assets" in dp:
+        continue
+    if "index.php" in fn:
+        p = os.path.join(dp, "index.php")
+        t = open(p, encoding="utf-8", errors="replace").read()
+        if "_df_book" in t:
+            n = flipbook(t)
+            if n != t:
+                open(p, "w", encoding="utf-8").write(n)
+                fb_pages += 1
+print("pdf flipbooks on", fb_pages, "pages")
+
 tagged_pages = 0
 for dp, dn, fn in os.walk(OUT):
     if os.sep + "wp-content" in dp or os.sep + "assets" in dp:

@@ -153,6 +153,15 @@ if os.path.exists(_sj):
     json.dump(rows, open(_sj, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 open(os.path.join(OUT, ".nojekyll"), "w").close()  # serve files as-is (no Jekyll processing)
 
+# PDF flipbooks read the PDF with fetch(); the live site sends no CORS header, so copy those PDFs here
+for dp, dn, fn in os.walk(SITE):
+    if "index.php" in fn:
+        for pdf in re.findall(r'data-pdf="(/wp-content/[^"]+\.pdf)"', open(os.path.join(dp, "index.php"), encoding="utf-8", errors="replace").read()):
+            s, o = os.path.join(SITE, pdf.lstrip("/")), os.path.join(OUT, pdf.lstrip("/"))
+            if os.path.exists(s) and not os.path.exists(o):
+                os.makedirs(os.path.dirname(o), exist_ok=True)
+                shutil.copy2(s, o)
+
 # ---- redirects (GitHub Pages can't send 301s; mirror the live site's behaviour with tiny pages)
 PAGES_BASE = "/midwest-tropical-website/docs/"   # https://ally762.github.io/midwest-tropical-website/docs/
 
