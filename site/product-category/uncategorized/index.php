@@ -14,12 +14,8 @@
 <meta name="twitter:title" content="Uncategorized Archives - Midwest Tropical Expertly Built Custom Water Features!" />
 <meta name="twitter:label1" content="Products" />
 <meta name="twitter:data1" content="1" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Uncategorized Category Feed" href="https://www.midwest-tropical.com/product-category/uncategorized/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/product_cat/387" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@graph": [
@@ -132,21 +128,21 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-b6189eb9db.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="archive tax-product_cat term-uncategorized term-387 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce woocommerce-page woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5">
+<body class="archive tax-product_cat term-uncategorized term-387 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop mtshop-page mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/../../includes/header-43acf302.php'; ?>
-		<div id="primary" class="content-area"><main id="main" class="site-main" role="main"><nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a>&nbsp;&#47;&nbsp;Uncategorized</nav><header class="woocommerce-products-header">
-			<h1 class="woocommerce-products-header__title page-title">Uncategorized</h1>
+		<div id="primary" class="content-area"><main id="main" class="site-main" role="main"><nav class="mtshop-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a>&nbsp;&#47;&nbsp;Uncategorized</nav><header class="mtshop-products-header">
+			<h1 class="mtshop-products-header__title page-title">Uncategorized</h1>
 	</header>
-<div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count" role="status" aria-relevant="all" >
+<div class="mtshop-notices-wrapper"></div><p class="mtshop-result-count" role="status" aria-relevant="all" >
 	Showing the single result</p>
-<form class="woocommerce-ordering" method="get">
+<form class="mtshop-ordering" method="get">
 		<select
 		name="orderby"
 		class="orderby"
@@ -161,8 +157,8 @@
 	</form>
 <ul class="products columns-3">
 <li class="product type-product post-131670 status-publish first instock product_cat-uncategorized product_tag-mesh-waterfall shipping-taxable product-type-simple">
-	<a href="/product/stainless-mesh-water-wall-at-the-key-hotel-dubuque-tapestry-collection-by-hilton-iowa-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" width="800" height="800" src="/wp-content/uploads/woocommerce-placeholder.png" class="woocommerce-placeholder wp-post-image" alt="Placeholder" srcset="/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, /wp-content/uploads/placeholder-150x150.png 150w, /wp-content/uploads/placeholder-300x300.png 300w, /wp-content/uploads/placeholder-380x380.png 380w, /wp-content/uploads/placeholder-480x480.png 480w, /wp-content/uploads/woocommerce-placeholder-600x600.png 600w, /wp-content/uploads/placeholder-640x640.png 640w, /wp-content/uploads/placeholder-768x768.png 768w, /wp-content/uploads/placeholder.png 1200w" sizes="(max-width: 800px) 100vw, 800px" title="Stainless Mesh Water Wall at The Key Hotel Dubuque, Tapestry Collection by Hilton Iowa" /><h2 class="woocommerce-loop-product__title">Stainless Mesh Water Wall at The Key Hotel Dubuque, Tapestry Collection by Hilton Iowa</h2>
-</a><a href="/product/stainless-mesh-water-wall-at-the-key-hotel-dubuque-tapestry-collection-by-hilton-iowa-2/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_131670" data-quantity="1" class="button product_type_simple" data-product_id="131670" data-product_sku="" aria-label="Read more about &ldquo;Stainless Mesh Water Wall at The Key Hotel Dubuque, Tapestry Collection by Hilton Iowa&rdquo;" rel="" data-success_message="">Read more</a>	<span id="woocommerce_loop_add_to_cart_link_describedby_131670" class="screen-reader-text">
+	<a href="/product/stainless-mesh-water-wall-at-the-key-hotel-dubuque-tapestry-collection-by-hilton-iowa-2/" class="mtshop-LoopProduct-link mtshop-loop-product__link"><img decoding="async" width="800" height="800" src="/wp-content/uploads/woocommerce-placeholder.png" class="mtshop-placeholder wp-post-image" alt="Placeholder" srcset="/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, /wp-content/uploads/placeholder-150x150.png 150w, /wp-content/uploads/placeholder-300x300.png 300w, /wp-content/uploads/placeholder-380x380.png 380w, /wp-content/uploads/placeholder-480x480.png 480w, /wp-content/uploads/woocommerce-placeholder-600x600.png 600w, /wp-content/uploads/placeholder-640x640.png 640w, /wp-content/uploads/placeholder-768x768.png 768w, /wp-content/uploads/placeholder.png 1200w" sizes="(max-width: 800px) 100vw, 800px" title="Stainless Mesh Water Wall at The Key Hotel Dubuque, Tapestry Collection by Hilton Iowa" /><h2 class="mtshop-loop-product__title">Stainless Mesh Water Wall at The Key Hotel Dubuque, Tapestry Collection by Hilton Iowa</h2>
+</a><a href="/product/stainless-mesh-water-wall-at-the-key-hotel-dubuque-tapestry-collection-by-hilton-iowa-2/" aria-describedby="mtshop_loop_add_to_cart_link_describedby_131670" data-quantity="1" class="button product_type_simple" data-product_id="131670" data-product_sku="" aria-label="Read more about &ldquo;Stainless Mesh Water Wall at The Key Hotel Dubuque, Tapestry Collection by Hilton Iowa&rdquo;" rel="" data-success_message="">Read more</a>	<span id="mtshop_loop_add_to_cart_link_describedby_131670" class="screen-reader-text">
 			</span>
 </li>
 </ul>

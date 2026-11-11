@@ -21,15 +21,10 @@
 <meta name="twitter:description" content="Midwest Tropical: Transform your Minnesota space with elegant bubble walls and custom water features. Create a captivating atmosphere today!" />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="3 minutes" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Flocations%2Fminnesota%2F" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Flocations%2Fminnesota%2F&#038;format=xml" />
 <meta name="theme-color" content="#3761A7">
 <link crossorigin="anonymous" rel="apple-touch-icon" href="https://www.midwest-tropical.com/wp-content/plugins/mt-pwa/assets/icons/apple-touch-icon.png">
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/pages/102670" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@graph": [
@@ -149,12 +144,12 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-3ed0a6e6a3.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="wp-singular page-template-default page page-id-102670 page-child parent-pageid-92908 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page elementor-page-102670 elementor-page-109341">
+<body class="wp-singular page-template-default page page-id-102670 page-child parent-pageid-92908 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page elementor-page-102670 elementor-page-109341">
 
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a><?php include __DIR__ . '/../../includes/header-8ffa8870.php'; ?><main id="content" class="site-main post-102670 page type-page status-publish hentry"><div class="page-header"><h1 class="entry-title">Minnesota</h1></div><div class="page-content"><h2>Minnesota</h2><h2>Discover the Benefits of Midwest Tropical in Minnesota</h2><p>You can enjoy the beauty of nature indoors with Midwest Tropical. We can create a unique design feature that will enhance your space, whether you are looking for something small or large.</p><h2>Midwest Tropical Bubble Walls</h2><p>Bubble walls are an excellent way to create a stunning visual effect in your commercial space. With Midwest Tropical, you can choose from a variety of sizes and shapes that will fit perfectly into your space in Minneapolis. The bubbles also provide a low maintenance feature, as they are made out of plastic material that is durable enough to withstand heavy traffic while still looking great!</p><h2>Custom Water Features</h2><p>Custom water features are a great way to create a unique design and add low maintenance features. Our team in Minneapolis can help you choose from a variety of sizes and shapes that will fit your space perfectly.</p><p>Water features are a great way to add interest and beauty to your commercial space. They can be used in any size or shape, and they’re low maintenance. We have a wide variety of options available including:</p><ul><li>Waterfalls</li><li>Wall water fountain</li><li>Ponds with Koi fish</li></ul><p><iframe loading="lazy" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5642444.522816369!2d-98.64443919071239!3d46.32771153729676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d585b9a60780b9b%3A0x2a2c99b10fea20f!2sMinnesota%2C%20USA!5e0!3m2!1sen!2ski!4v1699567722993!5m2!1sen!2ski" width="500" height="500" allowfullscreen="allowfullscreen"></iframe></p><h2>Rain Curtains</h2><p>Rain curtains are a great way to create a unique design and enjoy a low maintenance feature. With the ability to choose from a variety of sizes and shapes, you can find the perfect rain curtain for your commercial space in Saint Paul.<br />

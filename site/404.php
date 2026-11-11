@@ -32,23 +32,18 @@
 
 
 <meta name="google-site-verification" content="google-site-verification=ezYkoOe7Bib_og2Xdi2Autv746aTrjb8G13Na5B48nY" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2F" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2F&#038;format=xml" />
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/pages/31" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
 
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-32x32.avif" sizes="32x32" />
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-892ab58d4c.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-31 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-31">
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-31 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-31">
 <?php include __DIR__ . '/includes/header-ce8fb444.php'; ?>
 <?php http_response_code(404); ?>
 <main id="content" style="max-width:900px;margin:0 auto;padding:80px 20px;text-align:center;font-family:Nunito,sans-serif">

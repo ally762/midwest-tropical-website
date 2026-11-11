@@ -2,7 +2,7 @@
 html{-webkit-text-size-adjust:100%}
 body{overflow-x:hidden}
 img{max-width:100%;height:auto}
-.elementor-widget-image img,.swiper-slide img{height:auto}
+.elementor-widget-image img,.mtslider-slide img{height:auto}
 
 /* =====================================================================
    DESIGN CONSISTENCY  (standard = the Airports / product page template)
@@ -54,11 +54,11 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
 }
 
 /* 5b. Product (portfolio) pages: keep the live design (title and description as on the live site) */
-/* product gallery thumbnails (built by main.js, same look as WooCommerce flexslider on the live site) */
-.woocommerce-product-gallery .flex-control-thumbs{display:flex;flex-wrap:wrap;list-style:none;margin:0;padding:0;overflow:hidden}
-.woocommerce-product-gallery .flex-control-thumbs li{width:25%;margin:0;list-style:none}
-.woocommerce-product-gallery .flex-control-thumbs img{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;cursor:pointer;opacity:.5;transition:opacity .2s;margin:0}
-.woocommerce-product-gallery .flex-control-thumbs img.flex-active,.woocommerce-product-gallery .flex-control-thumbs img:hover{opacity:1}
+/* product gallery thumbnails (built by main.js, same look as ShopIcons flexslider on the live site) */
+.mtshop-product-gallery .flex-control-thumbs{display:flex;flex-wrap:wrap;list-style:none;margin:0;padding:0;overflow:hidden}
+.mtshop-product-gallery .flex-control-thumbs li{width:25%;margin:0;list-style:none}
+.mtshop-product-gallery .flex-control-thumbs img{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;cursor:pointer;opacity:.5;transition:opacity .2s;margin:0}
+.mtshop-product-gallery .flex-control-thumbs img.flex-active,.mtshop-product-gallery .flex-control-thumbs img:hover{opacity:1}
 
 /* 5c. Blog post hero (live single-post template): dark title on a dark photo was unreadable -> white + shadow */
 [data-elementor-type="single-post"] .elementor-element-ab0cdb0 h1,
@@ -142,10 +142,10 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
 .mt-yt-play:before{content:"";position:absolute;left:27px;top:14px;border-style:solid;border-width:10px 0 10px 17px;border-color:transparent transparent transparent #fff}
 
 /* Carousels before/without JS: show only first slide, no overflow */
-.swiper{overflow:hidden;position:relative}
-.swiper-wrapper{display:flex;box-sizing:content-box}
-.swiper-slide{flex-shrink:0;width:100%}
-.swiper-pagination-bullet{cursor:pointer}
+.mtslider{overflow:hidden;position:relative}
+.mtslider-wrapper{display:flex;box-sizing:content-box}
+.mtslider-slide{flex-shrink:0;width:100%}
+.mtslider-pagination-bullet{cursor:pointer}
 
 /* Tabs: hide non-active content until JS runs */
 .elementor-tab-content:not(.elementor-active){display:none}
@@ -180,3 +180,29 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
  .elementor-widget-wrap{min-width:0}
  table{display:block;overflow-x:auto}
 }
+
+/* ---------- site search overlay (replaces the Jetpack search plugin) ---------- */
+.mt-search{position:fixed;inset:0;z-index:100000;background:rgba(0,0,0,.55);overflow-y:auto;padding:24px 16px;overscroll-behavior:contain}
+.mt-search[hidden]{display:none}
+html.mt-search-open,html.mt-search-open body{overflow:hidden}
+.mt-search-panel{max-width:1180px;margin:0 auto;background:#fff;border-radius:4px;padding:0 28px 32px;min-height:calc(100vh - 48px);font-family:Quicksand,sans-serif;color:#1d2327}
+.mt-search-bar{position:sticky;top:-24px;z-index:2;display:flex;align-items:center;gap:10px;background:#fff;border-bottom:1px solid #e3e5e8;margin:0 -28px 18px;padding:14px 20px}
+.mt-search-bar svg{width:22px;height:22px;flex:none;color:#555}
+.mt-search-bar input{flex:1;min-width:0;border:0!important;outline:0;box-shadow:none!important;font-size:18px;padding:6px 0!important;background:transparent;color:inherit;font-family:inherit}
+.mt-search-bar button{background:none!important;border:1px solid #d0d4d9!important;color:#333!important;border-radius:3px;padding:6px 10px!important;font-size:14px;line-height:1;cursor:pointer;font-family:inherit}
+.mt-search-bar .mt-search-close{border:0!important;font-size:30px;padding:0 4px!important}
+.mt-search-head{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;margin-bottom:20px}
+.mt-search-count{font-size:30px!important;font-weight:500!important;margin:0!important;color:#1d2327!important;line-height:1.2!important}
+.mt-search-sortwrap{font-size:14px;font-weight:700;white-space:nowrap;display:flex;align-items:center}
+.mt-search-sortwrap[hidden]{display:none}
+.mt-search-sortwrap select{font-weight:400;margin-left:6px;padding:4px 8px;border:1px solid #d0d4d9;border-radius:3px;font-family:inherit}
+.mt-search-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:24px 18px}
+.mt-search-card{display:block;text-decoration:none!important;color:#3761A7!important;font-size:15px;line-height:1.35}
+.mt-search-thumb{display:block;aspect-ratio:1/1;background:#e9ebee;border-radius:3px;overflow:hidden;margin-bottom:8px}
+.mt-search-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}
+.mt-search-card:hover img{transform:scale(1.04)}
+.mt-search-card:hover .mt-search-title{text-decoration:underline}
+.mt-search-noimg{display:block;width:100%;height:100%;background:#d5d8dc url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23999' d='M21 19V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2zM8.5 13.5l2.5 3 3.5-4.5 4.5 6H5z'/%3E%3C/svg%3E") center/40% no-repeat}
+.mt-search-title mark{background:#ffd54f;color:inherit;padding:0 1px}
+@media (max-width:1024px){.mt-search-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:600px){.mt-search{padding:0}.mt-search-panel{border-radius:0;padding:0 16px 24px;min-height:100vh}.mt-search-bar{top:0;margin:0 -16px 14px;padding:10px 12px}.mt-search-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}.mt-search-count{font-size:22px!important}}

@@ -14,12 +14,8 @@
 <meta name="twitter:title" content="Water Bubble Fountain Archives - Midwest Tropical Expertly Built Custom Water Features!" />
 <meta name="twitter:label1" content="Posts" />
 <meta name="twitter:data1" content="1" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Water Bubble Fountain Tag Feed" href="https://www.midwest-tropical.com/tag/water-bubble-fountain/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/tags/523" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@type": "ItemList",
@@ -176,12 +172,12 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-6ec578c809.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="archive tag tag-water-bubble-fountain tag-523 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-page-107374 elementor-default elementor-template-full-width elementor-kit-5">
+<body class="archive tag tag-water-bubble-fountain tag-523 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-page-107374 elementor-default elementor-template-full-width elementor-kit-5">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/../../includes/header-43acf302.php'; ?>

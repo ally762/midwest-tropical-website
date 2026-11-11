@@ -21,13 +21,10 @@
 <meta name="twitter:description" content="Transform your space with a stunning water feature. Request a consultation for a water feature design and get a price estimate today. Schedule now!" />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="Less than a minute" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
 <meta name="theme-color" content="#3761A7">
 <link crossorigin="anonymous" rel="apple-touch-icon" href="https://www.midwest-tropical.com/wp-content/plugins/mt-pwa/assets/icons/apple-touch-icon.png">
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/pages/99916" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@graph": [
@@ -147,12 +144,12 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-1433c62bff.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="wp-singular page-template-default page page-id-99916 page-child parent-pageid-15 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341">
+<body class="wp-singular page-template-default page page-id-99916 page-child parent-pageid-15 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341">
 
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a><?php include __DIR__ . '/../../includes/header-8ffa8870.php'; ?><main id="content" class="site-main post-99916 page type-page status-publish hentry"><div class="page-header"><h1 class="entry-title">Swirly Bubble Walls</h1></div><div class="page-content"></div></main><section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Explore more custom water features</h2><p>Popular feature types and recent articles.</p></div><ul class="mtx-related__grid"><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li><li><a href="/swirly-bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Swirly Bubble Walls</span></a></li><li><a href="/why-the-most-memorable-interiors-give-people-something-to-experience/"><span class="mtx-related__img"><picture><source srcset="/wp-content/uploads/1-4-768x480.jpg.webp" type="image/webp"><img decoding="async" src="/wp-content/uploads/1-4-768x480.jpg" alt="" width="480" height="320"></picture></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Why the Most Memorable Interiors Give People Something to Experience</span></a></li><li><a href="/why-rain-curtains-create-such-a-strong-first-impression/"><span class="mtx-related__img"><picture><source srcset="/wp-content/uploads/1-6-768x512.jpg.webp" type="image/webp"><img decoding="async" fetchpriority="high" src="/wp-content/uploads/1-6-768x512.jpg" alt="" width="480" height="320"></picture></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Why Rain Curtains Create Such a Strong First Impression</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a><a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section><?php include __DIR__ . '/../../includes/footer-3611e1b2.php'; ?>

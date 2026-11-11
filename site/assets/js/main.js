@@ -110,14 +110,14 @@
   });
 
   /* ---------- carousels (slides / image-carousel / testimonials) ---------- */
-  $$('.swiper').forEach(function (sw) {
-    var wrap = sw.querySelector('.swiper-wrapper'); if (!wrap) return;
-    var slides = $$(':scope > .swiper-slide', wrap); if (!slides.length) return;
+  $$('.mtslider').forEach(function (sw) {
+    var wrap = sw.querySelector('.mtslider-wrapper'); if (!wrap) return;
+    var slides = $$(':scope > .mtslider-slide', wrap); if (!slides.length) return;
     var widget = sw.closest('.elementor-widget') || sw, s = settings(widget);
     function perView() { var b = bp(); return +(b === 'mobile' ? (s.slides_to_show_mobile || 1) : b === 'tablet' ? (s.slides_to_show_tablet || s.slides_to_show || 1) : (s.slides_to_show || 1)) || 1; }
     var gap = s.image_spacing_custom && s.image_spacing_custom.size || 0;
     var fade = s.transition === 'fade' || s.effect === 'fade', i = 0, timer, speed = s.transition_speed || s.speed || 500;
-    sw.classList.add('swiper-initialized', 'swiper-horizontal');
+    sw.classList.add('mtslider-initialized', 'mtslider-horizontal');
     wrap.style.transitionProperty = fade ? 'none' : 'transform';
     function layout() {
       var n = perView(), w = sw.clientWidth;
@@ -130,18 +130,18 @@
     function go(k, instant) {
       var n = perView(), max = Math.max(0, slides.length - n);
       i = k > max ? 0 : k < 0 ? max : k;
-      slides.forEach(function (sl, j) { var a = j === i; sl.classList.toggle('swiper-slide-active', a); if (fade) { sl.style.opacity = a ? 1 : 0; sl.style.zIndex = a ? 1 : 0; } });
+      slides.forEach(function (sl, j) { var a = j === i; sl.classList.toggle('mtslider-slide-active', a); if (fade) { sl.style.opacity = a ? 1 : 0; sl.style.zIndex = a ? 1 : 0; } });
       if (!fade) { wrap.style.transitionDuration = instant ? '0ms' : speed + 'ms'; wrap.style.transform = 'translate3d(' + (-i * (slides[0].offsetWidth + gap)) + 'px,0,0)'; }
-      $$('.swiper-pagination-bullet', widget).forEach(function (b, j) { b.classList.toggle('swiper-pagination-bullet-active', j === i); });
+      $$('.mtslider-pagination-bullet', widget).forEach(function (b, j) { b.classList.toggle('mtslider-pagination-bullet-active', j === i); });
       // replay Elementor slide content animation
-      var inner = slides[i].querySelector('.swiper-slide-inner'); if (inner && sw.getAttribute('data-animation')) { inner.classList.remove('animated'); void inner.offsetWidth; inner.classList.add('animated', sw.getAttribute('data-animation')); }
+      var inner = slides[i].querySelector('.mtslider-slide-inner'); if (inner && sw.getAttribute('data-animation')) { inner.classList.remove('animated'); void inner.offsetWidth; inner.classList.add('animated', sw.getAttribute('data-animation')); }
     }
-    var pag = widget.querySelector('.swiper-pagination');
+    var pag = widget.querySelector('.mtslider-pagination');
     if (pag && !pag.children.length && /dots|both/.test(s.navigation || 'both')) {
-      slides.forEach(function (_, j) { var b = d.createElement('span'); b.className = 'swiper-pagination-bullet'; b.setAttribute('role', 'button'); b.setAttribute('aria-label', 'Go to slide ' + (j + 1)); b.onclick = function () { go(j); restart(); }; pag.appendChild(b); });
-      pag.classList.add('swiper-pagination-bullets', 'swiper-pagination-horizontal');
+      slides.forEach(function (_, j) { var b = d.createElement('span'); b.className = 'mtslider-pagination-bullet'; b.setAttribute('role', 'button'); b.setAttribute('aria-label', 'Go to slide ' + (j + 1)); b.onclick = function () { go(j); restart(); }; pag.appendChild(b); });
+      pag.classList.add('mtslider-pagination-bullets', 'mtslider-pagination-horizontal');
     }
-    var prev = widget.querySelector('.elementor-swiper-button-prev, .swiper-button-prev'), next = widget.querySelector('.elementor-swiper-button-next, .swiper-button-next');
+    var prev = widget.querySelector('.elementor-mtslider-button-prev, .mtslider-button-prev'), next = widget.querySelector('.elementor-mtslider-button-next, .mtslider-button-next');
     prev && prev.addEventListener('click', function () { go(i - 1); restart(); });
     next && next.addEventListener('click', function () { go(i + 1); restart(); });
     var x0 = null;
@@ -186,10 +186,10 @@
     });
   });
 
-  /* ---------- WooCommerce product gallery (replaces flexslider): big image + square thumbnail row ---------- */
-  $$('.woocommerce-product-gallery').forEach(function (g) {
-    var wrap = g.querySelector('.woocommerce-product-gallery__wrapper'); if (!wrap) return;
-    var slides = $$('.woocommerce-product-gallery__image', wrap);
+  /* ---------- shop product gallery (replaces flexslider): big image + square thumbnail row ---------- */
+  $$('.mtshop-product-gallery').forEach(function (g) {
+    var wrap = g.querySelector('.mtshop-product-gallery__wrapper'); if (!wrap) return;
+    var slides = $$('.mtshop-product-gallery__image', wrap);
     g.style.opacity = 1;
     if (slides.length < 2) return;
     var ol = d.createElement('ol'); ol.className = 'flex-control-nav flex-control-thumbs';
@@ -308,19 +308,103 @@
     });
   });
 
-  /* ---------- search form -> site search on Google ---------- */
-  $$('form.elementor-search-form, form.search-form').forEach(function (f) {
-    f.addEventListener('submit', function (e) {
-      e.preventDefault(); var q = (f.querySelector('[name=s]') || {}).value || '';
-      location.href = 'https://www.google.com/search?q=' + encodeURIComponent('site:midwest-tropical.com ' + q);
+  /* ---------- site search (own index, no plugin): overlay with image cards like the live site ---------- */
+  var SITE_BASE = (d.currentScript && d.currentScript.src || '/assets/js/main.js').replace(/assets\/js\/main\.js.*$/, '');
+  var MEDIA_BASE = /github\.io$/.test(location.hostname) ? 'https://www.midwest-tropical.com' : '';
+  var sIndex = null, sLoading = null, sBox = null, sState = { q: '', sort: 'rel', shown: 0, res: [] };
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function loadIndex() {
+    if (sIndex) return Promise.resolve(sIndex);
+    return sLoading || (sLoading = fetch(SITE_BASE + 'assets/search.json').then(function (r) { return r.json(); }).then(function (rows) {
+      sIndex = rows.map(function (r) { return { u: r[0], t: r[1], i: r[2], d: r[3], lt: r[1].toLowerCase(), lx: r[4].toLowerCase() }; });
+      return sIndex;
+    }));
+  }
+  function words(q) { return q.toLowerCase().replace(/[^\w\s'-]+/g, ' ').split(/\s+/).filter(Boolean); }
+  function runSearch() {
+    var ws = words(sState.q), res = [];
+    if (ws.length) sIndex.forEach(function (e) {
+      var score = 0;
+      for (var k = 0; k < ws.length; k++) {
+        var w = ws[k], inT = e.lt.indexOf(w), inX = e.lx.indexOf(w);
+        if (inT < 0 && inX < 0) return;
+        if (inT >= 0) score += 10 + (inT === 0 || /\W/.test(e.lt.charAt(inT - 1)) ? 5 : 0);
+        if (inX >= 0) score += 1 + Math.min(4, e.lx.split(w).length - 1);
+      }
+      var ph = ws.join(' '), at = e.lt.indexOf(ph);
+      if (ws.length > 1 && at >= 0) score += 20;          // whole phrase in the title
+      if (at === 0) score += 10;                           // title starts with it
+      score -= e.lt.length / 200;                          // shorter (more specific) titles first on ties
+      res.push({ e: e, s: score });
     });
+    res.sort(sState.sort === 'new' ? function (a, b) { return a.e.d < b.e.d ? 1 : a.e.d > b.e.d ? -1 : 0; }
+      : sState.sort === 'old' ? function (a, b) { return a.e.d > b.e.d ? 1 : a.e.d < b.e.d ? -1 : 0; }
+      : function (a, b) { return b.s - a.s; });
+    sState.res = res; sState.shown = 0;
+    var grid = sBox.querySelector('.mt-search-grid'); grid.innerHTML = '';
+    sBox.querySelector('.mt-search-count').textContent = ws.length ? (res.length ? 'Found ' + res.length + ' result' + (res.length === 1 ? '' : 's') : 'No results found') : '';
+    sBox.querySelector('.mt-search-sortwrap').hidden = !res.length;
+    more();
+  }
+  function hl(title) {
+    var ws = words(sState.q).filter(function (w) { return w.length > 1; }).map(function (w) { return w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); });
+    var t = esc(title);
+    return ws.length ? t.replace(new RegExp('(' + ws.join('|') + ')', 'gi'), '<mark>$1</mark>') : t;
+  }
+  function more() {
+    var grid = sBox.querySelector('.mt-search-grid'), end = Math.min(sState.res.length, sState.shown + 30), html = '';
+    for (var k = sState.shown; k < end; k++) {
+      var e = sState.res[k].e, href = SITE_BASE + e.u.replace(/^\//, '');
+      var img = e.i ? '<img loading="lazy" decoding="async" alt="" src="' + esc((/^\//.test(e.i) ? MEDIA_BASE : '') + e.i) + '">' : '<span class="mt-search-noimg" aria-hidden="true"></span>';
+      html += '<a class="mt-search-card" href="' + esc(href) + '"><span class="mt-search-thumb">' + img + '</span><span class="mt-search-title">' + hl(e.t) + '</span></a>';
+    }
+    grid.insertAdjacentHTML('beforeend', html); sState.shown = end;
+  }
+  function buildBox() {
+    sBox = d.createElement('div'); sBox.className = 'mt-search'; sBox.hidden = true;
+    sBox.setAttribute('role', 'dialog'); sBox.setAttribute('aria-modal', 'true'); sBox.setAttribute('aria-label', 'Search results');
+    sBox.innerHTML = '<div class="mt-search-panel"><form class="mt-search-bar" role="search"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M15.5 14h-.8l-.3-.3A6.5 6.5 0 1 0 9.5 16a6.5 6.5 0 0 0 4.2-1.6l.3.3v.8l5 5 1.5-1.5-5-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/></svg>' +
+      '<input type="search" name="s" placeholder="Search..." aria-label="Search" autocomplete="off"><button type="button" class="mt-search-clear">Clear</button>' +
+      '<button type="button" class="mt-search-close" aria-label="Close search">&times;</button></form>' +
+      '<div class="mt-search-head"><h2 class="mt-search-count"></h2><label class="mt-search-sortwrap" hidden>Sort: <select><option value="rel">Relevance</option><option value="new">Newest</option><option value="old">Oldest</option></select></label></div>' +
+      '<div class="mt-search-grid"></div></div>';
+    d.body.appendChild(sBox);
+    sBox.addEventListener('error', function (e) {  // image that fails to load -> grey "no image" tile
+      var t = e.target; if (t.tagName === 'IMG' && t.parentNode) t.parentNode.innerHTML = '<span class="mt-search-noimg" aria-hidden="true"></span>';
+    }, true);
+    var input = sBox.querySelector('input'), timer;
+    input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(function () { sState.q = input.value.trim(); syncUrl(); runSearch(); }, 180); });
+    sBox.querySelector('form').addEventListener('submit', function (e) { e.preventDefault(); sState.q = input.value.trim(); syncUrl(); runSearch(); });
+    sBox.querySelector('.mt-search-clear').addEventListener('click', function () { input.value = ''; sState.q = ''; syncUrl(); runSearch(); input.focus(); });
+    sBox.querySelector('.mt-search-close').addEventListener('click', closeSearch);
+    sBox.querySelector('select').addEventListener('change', function () { sState.sort = this.value; runSearch(); });
+    sBox.addEventListener('click', function (e) { if (e.target === sBox) closeSearch(); });
+    sBox.addEventListener('scroll', function () { if (sState.shown < sState.res.length && sBox.scrollTop + sBox.clientHeight > sBox.scrollHeight - 600) more(); }, { passive: true });
+    d.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !sBox.hidden) closeSearch(); });
+  }
+  function syncUrl() {
+    try { var u = new URL(location.href); sState.q ? u.searchParams.set('s', sState.q) : u.searchParams.delete('s'); history.replaceState(null, '', u); } catch (e) { }
+  }
+  function openSearch(q) {
+    sBox || buildBox();
+    var input = sBox.querySelector('input'); input.value = q; sState.q = q.trim();
+    sBox.hidden = false; root.classList.add('mt-search-open'); input.focus();
+    sBox.querySelector('.mt-search-count').textContent = 'Searching…';
+    loadIndex().then(function () { syncUrl(); runSearch(); }, function () { sBox.querySelector('.mt-search-count').textContent = 'Search is not available right now.'; });
+  }
+  function closeSearch() { sBox.hidden = true; root.classList.remove('mt-search-open'); sState.q = ''; syncUrl(); }
+  try { var qs = new URLSearchParams(location.search).get('s'); if (qs !== null) openSearch(qs); } catch (e) { }
+  $$('form.elementor-search-form, form.search-form').forEach(function (f) {
+    var inp = f.querySelector('[name=s]');
+    f.addEventListener('submit', function (e) { e.preventDefault(); openSearch((inp || {}).value || ''); });
+    inp && inp.addEventListener('focus', loadIndex, { once: true });  // warm the index while the visitor types
     var tg = f.querySelector('.elementor-search-form__toggle'); tg && tg.addEventListener('click', function () { f.classList.toggle('elementor-search-form--full-screen'); });
   });
 
   /* ---------- reveal animations (Elementor entrance animations) ---------- */
   if ('IntersectionObserver' in window) {
     var io = new IntersectionObserver(function (en) { en.forEach(function (x) { if (x.isIntersecting) { var s = settings(x.target), a = s._animation || s.animation; if (a && a !== 'none') x.target.classList.add('animated', a); io.unobserve(x.target); } }); }, { rootMargin: '0px 0px -10% 0px' });
-    $$('[data-settings*="animation"]').forEach(function (el) { if (!el.closest('.swiper')) io.observe(el); });
+    $$('[data-settings*="animation"]').forEach(function (el) { if (!el.closest('.mtslider')) io.observe(el); });
   }
 
   /* ---------- analytics: loaded after first interaction (keeps page fast) ---------- */

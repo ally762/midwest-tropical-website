@@ -30,13 +30,8 @@
 <meta name="twitter:data1" content="&#036;0.00" />
 <meta name="twitter:label2" content="Availability" />
 <meta name="twitter:data2" content="In stock" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fproduct%2Fbubble-walls-behind-bar-at-houston-nightclub-bubble-panel-waterfall-feature%2F" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fproduct%2Fbubble-walls-behind-bar-at-houston-nightclub-bubble-panel-waterfall-feature%2F&#038;format=xml" />
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/product/100204" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@graph": [
@@ -191,33 +186,33 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-378b33ab50.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="wp-singular product-template-default single single-product postid-100204 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce woocommerce-page woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page-118933">
+<body class="wp-singular product-template-default single single-product postid-100204 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop mtshop-page mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page-118933">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/../../includes/header-43acf302.php'; ?>
-		<div class="woocommerce-notices-wrapper"></div>		<div data-elementor-type="product" data-elementor-id="118933" class="elementor elementor-118933 elementor-location-single post-100204 product type-product status-publish has-post-thumbnail product_cat-portfolio product_tag-bubble-wall first instock shipping-taxable product-type-simple product" data-elementor-post-type="elementor_library">
+		<div class="mtshop-notices-wrapper"></div>		<div data-elementor-type="product" data-elementor-id="118933" class="elementor elementor-118933 elementor-location-single post-100204 product type-product status-publish has-post-thumbnail product_cat-portfolio product_tag-bubble-wall first instock shipping-taxable product-type-simple product" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-206c0172 e-con-full e-flex e-con e-parent" data-id="206c0172" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 		<div class="elementor-element elementor-element-3075a9ee e-con-full e-flex e-con e-child" data-id="3075a9ee" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-30ac0f8d elementor-widget__width-initial elementor-widget elementor-widget-woocommerce-product-images" data-id="30ac0f8d" data-element_type="widget" data-e-type="widget" data-widget_type="woocommerce-product-images.default">
-					<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
-	<div class="woocommerce-product-gallery__wrapper">
-		<div data-thumb="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg-100x100.avif" data-thumb-alt="Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature" data-thumb-srcset=""  data-thumb-sizes="(max-width: 100px) 100vw, 100px" class="woocommerce-product-gallery__image"><a href="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif"><img decoding="async" width="569" height="322" src="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif" class="wp-post-image" alt="Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature" data-caption="" src="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif" data-large_image="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif" data-large_image_width="569" data-large_image_height="322" srcset="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg-100x100.avif 100w, /wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif 569w" sizes="(max-width: 569px) 100vw, 569px" title="Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature" /></a></div>	</div>
+				<div class="elementor-element elementor-element-30ac0f8d elementor-widget__width-initial elementor-widget elementor-widget-mtshop-product-images" data-id="30ac0f8d" data-element_type="widget" data-e-type="widget" data-widget_type="mtshop-product-images.default">
+					<div class="mtshop-product-gallery mtshop-product-gallery--with-images mtshop-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<div class="mtshop-product-gallery__wrapper">
+		<div data-thumb="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg-100x100.avif" data-thumb-alt="Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature" data-thumb-srcset=""  data-thumb-sizes="(max-width: 100px) 100vw, 100px" class="mtshop-product-gallery__image"><a href="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif"><img decoding="async" width="569" height="322" src="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif" class="wp-post-image" alt="Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature" data-caption="" src="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif" data-large_image="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif" data-large_image_width="569" data-large_image_height="322" srcset="/wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg-100x100.avif 100w, /wp-content/uploads/Bubble-Walls-Behind-Bar-at-Houston-Nightclub-Bubble-Panel-Waterfall-Feature-jpg.avif 569w" sizes="(max-width: 569px) 100vw, 569px" title="Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature" /></a></div>	</div>
 </div>
 				</div>
-				<div class="elementor-element elementor-element-656a042 elementor-widget elementor-widget-woocommerce-product-data-tabs" data-id="656a042" data-element_type="widget" data-e-type="widget" data-widget_type="woocommerce-product-data-tabs.default">
-	<div class="woocommerce-tabs wc-tabs-wrapper">
+				<div class="elementor-element elementor-element-656a042 elementor-widget elementor-widget-mtshop-product-data-tabs" data-id="656a042" data-element_type="widget" data-e-type="widget" data-widget_type="mtshop-product-data-tabs.default">
+	<div class="mtshop-tabs wc-tabs-wrapper">
 		<ul class="tabs wc-tabs" role="tablist">
 							<li role="presentation" class="description_tab" id="tab-title-description">
 					<a href="#tab-description" role="tab" aria-controls="tab-description">
 						Description					</a>
 				</li>
 					</ul>
-					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+					<div class="mtshop-Tabs-panel mtshop-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 	<h2>Description</h2>
 <p><strong>Bubble Walls Behind Bar at Houston Nightclub – Dazzling Visual Impact Meets Modern Design<br />
 </strong><br />
@@ -258,9 +253,9 @@ The Bubble Panel Waterfall Feature behind the bar at a Houston nightclub is a bo
 																<a href="/gallery/">
 							<img decoding="async" fetchpriority="high" width="570" height="320" src="/wp-content/uploads/Gallery-Banner-1-1.jpg" class="attachment-large size-large wp-image-118932" alt="Video Bubble Wall with LED color changing lighting" srcset="/wp-content/uploads/Gallery-Banner-1-1-100x100.avif 100w, /wp-content/uploads/Gallery-Banner-1-1.avif 570w" sizes="(max-width: 570px) 100vw, 570px" title="Video Bubble Wall with LED color changing lighting" />								</a>
 															</div>
-				<div class="elementor-element elementor-element-5d8d1ae3 elementor-widget elementor-widget-woocommerce-breadcrumb" data-id="5d8d1ae3" data-element_type="widget" data-e-type="widget" data-widget_type="woocommerce-breadcrumb.default">
-					<nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a>&nbsp;&#47;&nbsp;<a href="/product-category/portfolio/">Portfolio</a>&nbsp;&#47;&nbsp;Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature</nav>				</div>
-				<div class="elementor-element elementor-element-5acd4582 elementor-widget__width-initial elementor-widget elementor-widget-woocommerce-product-title elementor-page-title elementor-widget-heading" data-id="5acd4582" data-element_type="widget" data-e-type="widget" data-widget_type="woocommerce-product-title.default">
+				<div class="elementor-element elementor-element-5d8d1ae3 elementor-widget elementor-widget-mtshop-breadcrumb" data-id="5d8d1ae3" data-element_type="widget" data-e-type="widget" data-widget_type="mtshop-breadcrumb.default">
+					<nav class="mtshop-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a>&nbsp;&#47;&nbsp;<a href="/product-category/portfolio/">Portfolio</a>&nbsp;&#47;&nbsp;Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature</nav>				</div>
+				<div class="elementor-element elementor-element-5acd4582 elementor-widget__width-initial elementor-widget elementor-widget-mtshop-product-title elementor-page-title elementor-widget-heading" data-id="5acd4582" data-element_type="widget" data-e-type="widget" data-widget_type="mtshop-product-title.default">
 					<h1 class="product_title entry-title elementor-heading-title elementor-size-default">Bubble Walls Behind Bar at Houston Nightclub-Bubble Panel Waterfall Feature</h1>				</div>
 				<div class="elementor-element elementor-element-70b0ae91 elementor-align-justify elementor-widget elementor-widget-button" data-id="70b0ae91" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
 										<a class="elementor-button elementor-button-link elementor-size-sm" href="/contact-us/">
@@ -283,33 +278,33 @@ The Bubble Panel Waterfall Feature behind the bar at a Houston nightclub is a bo
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
 												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
 								Name							</label>
-														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Name" required="required">
 											</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_3d7442a elementor-col-50">
 												<label for="form-field-field_3d7442a" class="elementor-field-label elementor-screen-only">
 								Company							</label>
-														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
+														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Company">
 											</div>
 								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
 												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
 								Email							</label>
-														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Email" required="required">
 											</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_30844ce elementor-col-50 elementor-field-required">
 												<label for="form-field-field_30844ce" class="elementor-field-label elementor-screen-only">
 								Phone							</label>
-														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required">
+														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Phone" required="required">
 											</div>
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_a9d1d36 elementor-col-100">
 												<label for="form-field-field_a9d1d36" class="elementor-field-label elementor-screen-only">
 								Project Address							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
+						<textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
 												<label for="form-field-message" class="elementor-field-label elementor-screen-only">
 								Information							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
+						<textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
 								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-field_8f21363 elementor-col-100">
-							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm  elementor-upload-field">
+							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm elementor-upload-field">
 						</div>
 								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
 					<button class="elementor-button elementor-size-sm" type="submit">

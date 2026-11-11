@@ -144,8 +144,13 @@ for dp, dn, fn in os.walk(os.path.join(OUT, "assets", "css")):
             css = live_media(open(p, encoding="utf-8").read())
             css = re.sub(r"url\((['\"]?)(/(?!/)[^)'\"]*)\1\)", lambda m: f"url({m.group(1)}{rel('assets/css', m.group(2))}{m.group(1)})", css)
             open(p, "w", encoding="utf-8").write(css)
-for name in ("robots.txt",):
-    pass  # the demo is noindex; no robots/sitemap needed
+# search index: thumbnails use the real (live) file names; main.js prefixes the live origin on github.io
+_sj = os.path.join(OUT, "assets", "search.json")
+if os.path.exists(_sj):
+    rows = json.load(open(_sj, encoding="utf-8"))
+    for r in rows:
+        r[2] = MEDIA_MAP.get(r[2], r[2]) if r[2] else ""
+    json.dump(rows, open(_sj, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 open(os.path.join(OUT, ".nojekyll"), "w").close()  # serve files as-is (no Jekyll processing)
 
 # ---- redirects (GitHub Pages can't send 301s; mirror the live site's behaviour with tiny pages)

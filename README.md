@@ -13,7 +13,12 @@ Open Graph and schema markup are the same as the live site, so SEO rankings carr
 ## What changed vs. the live site
 
 **Speed**
-- No WordPress, jQuery, WooCommerce, Jetpack or plugin scripts.
+- No WordPress, jQuery, WooCommerce, Jetpack or plugin scripts. Leftover plugin class names,
+  RSS/oEmbed/REST-API links and plugin file paths are removed or renamed (`tools/declutter.py`),
+  so technology scanners such as Wappalyzer no longer report WordPress/WooCommerce.
+- Site search works without a plugin: `tools/search_index.py` builds `assets/search.json`
+  (all pages, posts and products) and the header search opens a results overlay like the live
+  Jetpack search (`/?s=word` links work too).
 - Unused CSS removed; one shared, browser-cached `core.css` plus a small CSS file per page.
 - Only Latin font files; the main font is preloaded.
 - Images lazy-load; YouTube loads only on click; analytics load after the first interaction.

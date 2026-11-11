@@ -38,5 +38,7 @@ for m in modes:
 if "posts" in modes:
     run(os.path.join(HERE, "restore_posts.py"), SITE, cache)
 run(os.path.join(HERE, "finalize.py"), SITE, os.path.join(ROOT, "site-src"))
+run(os.path.join(HERE, "declutter.py"), SITE)
+run(os.path.join(HERE, "search_index.py"), SITE)
 run(os.path.join(HERE, "purge_css.py"), SITE)
 print("REBUILD OK")

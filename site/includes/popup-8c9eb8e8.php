@@ -17,37 +17,37 @@
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
 												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
 								Name							</label>
-														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Name" required="required">
 											</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_3d7442a elementor-col-50">
 												<label for="form-field-field_3d7442a" class="elementor-field-label elementor-screen-only">
 								Company							</label>
-														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
+														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Company">
 											</div>
 								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
 												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
 								Email							</label>
-														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Email" required="required">
 											</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_30844ce elementor-col-50 elementor-field-required">
 												<label for="form-field-field_30844ce" class="elementor-field-label elementor-screen-only">
 								Phone							</label>
-														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required">
+														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Phone" required="required">
 											</div>
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_a9d1d36 elementor-col-100">
 												<label for="form-field-field_a9d1d36" class="elementor-field-label elementor-screen-only">
 								Project Address							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
+						<textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
 												<label for="form-field-message" class="elementor-field-label elementor-screen-only">
 								Information							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
+						<textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
 								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-field_8f21363 elementor-col-100">
-							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm  elementor-upload-field">
+							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm elementor-upload-field">
 
 						</div>
 								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-token_field elementor-col-100">
-													<input size="1" type="hidden" name="form_fields[token_field]" id="form-field-token_field" class="elementor-field elementor-size-sm  elementor-field-textual">
+													<input size="1" type="hidden" name="form_fields[token_field]" id="form-field-token_field" class="elementor-field elementor-size-sm elementor-field-textual">
 											</div>
 								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
 					<button class="elementor-button elementor-size-sm" type="submit">

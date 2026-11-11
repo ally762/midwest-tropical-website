@@ -31,13 +31,8 @@
 <meta name="twitter:label2" content="Time to read" />
 <meta name="twitter:data2" content="6 minutes" />
 <meta name="google-site-verification" content="google-site-verification=ezYkoOe7Bib_og2Xdi2Autv746aTrjb8G13Na5B48nY" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2F" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2F&#038;format=xml" />
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/pages/31" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@graph": [
@@ -148,12 +143,12 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-892ab58d4c.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-31 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-31">
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-31 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-31">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/includes/header-ce8fb444.php'; ?>
@@ -190,33 +185,33 @@
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
 												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
 								Name							</label>
-														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Name" required="required">
 											</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_3d7442a elementor-col-50">
 												<label for="form-field-field_3d7442a" class="elementor-field-label elementor-screen-only">
 								Company							</label>
-														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
+														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Company">
 											</div>
 								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
 												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
 								Email							</label>
-														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Email" required="required">
 											</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_30844ce elementor-col-50 elementor-field-required">
 												<label for="form-field-field_30844ce" class="elementor-field-label elementor-screen-only">
 								Phone							</label>
-														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required">
+														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Phone" required="required">
 											</div>
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_a9d1d36 elementor-col-100">
 												<label for="form-field-field_a9d1d36" class="elementor-field-label elementor-screen-only">
 								Project Address							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
+						<textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
 												<label for="form-field-message" class="elementor-field-label elementor-screen-only">
 								Information							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
+						<textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
 								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-field_8f21363 elementor-col-100">
-							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm  elementor-upload-field">
+							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm elementor-upload-field">
 						</div>
 								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
 					<button class="elementor-button elementor-size-sm" type="submit">
@@ -261,14 +256,14 @@
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5c628f9" data-id="5c628f9" data-element_type="column" data-e-type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-1126030 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="1126030" data-element_type="widget" data-e-type="widget" data-settings="{&quot;autoplay_speed&quot;:3000,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
-										<div class="elementor-slides-wrapper elementor-main-swiper swiper" role="region" aria-roledescription="carousel" aria-label="Slides" dir="ltr" data-animation="fadeInUp">
-				<div class="swiper-wrapper elementor-slides">
-										<div class="elementor-repeater-item-326e471 swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Siena Reno, NV - bubble wall floor mount, colored"></div><a class="swiper-slide-inner" href="/bubble-walls/"><div class="swiper-slide-contents"><div class="elementor-slide-heading"><span style="text-decoration-line:none;">Bubble Walls; Fully Enclosed & Maintenance Free!</span></div></div></a></div><div class="elementor-repeater-item-5f52f2f swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Rain Curtain at Albany Times Union Center in Albany, New York"></div><a class="swiper-slide-inner" href="/rain-curtains/"><div class="swiper-slide-contents"><div class="elementor-slide-heading"><span style="text-decoration-line:none;">Rain Curtain Water Features; Bringing the Rain Indoors</span></div></div></a></div><div class="elementor-repeater-item-7b53f22 swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Black Scored Acrylic Water Wall for Sands Plastic Surgery in Spokane, Washington"></div><a class="swiper-slide-inner" href="/water-walls/"><div class="swiper-slide-contents"><div class="elementor-slide-heading"><span style="text-decoration-line:none;">Aquafall™ Indoor Water Walls</span></div></div></a></div><div class="elementor-repeater-item-e43b761 swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Reflection Pool Fountain Water Feature with Bubbler Jets at Embassy Suites College Station, Texas"></div><a class="swiper-slide-inner" href="/specialty-fountains/"><div class="swiper-slide-contents"><div class="elementor-slide-heading"><span style="text-decoration-line:none;">Custom Water Features; Indoor Fountains and Reflection Pools</span></div></div></a></div>				</div>
-															<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous slide">
+										<div class="elementor-slides-wrapper elementor-main-mtslider mtslider" role="region" aria-roledescription="carousel" aria-label="Slides" dir="ltr" data-animation="fadeInUp">
+				<div class="mtslider-wrapper elementor-slides">
+										<div class="elementor-repeater-item-326e471 mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Siena Reno, NV - bubble wall floor mount, colored"></div><a class="mtslider-slide-inner" href="/bubble-walls/"><div class="mtslider-slide-contents"><div class="elementor-slide-heading"><span style="text-decoration-line:none;">Bubble Walls; Fully Enclosed & Maintenance Free!</span></div></div></a></div><div class="elementor-repeater-item-5f52f2f mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Rain Curtain at Albany Times Union Center in Albany, New York"></div><a class="mtslider-slide-inner" href="/rain-curtains/"><div class="mtslider-slide-contents"><div class="elementor-slide-heading"><span style="text-decoration-line:none;">Rain Curtain Water Features; Bringing the Rain Indoors</span></div></div></a></div><div class="elementor-repeater-item-7b53f22 mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Black Scored Acrylic Water Wall for Sands Plastic Surgery in Spokane, Washington"></div><a class="mtslider-slide-inner" href="/water-walls/"><div class="mtslider-slide-contents"><div class="elementor-slide-heading"><span style="text-decoration-line:none;">Aquafall™ Indoor Water Walls</span></div></div></a></div><div class="elementor-repeater-item-e43b761 mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Reflection Pool Fountain Water Feature with Bubbler Jets at Embassy Suites College Station, Texas"></div><a class="mtslider-slide-inner" href="/specialty-fountains/"><div class="mtslider-slide-contents"><div class="elementor-slide-heading"><span style="text-decoration-line:none;">Custom Water Features; Indoor Fountains and Reflection Pools</span></div></div></a></div>				</div>
+															<div class="elementor-mtslider-button elementor-mtslider-button-prev" role="button" tabindex="0" aria-label="Previous slide">
 							<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>						</div>
-						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next slide">
+						<div class="elementor-mtslider-button elementor-mtslider-button-next" role="button" tabindex="0" aria-label="Next slide">
 							<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>						</div>
-																<div class="swiper-pagination"></div>
+																<div class="mtslider-pagination"></div>
 												</div>
 								</div>
 					</div>
@@ -283,7 +278,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/bubble-walls/">Bubble Walls  </a></h2>				</div>
 				<div class="elementor-element elementor-element-859d55e elementor-widget elementor-widget-image" data-id="859d55e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/bubble-walls/">
-							<img decoding="async" width="500" height="464" src="/wp-content/uploads/home-bubble-walls-2-jpg.avif" class="  attachment-full size-full wp-image-102269" alt="home-bubble-walls-"  srcset="/wp-content/uploads/home-bubble-walls-2-jpg-100x100.avif 100w, /wp-content/uploads/home-bubble-walls-2-300x278.avif 300w, /wp-content/uploads/home-bubble-walls-2-jpg.avif 500w"  sizes="(max-width: 500px) 100vw, 500px" title="Home 1">								</a>
+							<img decoding="async" width="500" height="464" src="/wp-content/uploads/home-bubble-walls-2-jpg.avif" class="attachment-full size-full wp-image-102269" alt="home-bubble-walls-"  srcset="/wp-content/uploads/home-bubble-walls-2-jpg-100x100.avif 100w, /wp-content/uploads/home-bubble-walls-2-300x278.avif 300w, /wp-content/uploads/home-bubble-walls-2-jpg.avif 500w"  sizes="(max-width: 500px) 100vw, 500px" title="Home 1">								</a>
 															</div>
 				<div class="elementor-element elementor-element-1af1b9b elementor-widget elementor-widget-text-editor" data-id="1af1b9b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									Midwest Tropical invented the Bubble Wall which combines Water, Air and Light into a stunning water effect with bubbles slowly ascending in Sealed &#038; Enclosed Water Feature Design.  Color changing LED lighting allows you to customize the color to fit any environment and with larger Bubble Wall Projects we offer the capability to utilize computer controlled DMX lighting and air controls to create stunning “Shows”; think of it as the Bellagio Fountain of Indoor Water Features!								</div>
@@ -302,7 +297,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/rain-curtains/">Rain Curtain</a></h2>				</div>
 				<div class="elementor-element elementor-element-7f8ebd0 elementor-widget elementor-widget-image" data-id="7f8ebd0" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/rain-curtains/">
-							<img decoding="async" fetchpriority="high" width="500" height="464" src="/wp-content/uploads/home-rain-curtain-2.jpg" class="  attachment-full size-full wp-image-102273" alt="home-rain-curtain-2"  srcset="/wp-content/uploads/home-rain-curtain-2-jpg-100x100.avif 100w, /wp-content/uploads/home-rain-curtain-2-300x278.avif 300w, /wp-content/uploads/home-rain-curtain-2-jpg.avif 500w"  sizes="(max-width: 500px) 100vw, 500px" title="Home 2">								</a>
+							<img decoding="async" fetchpriority="high" width="500" height="464" src="/wp-content/uploads/home-rain-curtain-2.jpg" class="attachment-full size-full wp-image-102273" alt="home-rain-curtain-2"  srcset="/wp-content/uploads/home-rain-curtain-2-jpg-100x100.avif 100w, /wp-content/uploads/home-rain-curtain-2-300x278.avif 300w, /wp-content/uploads/home-rain-curtain-2-jpg.avif 500w"  sizes="(max-width: 500px) 100vw, 500px" title="Home 2">								</a>
 															</div>
 				<div class="elementor-element elementor-element-ead6ce2 elementor-widget elementor-widget-text-editor" data-id="ead6ce2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									A Rain Curtain is a type of water feature that gives the illusion of a wall or curtain of rain, creating a visually stunning and relaxing environment. Water is recirculates from the basin to the top of the feature and then falls along invisible strands to create an enthralling curtain effect with no splash!								</div>
@@ -321,7 +316,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/glass-water-features/">Glass Water Walls</a></h2>				</div>
 				<div class="elementor-element elementor-element-76ca7b6 elementor-widget elementor-widget-image" data-id="76ca7b6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/glass-water-features/">
-							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-glass-water-walls-2.jpg" class="  attachment-full size-full wp-image-102280" alt="home-glass-water-walls-2"  srcset="/wp-content/uploads/home-glass-water-walls-2-jpg-100x100.avif 100w, /wp-content/uploads/home-glass-water-walls-2-300x278.avif 300w, /wp-content/uploads/home-glass-water-walls-2-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 3">								</a>
+							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-glass-water-walls-2.jpg" class="attachment-full size-full wp-image-102280" alt="home-glass-water-walls-2"  srcset="/wp-content/uploads/home-glass-water-walls-2-jpg-100x100.avif 100w, /wp-content/uploads/home-glass-water-walls-2-300x278.avif 300w, /wp-content/uploads/home-glass-water-walls-2-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 3">								</a>
 															</div>
 				<div class="elementor-element elementor-element-67457c2 elementor-widget elementor-widget-text-editor" data-id="67457c2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									Glass Water Walls offer a timeless water feature design with water cascading down a glass surface.  With many different glass options available including frosted, textured, specialty and pattern glasses to give your water wall a unique look.  Midwest Tropical offers both traditional open Water Walls where you can touch the water, as well Sealed and Enclosed Water Walls where all the water is encapsulated between glass panels for a no-maintenance design.  Etched, colored and even raised dimensional logos can be added to our glass water walls to help brand your space!								</div>
@@ -381,7 +376,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/materials/acrylic-water-features/">Scored Waterfalls</a></h2>				</div>
 				<div class="elementor-element elementor-element-a337469 elementor-widget elementor-widget-image" data-id="a337469" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/materials/acrylic-water-features/">
-							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-scored-waterfalls.jpg" class="  attachment-full size-full wp-image-102287" alt="home-scored-waterfalls"  srcset="/wp-content/uploads/home-scored-waterfalls-jpg-100x100.avif 100w, /wp-content/uploads/home-scored-waterfalls-300x278.avif 300w, /wp-content/uploads/home-scored-waterfalls-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 4">								</a>
+							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-scored-waterfalls.jpg" class="attachment-full size-full wp-image-102287" alt="home-scored-waterfalls"  srcset="/wp-content/uploads/home-scored-waterfalls-jpg-100x100.avif 100w, /wp-content/uploads/home-scored-waterfalls-300x278.avif 300w, /wp-content/uploads/home-scored-waterfalls-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 4">								</a>
 															</div>
 				<div class="elementor-element elementor-element-84f07ce elementor-widget elementor-widget-text-editor" data-id="84f07ce" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									Midwest Tropical uses a proprietary textured material to create its Scored Waterfalls.  The water slowly descends down the specially designed surface to create a rippled wave pattern as the water cascades from top to bottom.  Logos and lighting can be added to these Scored Waterfalls to make customized for your space.   								</div>
@@ -400,7 +395,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/materials/wire-mesh-water-features-2/">Mesh Water Walls</a></h2>				</div>
 				<div class="elementor-element elementor-element-644d3c5 elementor-widget elementor-widget-image" data-id="644d3c5" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/materials/wire-mesh-water-features-2/">
-							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-mesh-water-walls.jpg" class="  attachment-full size-full wp-image-102295" alt="home-mesh-water-walls."  srcset="/wp-content/uploads/home-mesh-water-walls-jpg-100x100.avif 100w, /wp-content/uploads/home-mesh-water-walls-300x278.avif 300w, /wp-content/uploads/home-mesh-water-walls-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 5">								</a>
+							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-mesh-water-walls.jpg" class="attachment-full size-full wp-image-102295" alt="home-mesh-water-walls."  srcset="/wp-content/uploads/home-mesh-water-walls-jpg-100x100.avif 100w, /wp-content/uploads/home-mesh-water-walls-300x278.avif 300w, /wp-content/uploads/home-mesh-water-walls-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 5">								</a>
 															</div>
 				<div class="elementor-element elementor-element-9f11a80 elementor-widget elementor-widget-text-editor" data-id="9f11a80" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									As calming as it is functional, a mesh water feature creates an impressive and eye catching focal point for any space indoors and outdoors.  Mesh Waterfalls offer a beautiful, functional solution that can be customized to any size, offer color changing lighting, and create a stunning cascading water pattern as the water slowly descends down this proprietary metal specially designed by Midwest Tropical.								</div>
@@ -419,7 +414,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/specialty-fountains/">Custom  Fountains</a></h2>				</div>
 				<div class="elementor-element elementor-element-c2c70ab elementor-widget elementor-widget-image" data-id="c2c70ab" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/specialty-fountains/">
-							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-water-features.jpg" class="  attachment-full size-full wp-image-99864" alt="home-water-features.jpg"  srcset="/wp-content/uploads/home-water-features-jpg-100x100.avif 100w, /wp-content/uploads/home-water-features-300x278.avif 300w, /wp-content/uploads/home-water-features-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 6">								</a>
+							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-water-features.jpg" class="attachment-full size-full wp-image-99864" alt="home-water-features.jpg"  srcset="/wp-content/uploads/home-water-features-jpg-100x100.avif 100w, /wp-content/uploads/home-water-features-300x278.avif 300w, /wp-content/uploads/home-water-features-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 6">								</a>
 															</div>
 				<div class="elementor-element elementor-element-3e9a0d8 elementor-widget elementor-widget-text-editor" data-id="3e9a0d8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									<p>Reflection Pools, Custom Fountains, Water Spouts, Bubbler Jets &amp; More! Dive into unexplored creative waters with us and work on a form never done before no worries about achieving your wish. If you can describe what you have in mind, we can create the design and then fabricate the feature.</p>								</div>
@@ -488,15 +483,15 @@
 							</div>
 			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-1651" aria-expanded="false">Lighting Effects</div>
-					<div id="elementor-tab-content-1651" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1651" tabindex="0" hidden="false"><p><a href="/features/"><img decoding="async" loading="lazy" class="  size-full wp-image-102323 aligncenter" src="/wp-content/uploads/Customization-Lighting-Effects.jpg" alt="Customization Lighting Effects" width="2400" height="1200" title="Home 7"  srcset="/wp-content/uploads/Customization-Lighting-Effects-20x10.jpg 20w, /wp-content/uploads/Customization-Lighting-Effects-jpg-100x100.avif 100w, /wp-content/uploads/Customization-Lighting-Effects-768x384.jpg 768w, /wp-content/uploads/Customization-Lighting-Effects-jpg-800x400.avif 800w, /wp-content/uploads/Customization-Lighting-Effects-jpg-1440x720.avif 1440w, /wp-content/uploads/Customization-Lighting-Effects-1536x768.jpg 1536w, /wp-content/uploads/Customization-Lighting-Effects-2048x1024.jpg 2048w, /wp-content/uploads/Customization-Lighting-Effects-jpg.avif 2400w"  sizes="auto, (max-width: 2400px) 100vw, 2400px" data-mtfi="1" /></a></p></div>
+					<div id="elementor-tab-content-1651" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1651" tabindex="0" hidden="false"><p><a href="/features/"><img decoding="async" loading="lazy" class="size-full wp-image-102323 aligncenter" src="/wp-content/uploads/Customization-Lighting-Effects.jpg" alt="Customization Lighting Effects" width="2400" height="1200" title="Home 7"  srcset="/wp-content/uploads/Customization-Lighting-Effects-20x10.jpg 20w, /wp-content/uploads/Customization-Lighting-Effects-jpg-100x100.avif 100w, /wp-content/uploads/Customization-Lighting-Effects-768x384.jpg 768w, /wp-content/uploads/Customization-Lighting-Effects-jpg-800x400.avif 800w, /wp-content/uploads/Customization-Lighting-Effects-jpg-1440x720.avif 1440w, /wp-content/uploads/Customization-Lighting-Effects-1536x768.jpg 1536w, /wp-content/uploads/Customization-Lighting-Effects-2048x1024.jpg 2048w, /wp-content/uploads/Customization-Lighting-Effects-jpg.avif 2400w"  sizes="auto, (max-width: 2400px) 100vw, 2400px" data-mtfi="1" /></a></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1652" aria-expanded="false">Design and Shape</div>
-					<div id="elementor-tab-content-1652" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1652" tabindex="0" hidden="hidden"><p><a href="/design-process/"><img decoding="async" loading="lazy" class="  size-full wp-image-99661 aligncenter" src="/wp-content/uploads/Customization-Design-Shape.jpg" alt="Customization Design Shape" width="2400" height="1200" title="Home 8"></a></p></div>
+					<div id="elementor-tab-content-1652" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1652" tabindex="0" hidden="hidden"><p><a href="/design-process/"><img decoding="async" loading="lazy" class="size-full wp-image-99661 aligncenter" src="/wp-content/uploads/Customization-Design-Shape.jpg" alt="Customization Design Shape" width="2400" height="1200" title="Home 8"></a></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="3" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1653" aria-expanded="false">Materials</div>
-					<div id="elementor-tab-content-1653" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1653" tabindex="0" hidden="hidden"><p><a href="/materials/"><img decoding="async" loading="lazy" class="  size-full wp-image-99660 aligncenter" src="/wp-content/uploads/Customization-Materials.jpg" alt="Customization Materials" width="2400" height="1200" title="Home 9"></a></p></div>
+					<div id="elementor-tab-content-1653" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1653" tabindex="0" hidden="hidden"><p><a href="/materials/"><img decoding="async" loading="lazy" class="size-full wp-image-99660 aligncenter" src="/wp-content/uploads/Customization-Materials.jpg" alt="Customization Materials" width="2400" height="1200" title="Home 9"></a></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="4" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1654" aria-expanded="false">Water Flow & Movement</div>
-					<div id="elementor-tab-content-1654" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1654" tabindex="0" hidden="hidden"><p><a href="/architecture/"><img decoding="async" loading="lazy" class="  size-full wp-image-99659 aligncenter" src="/wp-content/uploads/Customization-Water-Flow.jpg" alt="Customization Water Flow" width="2400" height="1200" title="Home 10"></a></p></div>
+					<div id="elementor-tab-content-1654" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1654" tabindex="0" hidden="hidden"><p><a href="/architecture/"><img decoding="async" loading="lazy" class="size-full wp-image-99659 aligncenter" src="/wp-content/uploads/Customization-Water-Flow.jpg" alt="Customization Water Flow" width="2400" height="1200" title="Home 10"></a></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="5" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1655" aria-expanded="false">Surrounding Habitat</div>
-					<div id="elementor-tab-content-1655" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1655" tabindex="0" hidden="hidden"><p><a href="/reflection-pools/"><img decoding="async" loading="lazy" class="  size-full wp-image-99658 aligncenter" src="/wp-content/uploads/Customization-Habitat.jpg" alt="Customization Habitat" width="2400" height="1200" title="Home 11"></a></p></div>
+					<div id="elementor-tab-content-1655" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1655" tabindex="0" hidden="hidden"><p><a href="/reflection-pools/"><img decoding="async" loading="lazy" class="size-full wp-image-99658 aligncenter" src="/wp-content/uploads/Customization-Habitat.jpg" alt="Customization Habitat" width="2400" height="1200" title="Home 11"></a></p></div>
 							</div>
 		</div>
 						</div>
@@ -672,14 +667,14 @@
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fa3866f" data-id="fa3866f" data-element_type="column" data-e-type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-4f71c81 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="4f71c81" data-element_type="widget" data-e-type="widget" data-settings="{&quot;autoplay_speed&quot;:3000,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
-										<div class="elementor-slides-wrapper elementor-main-swiper swiper" role="region" aria-roledescription="carousel" aria-label="Slides" dir="ltr" data-animation="fadeInUp">
-				<div class="swiper-wrapper elementor-slides">
-										<div class="elementor-repeater-item-520c274 swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Video Custom Rain Curtain Waterfall-Indoor Lobby Water Feature"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Midwest Tropical; Award-Winning Custom Water Features.</div></div></div></div><div class="elementor-repeater-item-452ac0b swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Kona-slider"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Maintenance-Free; Fully Enclosed Bubble Walls.</div></div></div></div><div class="elementor-repeater-item-f76777c swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Stainless Steel Mesh Water Wall at Wycliffe Country Club in Palm Beach, Florida"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">High Performance & Low-Maintenance Water Features</div></div></div></div><div class="elementor-repeater-item-c201ac9 swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Hoofddorp, 6 september 2017 ? Waterfall at Plantronics office. Photo: Mats van Soolingen"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Fully Enclosed Water Wall Designs</div></div></div></div><div class="elementor-repeater-item-04b1f1a swiper-slide" role="group" aria-roledescription="slide"><div class="swiper-slide-bg" role="img" aria-label="Screenshot_1"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Midwest Tropical; Captivating Water Features, Perfected.</div></div></div></div>				</div>
-															<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous slide">
+										<div class="elementor-slides-wrapper elementor-main-mtslider mtslider" role="region" aria-roledescription="carousel" aria-label="Slides" dir="ltr" data-animation="fadeInUp">
+				<div class="mtslider-wrapper elementor-slides">
+										<div class="elementor-repeater-item-520c274 mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Video Custom Rain Curtain Waterfall-Indoor Lobby Water Feature"></div><div class="mtslider-slide-inner" ><div class="mtslider-slide-contents"><div class="elementor-slide-heading">Midwest Tropical; Award-Winning Custom Water Features.</div></div></div></div><div class="elementor-repeater-item-452ac0b mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Kona-slider"></div><div class="mtslider-slide-inner" ><div class="mtslider-slide-contents"><div class="elementor-slide-heading">Maintenance-Free; Fully Enclosed Bubble Walls.</div></div></div></div><div class="elementor-repeater-item-f76777c mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Stainless Steel Mesh Water Wall at Wycliffe Country Club in Palm Beach, Florida"></div><div class="mtslider-slide-inner" ><div class="mtslider-slide-contents"><div class="elementor-slide-heading">High Performance & Low-Maintenance Water Features</div></div></div></div><div class="elementor-repeater-item-c201ac9 mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Hoofddorp, 6 september 2017 ? Waterfall at Plantronics office. Photo: Mats van Soolingen"></div><div class="mtslider-slide-inner" ><div class="mtslider-slide-contents"><div class="elementor-slide-heading">Fully Enclosed Water Wall Designs</div></div></div></div><div class="elementor-repeater-item-04b1f1a mtslider-slide" role="group" aria-roledescription="slide"><div class="mtslider-slide-bg" role="img" aria-label="Screenshot_1"></div><div class="mtslider-slide-inner" ><div class="mtslider-slide-contents"><div class="elementor-slide-heading">Midwest Tropical; Captivating Water Features, Perfected.</div></div></div></div>				</div>
+															<div class="elementor-mtslider-button elementor-mtslider-button-prev" role="button" tabindex="0" aria-label="Previous slide">
 							<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>						</div>
-						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next slide">
+						<div class="elementor-mtslider-button elementor-mtslider-button-next" role="button" tabindex="0" aria-label="Next slide">
 							<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>						</div>
-																<div class="swiper-pagination"></div>
+																<div class="mtslider-pagination"></div>
 												</div>
 								</div>
 					</div>
@@ -712,10 +707,10 @@
 		<div class="jp-carousel-overlay" style="display: none;">
 		<div class="jp-carousel-container">
 			<div
-				class="jp-carousel-wrap swiper jp-carousel-swiper-container jp-carousel-transitions"
+				class="jp-carousel-wrap mtslider jp-carousel-mtslider-container jp-carousel-transitions"
 				>
-				<div class="jp-carousel swiper-wrapper"></div>
-				<div class="jp-swiper-button-prev swiper-button-prev">
+				<div class="jp-carousel mtslider-wrapper"></div>
+				<div class="jp-mtslider-button-prev mtslider-button-prev">
 					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
 							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
@@ -725,7 +720,7 @@
 						</g>
 					</svg>
 				</div>
-				<div class="jp-swiper-button-next swiper-button-next">
+				<div class="jp-mtslider-button-next mtslider-button-next">
 					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
 							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
@@ -749,7 +744,7 @@
 			<div class="jp-carousel-info">
 				<div class="jp-carousel-info-footer">
 					<div class="jp-carousel-pagination-container">
-						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-mtslider-pagination mtslider-pagination"></div>
 						<div class="jp-carousel-pagination"></div>
 					</div>
 					<div class="jp-carousel-photo-title-container">

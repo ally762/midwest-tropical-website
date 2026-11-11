@@ -58,13 +58,8 @@
 <meta name="twitter:description" content="View stunning examples of our amazing products through captivating videos showcasing our elegant water features in mesmerizing motion." />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="63 minutes" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fvideos%2F" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fvideos%2F&#038;format=xml" />
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/pages/99904" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@type": "ItemList",
@@ -2733,12 +2728,12 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-9da30aa621.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="wp-singular page-template page-template-elementor_header_footer page page-id-99904 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-99904">
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-99904 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-99904">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/../includes/header-e4cb10cb.php'; ?>
@@ -4250,7 +4245,7 @@
 		opacity: 1;
 	}
 </style>
-		<main class="tsvg-main-content-406142 "  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
+		<main class="tsvg-main-content-406142"  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
 			<figure class="tsvg-classic-blocks-container-406142 tsvg-figure-content">
 				<ul class="tsvg-classic-blocks-list-406142 tsvg-ul-content" data-tsvg-effect="effect07" >
 			<li class="tsvg-li-content tsvg-classic-block-406142" data-tsvg-id="136" data-tsvg-effect="none" data-tsvg-src="/wp-content/uploads/Video-.mp4" data-tsvg-link="https://www.youtube.com/watch?v=GNVvwASkeso" data-tsvg-target="_self">
@@ -6929,7 +6924,7 @@
 		opacity: 1;
 	}
 </style>
-		<main class="tsvg-main-content-173288 "  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
+		<main class="tsvg-main-content-173288"  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
 			<figure class="tsvg-classic-blocks-container-173288 tsvg-figure-content">
 				<ul class="tsvg-classic-blocks-list-173288 tsvg-ul-content" data-tsvg-effect="effect07" >
 			<li class="tsvg-li-content tsvg-classic-block-173288" data-tsvg-id="108" data-tsvg-effect="none" data-tsvg-src="https://www.youtube.com/embed/_EJHgOXId2U" data-tsvg-link="https://www.lipsum.com/" data-tsvg-target="_self">
@@ -9181,7 +9176,7 @@
 		opacity: 1;
 	}
 </style>
-		<main class="tsvg-main-content-137403 "  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
+		<main class="tsvg-main-content-137403"  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
 			<figure class="tsvg-classic-blocks-container-137403 tsvg-figure-content">
 				<ul class="tsvg-classic-blocks-list-137403 tsvg-ul-content" data-tsvg-effect="effect10" >
 			<li class="tsvg-li-content tsvg-classic-block-137403" data-tsvg-id="26" data-tsvg-effect="none" data-tsvg-src="https://www.youtube.com/embed/rOAN6-VIOdw" data-tsvg-link="" data-tsvg-target="_self">
@@ -9248,7 +9243,7 @@
 				<figure class="tsvg-classic-block-inner-137403">
 					<div class="tsvg-classic-block-items-137403" data-tsvg-effect="rgba(0,0,0,0.5)">
 						<img decoding="async" loading="lazy" width="" height="" src="https://i.ytimg.com/vi/tTOpFdBHdPQ/mqdefault.jpg" alt="img" class="tsvg-classic-block-img-137403" data-tsvg-img="rgba(0, 0, 0, 0.015)" title="Videos 25">
-						<div class="tsvg-classic-block-desc"><div class="elementor-container elementor-column-gap-default"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-f9fe47e elementor-widget__width-inherit elementor-widget elementor-widget-woocommerce-product-content animated fadeIn"><div class="elementor-widget-container">MIDWEST TROPICAL CUSTOM WATER FEATURES. (2014, JANUARY 31). CUSTOM RAIN CURTAIN WATERFALL-INDOOR LOBBY WATER FEATURE ON VIDEOS. RETRIEVED FROM HTTPS://YOUTU.BE/TTOPFDBHDPQ<p>Midwest Tropical https://www.midwest-tropical.com custom designed this Rain Curtain Waterfall for an indoor shopping center! This four sided square shaped Rain Curtain Waterfall design creates a stunning design for any space and is the perfect way to design a built-in waterfall look. See more Rain Curtains, Water Walls &amp; Waterfalls at https://www.midwest-tropical.com/water… Get a quote from Midwest Tropical Custom Indoor Waterfalls for similar Custom Water Features please call Midwest Tropical at 888-365-2393, email info@www.midwest-tropical.com or visit https://www.midwest-tropical.com Midwest Tropical is the inventor of the Bubble Wall, building large-scale bubble walls and water features for venues around the world.</p></div></div></div></div></div>
+						<div class="tsvg-classic-block-desc"><div class="elementor-container elementor-column-gap-default"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-f9fe47e elementor-widget__width-inherit elementor-widget elementor-widget-mtshop-product-content animated fadeIn"><div class="elementor-widget-container">MIDWEST TROPICAL CUSTOM WATER FEATURES. (2014, JANUARY 31). CUSTOM RAIN CURTAIN WATERFALL-INDOOR LOBBY WATER FEATURE ON VIDEOS. RETRIEVED FROM HTTPS://YOUTU.BE/TTOPFDBHDPQ<p>Midwest Tropical https://www.midwest-tropical.com custom designed this Rain Curtain Waterfall for an indoor shopping center! This four sided square shaped Rain Curtain Waterfall design creates a stunning design for any space and is the perfect way to design a built-in waterfall look. See more Rain Curtains, Water Walls &amp; Waterfalls at https://www.midwest-tropical.com/water… Get a quote from Midwest Tropical Custom Indoor Waterfalls for similar Custom Water Features please call Midwest Tropical at 888-365-2393, email info@www.midwest-tropical.com or visit https://www.midwest-tropical.com Midwest Tropical is the inventor of the Bubble Wall, building large-scale bubble walls and water features for venues around the world.</p></div></div></div></div></div>
 						<figcaption data-tsvg-hover="25">
 							<div class="tsvg-classic-block-hover" data-tsvg-ef="effect10">
 								<div class="tsvg-classic-block-hover-div-137403">
@@ -9278,7 +9273,7 @@
 				<figure class="tsvg-classic-block-inner-137403">
 					<div class="tsvg-classic-block-items-137403" data-tsvg-effect="rgba(0,0,0,0.5)">
 						<img decoding="async" loading="lazy" width="" height="" src="https://i.ytimg.com/vi/8UyQ-EnOJCM/mqdefault.jpg" alt="img" class="tsvg-classic-block-img-137403" data-tsvg-img="rgba(0, 0, 0, 0.015)" title="Videos 26">
-						<div class="tsvg-classic-block-desc"><div class="elementor-container elementor-column-gap-default"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-f9fe47e elementor-widget__width-inherit elementor-widget elementor-widget-woocommerce-product-content animated fadeIn"><div class="elementor-widget-container">MIDWEST TROPICAL CUSTOM WATER FEATURES. (2014, JANUARY 31). RAIN CURTAIN CUSTOM WATER FEATURE WATERFALL AT TINLEY PARK CONVENTION CENTER ON VIDEOS. RETRIEVED FROM HTTPS://YOUTU.BE/8UYQ-ENOJCM<p>Midwest Tropical https://www.midwest-tropical.com custom designed this Rain Curtain Waterfall for a brand new convention center! This stunning Rain Curtain Waterfall design is over 30′ high by 40′ wide and is a spectacular custom waterfall feature! See more Rain Curtains, Water Walls &amp; Waterfalls at https://www.midwest-tropical.com/water… Get a quote from Midwest Tropical Custom Indoor Waterfalls for similar Custom Water Features please call Midwest Tropical at 888-365-2393, email info@www.midwest-tropical.com or visit https://www.midwest-tropical.com Midwest Tropical is the inventor of the Bubble Wall, building large-scale bubble walls and water features for venues around the world.</p></div></div></div></div></div>
+						<div class="tsvg-classic-block-desc"><div class="elementor-container elementor-column-gap-default"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-f9fe47e elementor-widget__width-inherit elementor-widget elementor-widget-mtshop-product-content animated fadeIn"><div class="elementor-widget-container">MIDWEST TROPICAL CUSTOM WATER FEATURES. (2014, JANUARY 31). RAIN CURTAIN CUSTOM WATER FEATURE WATERFALL AT TINLEY PARK CONVENTION CENTER ON VIDEOS. RETRIEVED FROM HTTPS://YOUTU.BE/8UYQ-ENOJCM<p>Midwest Tropical https://www.midwest-tropical.com custom designed this Rain Curtain Waterfall for a brand new convention center! This stunning Rain Curtain Waterfall design is over 30′ high by 40′ wide and is a spectacular custom waterfall feature! See more Rain Curtains, Water Walls &amp; Waterfalls at https://www.midwest-tropical.com/water… Get a quote from Midwest Tropical Custom Indoor Waterfalls for similar Custom Water Features please call Midwest Tropical at 888-365-2393, email info@www.midwest-tropical.com or visit https://www.midwest-tropical.com Midwest Tropical is the inventor of the Bubble Wall, building large-scale bubble walls and water features for venues around the world.</p></div></div></div></div></div>
 						<figcaption data-tsvg-hover="25">
 							<div class="tsvg-classic-block-hover" data-tsvg-ef="effect10">
 								<div class="tsvg-classic-block-hover-div-137403">
@@ -9398,7 +9393,7 @@
 				<figure class="tsvg-classic-block-inner-137403">
 					<div class="tsvg-classic-block-items-137403" data-tsvg-effect="rgba(0,0,0,0.5)">
 						<img decoding="async" loading="lazy" width="" height="" src="https://i.ytimg.com/vi/NXKkgYSs4rw/mqdefault.jpg" alt="img" class="tsvg-classic-block-img-137403" data-tsvg-img="rgba(0, 0, 0, 0.015)" title="Videos 30">
-						<div class="tsvg-classic-block-desc"><div class="elementor-container elementor-column-gap-default"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-f9fe47e elementor-widget__width-inherit elementor-widget elementor-widget-woocommerce-product-content animated fadeIn"><div class="elementor-widget-container">MIDWEST TROPICAL CUSTOM WATER FEATURES. (2016, FEBRUARY 12). RAIN CURTAIN WATER FEATURE-LOBBY WATERFALL WALL AT EMBASSY SUITES HOUSTON WOODLANDS, TEXAS ON VIDEOS. RETRIEVED FROM HTTPS://YOUTU.BE/NXKKGYSS4RW<p>This Rain Curtain Waterfall Water Feature is a beautiful focal point of the lobby at the new Embassy Suites Houston Woodlands location in Texas. Water descends down hundreds of strands as the water feature creates a soothing visual effect. Custom designed and built for the space by Midwest Tropical, this rain curtain can be built to any size for your project! Midwest Tropical is the most established custom water feature manufacturer with over 30 years experience creating unique and tranquil custom waterfalls, water wall, bubble walls, rain curtains, and water features, see these at https://www.midwest-tropical.com To watch videos of more rain curtain water features please visit https://www.midwest-tropical.com/custo… Midwest Tropical’s high quality work can be found in hotels, restaurants, nightclubs, casinos, spas, hospitals, universities and private residences around the world. Call us at 312-262-5390 or info@www.midwest-tropical.com for the best price, quality and experience on your indoor water features and waterfall projects today!</p></div></div></div></div></div>
+						<div class="tsvg-classic-block-desc"><div class="elementor-container elementor-column-gap-default"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-f9fe47e elementor-widget__width-inherit elementor-widget elementor-widget-mtshop-product-content animated fadeIn"><div class="elementor-widget-container">MIDWEST TROPICAL CUSTOM WATER FEATURES. (2016, FEBRUARY 12). RAIN CURTAIN WATER FEATURE-LOBBY WATERFALL WALL AT EMBASSY SUITES HOUSTON WOODLANDS, TEXAS ON VIDEOS. RETRIEVED FROM HTTPS://YOUTU.BE/NXKKGYSS4RW<p>This Rain Curtain Waterfall Water Feature is a beautiful focal point of the lobby at the new Embassy Suites Houston Woodlands location in Texas. Water descends down hundreds of strands as the water feature creates a soothing visual effect. Custom designed and built for the space by Midwest Tropical, this rain curtain can be built to any size for your project! Midwest Tropical is the most established custom water feature manufacturer with over 30 years experience creating unique and tranquil custom waterfalls, water wall, bubble walls, rain curtains, and water features, see these at https://www.midwest-tropical.com To watch videos of more rain curtain water features please visit https://www.midwest-tropical.com/custo… Midwest Tropical’s high quality work can be found in hotels, restaurants, nightclubs, casinos, spas, hospitals, universities and private residences around the world. Call us at 312-262-5390 or info@www.midwest-tropical.com for the best price, quality and experience on your indoor water features and waterfall projects today!</p></div></div></div></div></div>
 						<figcaption data-tsvg-hover="25">
 							<div class="tsvg-classic-block-hover" data-tsvg-ef="effect10">
 								<div class="tsvg-classic-block-hover-div-137403">
@@ -11583,7 +11578,7 @@
 		opacity: 1;
 	}
 </style>
-		<main class="tsvg-main-content-194882 "  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
+		<main class="tsvg-main-content-194882"  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
 			<figure class="tsvg-classic-blocks-container-194882 tsvg-figure-content">
 				<ul class="tsvg-classic-blocks-list-194882 tsvg-ul-content" data-tsvg-effect="effect10" >
 			<li class="tsvg-li-content tsvg-classic-block-194882" data-tsvg-id="34" data-tsvg-effect="none" data-tsvg-src="https://www.youtube.com/embed/9ppQuedI8iA" data-tsvg-link="" data-tsvg-target="_self">
@@ -13865,7 +13860,7 @@
 		opacity: 1;
 	}
 </style>
-		<main class="tsvg-main-content-802342 "  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
+		<main class="tsvg-main-content-802342"  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
 			<figure class="tsvg-classic-blocks-container-802342 tsvg-figure-content">
 				<ul class="tsvg-classic-blocks-list-802342 tsvg-ul-content" data-tsvg-effect="effect10" >
 			<li class="tsvg-li-content tsvg-classic-block-802342" data-tsvg-id="38" data-tsvg-effect="none" data-tsvg-src="https://www.youtube.com/embed/zPFi_J1gj9g" data-tsvg-link="" data-tsvg-target="_self">
@@ -16237,7 +16232,7 @@
 		opacity: 1;
 	}
 </style>
-		<main class="tsvg-main-content-970843 "  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
+		<main class="tsvg-main-content-970843"  data-item-open="none"  data-item-number="1" data-pagination="all"  data-p-lm="">
 			<figure class="tsvg-classic-blocks-container-970843 tsvg-figure-content">
 				<ul class="tsvg-classic-blocks-list-970843 tsvg-ul-content" data-tsvg-effect="effect10" >
 			<li class="tsvg-li-content tsvg-classic-block-970843" data-tsvg-id="138" data-tsvg-effect="none" data-tsvg-src="/wp-content/uploads/IMG_5252.mp4" data-tsvg-link="" data-tsvg-target="_self">

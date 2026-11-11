@@ -23,14 +23,8 @@
 <meta name="twitter:data1" content="Midwest Tropical" />
 <meta name="twitter:label2" content="Time to read" />
 <meta name="twitter:data2" content="4 minutes" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Why Rain Curtain Water Features Are Trending in 2025 Design Comments Feed" href="https://www.midwest-tropical.com/why-rain-curtain-water-features-are-trending-in-2025-design/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fwhy-rain-curtain-water-features-are-trending-in-2025-design%2F" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Fwhy-rain-curtain-water-features-are-trending-in-2025-design%2F&#038;format=xml" />
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/posts/127465" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@graph": [
@@ -200,12 +194,12 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-63b8ea4ffd.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="wp-singular post-template-default single single-post postid-127465 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
+<body class="wp-singular post-template-default single single-post postid-127465 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page-109341 elementor-page-103796">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
@@ -232,36 +226,36 @@
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
 												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
 								Name							</label>
-														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Name" required="required">
 											</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_3d7442a elementor-col-50">
 												<label for="form-field-field_3d7442a" class="elementor-field-label elementor-screen-only">
 								Company							</label>
-														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
+														<input size="1" type="text" name="form_fields[field_3d7442a]" id="form-field-field_3d7442a" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Company">
 											</div>
 								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
 												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
 								Email							</label>
-														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Email" required="required">
 											</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_30844ce elementor-col-50 elementor-field-required">
 												<label for="form-field-field_30844ce" class="elementor-field-label elementor-screen-only">
 								Phone							</label>
-														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required">
+														<input size="1" type="text" name="form_fields[field_30844ce]" id="form-field-field_30844ce" class="elementor-field elementor-size-sm elementor-field-textual" placeholder="Phone" required="required">
 											</div>
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_a9d1d36 elementor-col-100">
 												<label for="form-field-field_a9d1d36" class="elementor-field-label elementor-screen-only">
 								Project Address							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
+						<textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[field_a9d1d36]" id="form-field-field_a9d1d36" rows="4" placeholder="Project Address"></textarea>				</div>
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
 												<label for="form-field-message" class="elementor-field-label elementor-screen-only">
 								Information							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
+						<textarea class="elementor-field-textual elementor-field elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Dimension, Design Intent, Comments / Notes"></textarea>				</div>
 								<div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-field_8f21363 elementor-col-100">
-							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm  elementor-upload-field">
+							<input type="file" name="form_fields[field_8f21363]" id="form-field-field_8f21363" class="elementor-field elementor-size-sm elementor-upload-field">
 						</div>
 								<div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-token_field elementor-col-100">
-													<input size="1" type="hidden" name="form_fields[token_field]" id="form-field-token_field" class="elementor-field elementor-size-sm  elementor-field-textual">
+													<input size="1" type="hidden" name="form_fields[token_field]" id="form-field-token_field" class="elementor-field elementor-size-sm elementor-field-textual">
 											</div>
 								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
 					<button class="elementor-button elementor-size-sm" type="submit">

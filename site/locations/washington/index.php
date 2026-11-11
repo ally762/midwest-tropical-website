@@ -21,15 +21,10 @@
 <meta name="twitter:description" content="Enhance your business space in Washington with unique indoor water installations, bubble walls, and water features for a lasting impression." />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="4 minutes" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Feed" href="https://www.midwest-tropical.com/feed/" />
-<link crossorigin="anonymous" rel="alternate" type="application/rss+xml" title="Midwest Tropical Expertly Built Custom Water Features! &raquo; Comments Feed" href="https://www.midwest-tropical.com/comments/feed/" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Flocations%2Fwashington%2F" />
-<link crossorigin="anonymous" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.midwest-tropical.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.midwest-tropical.com%2Flocations%2Fwashington%2F&#038;format=xml" />
 <meta name="theme-color" content="#3761A7">
 <link crossorigin="anonymous" rel="apple-touch-icon" href="https://www.midwest-tropical.com/wp-content/plugins/mt-pwa/assets/icons/apple-touch-icon.png">
-<link crossorigin="anonymous" rel="alternate" title="JSON" type="application/json" href="https://www.midwest-tropical.com/wp-json/wp/v2/pages/102862" />
 <meta name="google-site-verification" content="1u4UouCDAh8aRynWl5bfpaGFZ5qCwr6juLNtmeVpzoM" />
-<script type="application/ld+json" class="saswp-schema-markup-output">
+<script type="application/ld+json">
 {"@context":"https:\/\/schema.org\/","@graph":[{
     "@context": "https://schema.org/",
     "@graph": [
@@ -149,12 +144,12 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=8d5f0509">
+<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
 <link rel="stylesheet" href="/assets/css/b-4989ebe6a6.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=b5ce9adf">
-<script src="/assets/js/main.js?v=f5fcdb5b" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
+<script src="/assets/js/main.js?v=45cc267d" defer></script>
 </head>
-<body class="wp-singular page-template-default page page-id-102862 page-child parent-pageid-92908 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience woocommerce-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page elementor-page-102862 elementor-page-109341">
+<body class="wp-singular page-template-default page page-id-102862 page-child parent-pageid-92908 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page elementor-page-102862 elementor-page-109341">
 
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a><?php include __DIR__ . '/../../includes/header-8ffa8870.php'; ?><main id="content" class="site-main post-102862 page type-page status-publish hentry"><div class="page-header"><h1 class="entry-title">Washington</h1></div><div class="page-content"><h2>Washington</h2><h2>Washington Water Features: Transforming Spaces with Midwest Tropical</h2><p>Our specialty is creating unique indoor water installations, bubble walls, and water features that will enhance your business space in Washington. Our outstanding selection of bubble wall fountains, indoor water fountains, and other accessories may assist you in creating a distinctive and enthralling atmosphere for your guests.</p><h3>Elevate Your Commercial Space with Midwest Tropical</h3><p>At Midwest Tropical, we recognize how critical it is to leave a lasting impression on your clients. That is exactly what our water features are intended to do. Our cutting-edge water installations will create the ideal ambiance for any office, hotel, restaurant, or retail facility in Washington.</p><h3>Custom Water Features for Washington Businesses</h3><p>Midwest Tropical is a byword for creativity and skill. Our specially made water features are made to fit in well with your business environment and add a special touch. Our team is dedicated to bringing your idea to life and offers an outstanding selection of indoor water fountains and indoor water walls.<br />
