@@ -13,7 +13,7 @@
 <meta property="og:description" content="Design your own exquisite indoor water features with Midwest Tropical. Custom made for homes and businesses, our creations redefine elegance and sophistication." />
 <meta property="og:url" content="https://www.midwest-tropical.com/" />
 <meta property="og:site_name" content="Midwest Tropical" />
-<meta property="og:updated_time" content="2026-11-10T22:05:46+00:00" />
+<meta property="og:updated_time" content="2026-11-11T04:41:09+00:00" />
 <meta property="og:image" content="https://www.midwest-tropical.com/wp-content/uploads/Screenshot_1.jpg" />
 <meta property="og:image:secure_url" content="https://www.midwest-tropical.com/wp-content/uploads/Screenshot_1.jpg" />
 <meta property="og:image:width" content="596" />
@@ -21,7 +21,7 @@
 <meta property="og:image:alt" content="custom water feature" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="article:published_time" content="2023-06-29T21:11:01+00:00" />
-<meta property="article:modified_time" content="2026-11-10T22:05:46+00:00" />
+<meta property="article:modified_time" content="2026-11-11T04:41:09+00:00" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Custom Water Feature | Water Feature Designs 2026" />
 <meta name="twitter:description" content="Design your own exquisite indoor water features with Midwest Tropical. Custom made for homes and businesses, our creations redefine elegance and sophistication." />
@@ -143,15 +143,16 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
-<link rel="stylesheet" href="/assets/css/b-892ab58d4c.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
-<script src="/assets/js/main.js?v=45cc267d" defer></script>
+<link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
+<link rel="stylesheet" href="/assets/css/b-204fc0c70a.css">
+<link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
+<link rel="stylesheet" href="/assets/css/fix.css?v=559c709a">
+<script src="/assets/js/main.js?v=f8804d43" defer></script>
 </head>
 <body class="home wp-singular page-template page-template-elementor_header_footer page page-id-31 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-31">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-		<?php include __DIR__ . '/includes/header-ce8fb444.php'; ?>
+		<?php include __DIR__ . '/includes/header-43acf302.php'; ?>
 				<div data-elementor-type="wp-page" data-elementor-id="31" class="elementor elementor-31" data-elementor-post-type="page">
 						<section class="elementor-section elementor-top-section elementor-element elementor-element-2dbb1a1 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="2dbb1a1" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
@@ -278,7 +279,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/bubble-walls/">Bubble Walls  </a></h2>				</div>
 				<div class="elementor-element elementor-element-859d55e elementor-widget elementor-widget-image" data-id="859d55e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/bubble-walls/">
-							<img decoding="async" width="500" height="464" src="/wp-content/uploads/home-bubble-walls-2-jpg.avif" class="attachment-full size-full wp-image-102269" alt="home-bubble-walls-"  srcset="/wp-content/uploads/home-bubble-walls-2-jpg-100x100.avif 100w, /wp-content/uploads/home-bubble-walls-2-300x278.avif 300w, /wp-content/uploads/home-bubble-walls-2-jpg.avif 500w"  sizes="(max-width: 500px) 100vw, 500px" title="Home 1">								</a>
+							<img decoding="async" width="500" height="464" src="/wp-content/uploads/home-bubble-walls-2-jpg.avif" class="attachment-full size-full wp-image-102269" alt="home-bubble-walls-" srcset="/wp-content/uploads/home-bubble-walls-2-jpg-100x100.avif 100w, /wp-content/uploads/home-bubble-walls-2-300x278.avif 300w, /wp-content/uploads/home-bubble-walls-2-jpg.avif 500w" sizes="(max-width: 500px) 100vw, 500px" title="Home 1">								</a>
 															</div>
 				<div class="elementor-element elementor-element-1af1b9b elementor-widget elementor-widget-text-editor" data-id="1af1b9b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									Midwest Tropical invented the Bubble Wall which combines Water, Air and Light into a stunning water effect with bubbles slowly ascending in Sealed &#038; Enclosed Water Feature Design.  Color changing LED lighting allows you to customize the color to fit any environment and with larger Bubble Wall Projects we offer the capability to utilize computer controlled DMX lighting and air controls to create stunning “Shows”; think of it as the Bellagio Fountain of Indoor Water Features!								</div>
@@ -297,7 +298,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/rain-curtains/">Rain Curtain</a></h2>				</div>
 				<div class="elementor-element elementor-element-7f8ebd0 elementor-widget elementor-widget-image" data-id="7f8ebd0" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/rain-curtains/">
-							<img decoding="async" fetchpriority="high" width="500" height="464" src="/wp-content/uploads/home-rain-curtain-2.jpg" class="attachment-full size-full wp-image-102273" alt="home-rain-curtain-2"  srcset="/wp-content/uploads/home-rain-curtain-2-jpg-100x100.avif 100w, /wp-content/uploads/home-rain-curtain-2-300x278.avif 300w, /wp-content/uploads/home-rain-curtain-2-jpg.avif 500w"  sizes="(max-width: 500px) 100vw, 500px" title="Home 2">								</a>
+							<img decoding="async" fetchpriority="high" width="500" height="464" src="/wp-content/uploads/home-rain-curtain-2.jpg" class="attachment-full size-full wp-image-102273" alt="home-rain-curtain-2" srcset="/wp-content/uploads/home-rain-curtain-2-jpg-100x100.avif 100w, /wp-content/uploads/home-rain-curtain-2-300x278.avif 300w, /wp-content/uploads/home-rain-curtain-2-jpg.avif 500w" sizes="(max-width: 500px) 100vw, 500px" title="Home 2">								</a>
 															</div>
 				<div class="elementor-element elementor-element-ead6ce2 elementor-widget elementor-widget-text-editor" data-id="ead6ce2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									A Rain Curtain is a type of water feature that gives the illusion of a wall or curtain of rain, creating a visually stunning and relaxing environment. Water is recirculates from the basin to the top of the feature and then falls along invisible strands to create an enthralling curtain effect with no splash!								</div>
@@ -316,7 +317,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/glass-water-features/">Glass Water Walls</a></h2>				</div>
 				<div class="elementor-element elementor-element-76ca7b6 elementor-widget elementor-widget-image" data-id="76ca7b6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/glass-water-features/">
-							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-glass-water-walls-2.jpg" class="attachment-full size-full wp-image-102280" alt="home-glass-water-walls-2"  srcset="/wp-content/uploads/home-glass-water-walls-2-jpg-100x100.avif 100w, /wp-content/uploads/home-glass-water-walls-2-300x278.avif 300w, /wp-content/uploads/home-glass-water-walls-2-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 3">								</a>
+							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-glass-water-walls-2.jpg" class="attachment-full size-full wp-image-102280" alt="home-glass-water-walls-2" srcset="/wp-content/uploads/home-glass-water-walls-2-jpg-100x100.avif 100w, /wp-content/uploads/home-glass-water-walls-2-300x278.avif 300w, /wp-content/uploads/home-glass-water-walls-2-jpg.avif 500w" sizes="(max-width: 500px) 100vw, 500px" title="Home 3">								</a>
 															</div>
 				<div class="elementor-element elementor-element-67457c2 elementor-widget elementor-widget-text-editor" data-id="67457c2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									Glass Water Walls offer a timeless water feature design with water cascading down a glass surface.  With many different glass options available including frosted, textured, specialty and pattern glasses to give your water wall a unique look.  Midwest Tropical offers both traditional open Water Walls where you can touch the water, as well Sealed and Enclosed Water Walls where all the water is encapsulated between glass panels for a no-maintenance design.  Etched, colored and even raised dimensional logos can be added to our glass water walls to help brand your space!								</div>
@@ -376,7 +377,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/materials/acrylic-water-features/">Scored Waterfalls</a></h2>				</div>
 				<div class="elementor-element elementor-element-a337469 elementor-widget elementor-widget-image" data-id="a337469" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/materials/acrylic-water-features/">
-							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-scored-waterfalls.jpg" class="attachment-full size-full wp-image-102287" alt="home-scored-waterfalls"  srcset="/wp-content/uploads/home-scored-waterfalls-jpg-100x100.avif 100w, /wp-content/uploads/home-scored-waterfalls-300x278.avif 300w, /wp-content/uploads/home-scored-waterfalls-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 4">								</a>
+							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-scored-waterfalls.jpg" class="attachment-full size-full wp-image-102287" alt="home-scored-waterfalls" srcset="/wp-content/uploads/home-scored-waterfalls-jpg-100x100.avif 100w, /wp-content/uploads/home-scored-waterfalls-300x278.avif 300w, /wp-content/uploads/home-scored-waterfalls-jpg.avif 500w" sizes="(max-width: 500px) 100vw, 500px" title="Home 4">								</a>
 															</div>
 				<div class="elementor-element elementor-element-84f07ce elementor-widget elementor-widget-text-editor" data-id="84f07ce" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									Midwest Tropical uses a proprietary textured material to create its Scored Waterfalls.  The water slowly descends down the specially designed surface to create a rippled wave pattern as the water cascades from top to bottom.  Logos and lighting can be added to these Scored Waterfalls to make customized for your space.   								</div>
@@ -395,7 +396,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/materials/wire-mesh-water-features-2/">Mesh Water Walls</a></h2>				</div>
 				<div class="elementor-element elementor-element-644d3c5 elementor-widget elementor-widget-image" data-id="644d3c5" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/materials/wire-mesh-water-features-2/">
-							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-mesh-water-walls.jpg" class="attachment-full size-full wp-image-102295" alt="home-mesh-water-walls."  srcset="/wp-content/uploads/home-mesh-water-walls-jpg-100x100.avif 100w, /wp-content/uploads/home-mesh-water-walls-300x278.avif 300w, /wp-content/uploads/home-mesh-water-walls-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 5">								</a>
+							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-mesh-water-walls.jpg" class="attachment-full size-full wp-image-102295" alt="home-mesh-water-walls." srcset="/wp-content/uploads/home-mesh-water-walls-jpg-100x100.avif 100w, /wp-content/uploads/home-mesh-water-walls-300x278.avif 300w, /wp-content/uploads/home-mesh-water-walls-jpg.avif 500w" sizes="(max-width: 500px) 100vw, 500px" title="Home 5">								</a>
 															</div>
 				<div class="elementor-element elementor-element-9f11a80 elementor-widget elementor-widget-text-editor" data-id="9f11a80" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									As calming as it is functional, a mesh water feature creates an impressive and eye catching focal point for any space indoors and outdoors.  Mesh Waterfalls offer a beautiful, functional solution that can be customized to any size, offer color changing lighting, and create a stunning cascading water pattern as the water slowly descends down this proprietary metal specially designed by Midwest Tropical.								</div>
@@ -414,7 +415,7 @@
 					<h2 class="elementor-heading-title elementor-size-default"><a href="/specialty-fountains/">Custom  Fountains</a></h2>				</div>
 				<div class="elementor-element elementor-element-c2c70ab elementor-widget elementor-widget-image" data-id="c2c70ab" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/specialty-fountains/">
-							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-water-features.jpg" class="attachment-full size-full wp-image-99864" alt="home-water-features.jpg"  srcset="/wp-content/uploads/home-water-features-jpg-100x100.avif 100w, /wp-content/uploads/home-water-features-300x278.avif 300w, /wp-content/uploads/home-water-features-jpg.avif 500w"  sizes="auto, (max-width: 500px) 100vw, 500px" title="Home 6">								</a>
+							<img decoding="async" loading="lazy" width="500" height="464" src="/wp-content/uploads/home-water-features.jpg" class="attachment-full size-full wp-image-99864" alt="home-water-features.jpg" srcset="/wp-content/uploads/home-water-features-jpg-100x100.avif 100w, /wp-content/uploads/home-water-features-300x278.avif 300w, /wp-content/uploads/home-water-features-jpg.avif 500w" sizes="(max-width: 500px) 100vw, 500px" title="Home 6">								</a>
 															</div>
 				<div class="elementor-element elementor-element-3e9a0d8 elementor-widget elementor-widget-text-editor" data-id="3e9a0d8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									<p>Reflection Pools, Custom Fountains, Water Spouts, Bubbler Jets &amp; More! Dive into unexplored creative waters with us and work on a form never done before no worries about achieving your wish. If you can describe what you have in mind, we can create the design and then fabricate the feature.</p>								</div>
@@ -483,11 +484,11 @@
 							</div>
 			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-1651" aria-expanded="false">Lighting Effects</div>
-					<div id="elementor-tab-content-1651" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1651" tabindex="0" hidden="false"><p><a href="/features/"><img decoding="async" loading="lazy" class="size-full wp-image-102323 aligncenter" src="/wp-content/uploads/Customization-Lighting-Effects.jpg" alt="Customization Lighting Effects" width="2400" height="1200" title="Home 7"  srcset="/wp-content/uploads/Customization-Lighting-Effects-20x10.jpg 20w, /wp-content/uploads/Customization-Lighting-Effects-jpg-100x100.avif 100w, /wp-content/uploads/Customization-Lighting-Effects-768x384.jpg 768w, /wp-content/uploads/Customization-Lighting-Effects-jpg-800x400.avif 800w, /wp-content/uploads/Customization-Lighting-Effects-jpg-1440x720.avif 1440w, /wp-content/uploads/Customization-Lighting-Effects-1536x768.jpg 1536w, /wp-content/uploads/Customization-Lighting-Effects-2048x1024.jpg 2048w, /wp-content/uploads/Customization-Lighting-Effects-jpg.avif 2400w"  sizes="auto, (max-width: 2400px) 100vw, 2400px" data-mtfi="1" /></a></p></div>
+					<div id="elementor-tab-content-1651" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1651" tabindex="0" hidden="false"><p><a href="/features/"><picture><source srcset="/wp-content/uploads/Customization-Lighting-Effects-20x10.jpg.webp 20w, /wp-content/uploads/Customization-Lighting-Effects-jpg-100x100.avif 100w, /wp-content/uploads/Customization-Lighting-Effects-768x384.jpg.webp 768w, /wp-content/uploads/Customization-Lighting-Effects-jpg-800x400.avif 800w, /wp-content/uploads/Customization-Lighting-Effects-jpg-1440x720.avif 1440w, /wp-content/uploads/Customization-Lighting-Effects-1536x768.jpg.webp 1536w, /wp-content/uploads/Customization-Lighting-Effects-2048x1024.jpg.webp 2048w, /wp-content/uploads/Customization-Lighting-Effects-jpg.avif 2400w" type="image/webp"><img decoding="async" loading="lazy" class="size-full wp-image-102323 aligncenter" src="/wp-content/uploads/Customization-Lighting-Effects.jpg" alt="Customization Lighting Effects" width="2400" height="1200" title="Home 7" srcset="/wp-content/uploads/Customization-Lighting-Effects-20x10.jpg 20w, /wp-content/uploads/Customization-Lighting-Effects-jpg-100x100.avif 100w, /wp-content/uploads/Customization-Lighting-Effects-768x384.jpg 768w, /wp-content/uploads/Customization-Lighting-Effects-jpg-800x400.avif 800w, /wp-content/uploads/Customization-Lighting-Effects-jpg-1440x720.avif 1440w, /wp-content/uploads/Customization-Lighting-Effects-1536x768.jpg 1536w, /wp-content/uploads/Customization-Lighting-Effects-2048x1024.jpg 2048w, /wp-content/uploads/Customization-Lighting-Effects-jpg.avif 2400w" sizes="(max-width: 2400px) 100vw, 2400px" data-mtfi="1" /></picture></a></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1652" aria-expanded="false">Design and Shape</div>
-					<div id="elementor-tab-content-1652" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1652" tabindex="0" hidden="hidden"><p><a href="/design-process/"><img decoding="async" loading="lazy" class="size-full wp-image-99661 aligncenter" src="/wp-content/uploads/Customization-Design-Shape.jpg" alt="Customization Design Shape" width="2400" height="1200" title="Home 8"></a></p></div>
+					<div id="elementor-tab-content-1652" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1652" tabindex="0" hidden="hidden"><p><a href="/design-process/"><picture><source srcset="/wp-content/uploads/Customization-Design-Shape.jpg.webp" type="image/webp"><img decoding="async" loading="lazy" class="size-full wp-image-99661 aligncenter" src="/wp-content/uploads/Customization-Design-Shape.jpg" alt="Customization Design Shape" width="2400" height="1200" title="Home 8"></picture></a></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="3" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1653" aria-expanded="false">Materials</div>
-					<div id="elementor-tab-content-1653" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1653" tabindex="0" hidden="hidden"><p><a href="/materials/"><img decoding="async" loading="lazy" class="size-full wp-image-99660 aligncenter" src="/wp-content/uploads/Customization-Materials.jpg" alt="Customization Materials" width="2400" height="1200" title="Home 9"></a></p></div>
+					<div id="elementor-tab-content-1653" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1653" tabindex="0" hidden="hidden"><p><a href="/materials/"><picture><source srcset="/wp-content/uploads/Customization-Materials.jpg.webp" type="image/webp"><img decoding="async" loading="lazy" class="size-full wp-image-99660 aligncenter" src="/wp-content/uploads/Customization-Materials.jpg" alt="Customization Materials" width="2400" height="1200" title="Home 9"></picture></a></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="4" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1654" aria-expanded="false">Water Flow & Movement</div>
 					<div id="elementor-tab-content-1654" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1654" tabindex="0" hidden="hidden"><p><a href="/architecture/"><img decoding="async" loading="lazy" class="size-full wp-image-99659 aligncenter" src="/wp-content/uploads/Customization-Water-Flow.jpg" alt="Customization Water Flow" width="2400" height="1200" title="Home 10"></a></p></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="5" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1655" aria-expanded="false">Surrounding Habitat</div>
@@ -506,148 +507,260 @@
 						<div class="elementor-element elementor-element-4212df7 elementor-widget elementor-widget-heading" data-id="4212df7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 					<h2 class="elementor-heading-title elementor-size-default">Our Latest Installations</h2>				</div>
 				<div class="elementor-element elementor-element-e476e58 elementor-widget elementor-widget-html" data-id="e476e58" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+					<style>
+  .gallery_home_grid {
+      list-style: none;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 5px;
+      max-width: 1140px;
+      margin: 0 auto;
+  }
+  .gallery_home_grid li {
+      overflow: hidden;
+  }
+  .gallery_home_grid .img-wrapper {
+      overflow: hidden;
+      position: relative;
+      transition: all .2s ease-in-out;
+  }
+  .gallery_home_grid .img-wrapper img {
+      width: 100%;
+      max-width: 380px;
+      height: 100%;
+      height: 280px;
+      transition: all .5s ease-in-out;
+  }
+  .gallery_home_grid .img-wrapper img:hover {
+      transform: scale(1.2) translateZ(0);
+      -webkit-transform: scale(1.2) translateZ(0);
+  }
+  .gallery_home_grid .img-wrapper .img-title {
+      font-family: Arial, Helvetica, Verdana, sans-serif;
+      font-size: 14px;
+      font-weight: bold;
+      line-height: 1em;
+      padding: 7px 10px;
+      position: absolute;
+      bottom: 4px;
+      left: 0;
+      right: 0;
+      color: #ffffff;
+      padding: 14px 10px 10px;
+      background-color: transparent;
+      text-align: left;
+      max-height: 100%;
+      overflow: hidden;
+      -webkit-transition: 0.2s;
+      transition: 0.2s;
+  }
+  .lightbox {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.lightbox-content {
+  margin: auto !important;
+    margin-top: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px !important;
+  margin-top: 10% !important;
+}
+.close {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+@media(max-width:767px){
+     .gallery_home_grid {
+      list-style: none;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 5px;
+      max-width: intial;
+      margin: 0 auto;
+      padding:0px;
+  }
+  .gallery_home_grid .img-wrapper img {
+      width: 100%;
+      max-width: 100%;
+      height: 100%;
+      height: 200px;
+      transition: all .5s ease-in-out;
+      object-fit: cover;
+  }
+}
+  </style>
   <ul class="gallery_home_grid">
     <li>
       <div class="img-wrapper">
-          <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Bubble_Walls-Swirley_at_Helen_DeVos_Children_s_Hospital_in_Grand_Rapids_.jpg" alt="Bubble Walls Swirley at Helen DeVos Children s Hospital in Grand Rapids" title="Home 12" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+          <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Bubble_Walls-Swirley_at_Helen_DeVos_Children_s_Hospital_in_Grand_Rapids_.jpg" alt="Bubble Walls Swirley at Helen DeVos Children s Hospital in Grand Rapids" title="Home 12" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
           <div class="img-title">Bubble Walls, Helen DeVos Children's Hospital, Grand Rapids, MI</div>
       </div>
   </li>
   <li>
     <div class="img-wrapper">
-        <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/water_wall_university_of_michigan_crisler_center_scored_acrylic_water_wall_35ft_video.jpg" alt="water wall university of michigan crisler center scored acrylic water wall 35ft video" title="Home 13" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+        <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/water_wall_university_of_michigan_crisler_center_scored_acrylic_water_wall_35ft_video.jpg" alt="water wall university of michigan crisler center scored acrylic water wall 35ft video" title="Home 13" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
         <div class="img-title">Water Wall, scored acrylic, University of Michigan Crisler Center, MI</div>
     </div>
 </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Glass_Water_Wall_at_Hilton_Garden_Inn_Bellevue_Washington_3.jpeg" alt="Glass Water Wall at Hilton Garden Inn Bellevue Washington 3" title="Home 14" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Glass_Water_Wall_at_Hilton_Garden_Inn_Bellevue_Washington_3.jpeg" alt="Glass Water Wall at Hilton Garden Inn Bellevue Washington 3" title="Home 14" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall, glass, Hilton Garden Inn, Bellevue, WA</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Vertical_Chamber_Bubble_Walls_and_Mesh_Waterfall_at_Arnaldo_s_Banquet_Center_in_Riverview_Detroit_Michigan_7.jpg" alt="Vertical Chamber Bubble Walls and Mesh Waterfall at Arnaldo s Banquet Center in Riverview Detroit Michigan 7" title="Home 15" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Vertical_Chamber_Bubble_Walls_and_Mesh_Waterfall_at_Arnaldo_s_Banquet_Center_in_Riverview_Detroit_Michigan_7.jpg" alt="Vertical Chamber Bubble Walls and Mesh Waterfall at Arnaldo s Banquet Center in Riverview Detroit Michigan 7" title="Home 15" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Bubble Walls, vertical chamber mesh waterfall, Arnaldo's Banquet Center, Riverview, Detroit, MI</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Tile_Water_Walls_with_Reflection_Pool_and_Bubbler_Jets_for_Hudsonville_Ice_Cream_Headquarters_in_Holland_Michigan.jpg" alt="Tile Water Walls with Reflection Pool and Bubbler Jets for Hudsonville Ice Cream Headquarters in Holland Michigan" title="Home 16" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Tile_Water_Walls_with_Reflection_Pool_and_Bubbler_Jets_for_Hudsonville_Ice_Cream_Headquarters_in_Holland_Michigan.jpg" alt="Tile Water Walls with Reflection Pool and Bubbler Jets for Hudsonville Ice Cream Headquarters in Holland Michigan" title="Home 16" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Walls, tile with reflection pool and bubbler jets, Hudsonville Ice Cream Headquarters, Holland, MI</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Stainless_Steel_Mesh_Water_Wall_for_Private_Residence_in_Louisville_Kentucky.jpg" alt="Stainless Steel Mesh Water Wall for Private Residence in Louisville Kentucky" title="Home 17" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Stainless_Steel_Mesh_Water_Wall_for_Private_Residence_in_Louisville_Kentucky.jpg" alt="Stainless Steel Mesh Water Wall for Private Residence in Louisville Kentucky" title="Home 17" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall, stainless steel mesh, private residence, Louisville, KY</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Stainless_Steel_Mesh_Water_Wall_at_Wycliffe_Country_Club_in_Palm_Beach_Florida.jpg" alt="Stainless Steel Mesh Water Wall at Wycliffe Country Club in Palm Beach Florida" title="Home 18" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Stainless_Steel_Mesh_Water_Wall_at_Wycliffe_Country_Club_in_Palm_Beach_Florida.jpg" alt="Stainless Steel Mesh Water Wall at Wycliffe Country Club in Palm Beach Florida" title="Home 18" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall, stainless steel mesh, Wycliffe Country Club, Palm Beach, FL</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/LP-MW_Siena-Reception_07.jpg" alt="LP MW Siena Reception 07" title="Home 19" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/LP-MW_Siena-Reception_07.jpg" alt="LP MW Siena Reception 07" title="Home 19" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Bubble Wall; Siena Reception</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Rain_Curtain_at_Kona_Grill_Columbus_Ohio_1.jpg" alt="Rain Curtain at Kona Grill Columbus Ohio 1" title="Home 20" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Rain_Curtain_at_Kona_Grill_Columbus_Ohio_1.jpg" alt="Rain Curtain at Kona Grill Columbus Ohio 1" title="Home 20" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Rain Curtain; Kona Grill, Columbus, OH</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Rain_Curtain_at_Albany_Times_Union_Center_in_Albany_New_York.jpg" alt="Rain Curtain at Albany Times Union Center in Albany New York" title="Home 21" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Rain_Curtain_at_Albany_Times_Union_Center_in_Albany_New_York.jpg" alt="Rain Curtain at Albany Times Union Center in Albany New York" title="Home 21" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Rain Curtain; Albany Times Union Center, Albany, NY</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Glass_Water_Wall-Enclosed-Indiana_Donor_Network.png" alt="Glass Water Wall Enclosed Indiana Donor Network" title="Home 22" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Glass_Water_Wall-Enclosed-Indiana_Donor_Network.png" alt="Glass Water Wall Enclosed Indiana Donor Network" title="Home 22" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall; Glass, Enclosed, Indiana Donor Network, IN</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Glass_Water_Wall_with_Reflection_Pool_and_Black_Powder_Coated_Frame_in_Philadelphia.jpeg" alt="Glass Water Wall with Reflection Pool and Black Powder Coated Frame in Philadelphia" title="Home 23" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Glass_Water_Wall_with_Reflection_Pool_and_Black_Powder_Coated_Frame_in_Philadelphia.jpeg" alt="Glass Water Wall with Reflection Pool and Black Powder Coated Frame in Philadelphia" title="Home 23" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall; Glass With Reflection Pool, Black Powder Coated Frame, Philadelphia, PA</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Vertical_Chamber_Curved_Bubble_Wall_at_Omak_Casino_Resort_in_Omak_WA_5.jpg" alt="Vertical Chamber Curved Bubble Wall at Omak Casino Resort in Omak WA 5" title="Home 24" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Vertical_Chamber_Curved_Bubble_Wall_at_Omak_Casino_Resort_in_Omak_WA_5.jpg" alt="Vertical Chamber Curved Bubble Wall at Omak Casino Resort in Omak WA 5" title="Home 24" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Bubble Wall; Vertical Chamber Curved, Omak Casino & Resort, Omak, WA</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Frameless_Glass_Water_Wall_for_Peoples_Bank_in_Evansville_Indiana.jpg" alt="Frameless Glass Water Wall for Peoples Bank in Evansville Indiana" title="Home 25" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Frameless_Glass_Water_Wall_for_Peoples_Bank_in_Evansville_Indiana.jpg" alt="Frameless Glass Water Wall for Peoples Bank in Evansville Indiana" title="Home 25" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall; Frameless Glass, Peoples Bank, Evansville, IN</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Enclosed_Textured_Glass_Water_Wall_at_Firekeepers_Casino_in_Battle_Creek_Michigan.jpg" alt="Enclosed textured glass water wall at FireKeepers Casino in Battle Creek" title="Home 26" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Enclosed_Textured_Glass_Water_Wall_at_Firekeepers_Casino_in_Battle_Creek_Michigan.jpg" alt="Enclosed textured glass water wall at FireKeepers Casino in Battle Creek" title="Home 26" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall; Enclosed Textured Glass, Firekeepers Casino Battle Creek, MI</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Clear_Water_Wall_at_Sexy_Fish_Miami.jpeg" alt="Clear water wall at Sexy Fish Miami" title="Home 27" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Clear_Water_Wall_at_Sexy_Fish_Miami.jpeg" alt="Clear water wall at Sexy Fish Miami" title="Home 27" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall; Sexy Fish, Miami, FL</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/childrens_hospital_enclosed_water_feature_helen_devoss_bubble_wall_grand_rapids_michigan_bubble_panel_4.jpg" alt="childrens hospital enclosed water feature helen devoss bubble wall grand rapids michigan bubble panel 4" title="Home 28" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/childrens_hospital_enclosed_water_feature_helen_devoss_bubble_wall_grand_rapids_michigan_bubble_panel_4.jpg" alt="childrens hospital enclosed water feature helen devoss bubble wall grand rapids michigan bubble panel 4" title="Home 28" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Bubble Wall; Childrens Hospital Enclosed Water Feature, Grand Rapids, MI</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/bubbler_jets_reflection_pool_university_of_michigan_crisler_center_ann_arbor_mi_indoor_water_feature.jpg" alt="bubbler jets reflection pool university of michigan crisler center ann arbor mi indoor water feature" title="Home 29" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/bubbler_jets_reflection_pool_university_of_michigan_crisler_center_ann_arbor_mi_indoor_water_feature.jpg" alt="bubbler jets reflection pool university of michigan crisler center ann arbor mi indoor water feature" title="Home 29" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Bubbler Jets Reflection Pool; University Of Michigan Crisler Center, Ann Arbor, Mi</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/bubble_panel_under_staircase_in_yacht_midwest_tropical_bubble_wall.jpg" alt="bubble panel under staircase in yacht midwest tropical bubble wall" title="Home 30" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/bubble_panel_under_staircase_in_yacht_midwest_tropical_bubble_wall.jpg" alt="bubble panel under staircase in yacht midwest tropical bubble wall" title="Home 30" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Bubble Panel; Under Staircase In Yacht </div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Black_Scored_Water_Wall_for_Residence_Home_in_Tampa_Florida.jpg" alt="Black Scored Water Wall for Residence Home in Tampa Florida" title="Home 31" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Black_Scored_Water_Wall_for_Residence_Home_in_Tampa_Florida.jpg" alt="Black Scored Water Wall for Residence Home in Tampa Florida" title="Home 31" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Water Wall; Black Scored, Residence Home, Tampa, FL </div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska.avif" alt="Bubble Wall Swirley Rod Style Cylinder Tube Shape at Spare Time Bowling in Omaha Nebraska" title="Home 32"  srcset="/wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska-100x100.avif 100w, /wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska-768x512.avif 768w, /wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska-800x534.avif 800w, /wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska.avif 1400w"  sizes="auto, (max-width: 1400px) 100vw, 1400px" width="1400" height="934" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska.avif" alt="Bubble Wall Swirley Rod Style Cylinder Tube Shape at Spare Time Bowling in Omaha Nebraska" title="Home 32" srcset="/wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska-100x100.avif 100w, /wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska-768x512.avif 768w, /wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska-800x534.avif 800w, /wp-content/uploads/Bubble-Wall-Swirley-Rod-Style-Cylinder-Tube-Shape-at-Spare-Time-Bowling-in-Omaha-Nebraska.avif 1400w" sizes="(max-width: 1400px) 100vw, 1400px" width="1400" height="934" data-mtfi="1">
               <div class="img-title">Bubble Wall-Swirley Rod Style-Cylinder Tube Shape at Spare Time Bowling in Omaha, Nebraska</div>
           </div>
       </li>
       <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/grand-media/image/thumb/Vertical_Chamber_Bubble_Wall_at_Grand_Hyatt_Cairo_Egypt.jpg" alt="Vertical Chamber Bubble Wall at Grand Hyatt Cairo Egypt" title="Home 33" width="380" height="280"  sizes="auto, (max-width: 768px) 150px, 380px" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/grand-media/image/thumb/Vertical_Chamber_Bubble_Wall_at_Grand_Hyatt_Cairo_Egypt.jpg" alt="Vertical Chamber Bubble Wall at Grand Hyatt Cairo Egypt" title="Home 33" width="380" height="280" sizes="(max-width: 768px) 150px, 380px" data-mtfi="1">
               <div class="img-title">Bubble Wall;  Vertical Chamber, Grand Hyatt Cairo, Egypt</div>
           </div>
       </li>
 	   <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled.jpeg" alt="Mesh Water Wall at SPM Consumers Direct in Irvine California 8 scaled" title="Home 34"  srcset="/wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-100x100.jpeg 100w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-150x200.jpeg 150w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-300x400.jpeg 300w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-380x507.jpeg 380w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-480x640.jpeg 480w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-640x853.jpeg 640w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-768x1024.jpeg 768w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-800x1067.jpeg 800w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1024x1365.jpeg 1024w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1280x1707.jpeg 1280w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-1440x1440.jpeg 1440w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1600x2133.jpeg 1600w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled.jpeg 1920w"  sizes="auto, (max-width: 1920px) 100vw, 1920px" width="1920" height="2560" data-mtfi="1">
+              <picture><source srcset="/wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-100x100.jpeg.webp 100w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-150x200.jpeg.webp 150w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-300x400.jpeg.webp 300w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-380x507.jpeg.webp 380w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-480x640.jpeg.webp 480w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-640x853.jpeg.webp 640w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-768x1024.jpeg.webp 768w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-800x1067.jpeg.webp 800w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1024x1365.jpeg.webp 1024w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1280x1707.jpeg.webp 1280w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-1440x1440.jpeg.webp 1440w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1600x2133.jpeg.webp 1600w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled.jpeg.webp 1920w" type="image/webp"><img decoding="async" loading="lazy" src="/wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled.jpeg" alt="Mesh Water Wall at SPM Consumers Direct in Irvine California 8 scaled" title="Home 34" srcset="/wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-100x100.jpeg.webp 100w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-150x200.jpeg.webp 150w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-300x400.jpeg.webp 300w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-380x507.jpeg.webp 380w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-480x640.jpeg.webp 480w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-640x853.jpeg.webp 640w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-768x1024.jpeg.webp 768w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-800x1067.jpeg.webp 800w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1024x1365.jpeg.webp 1024w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1280x1707.jpeg.webp 1280w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-1440x1440.jpeg.webp 1440w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled-1600x2133.jpeg.webp 1600w, /wp-content/uploads/Mesh-Water-Wall-at-SPM-Consumers-Direct-in-Irvine-California-8-scaled.jpeg.webp 1920w" sizes="(max-width: 1920px) 100vw, 1920px" width="1920" height="2560" data-mtfi="1"></picture>
               <div class="img-title">Mesh Water Wall at SPM Consumers Direct in Irvine, California 8</div>
           </div>
       </li>
 	   <li>
           <div class="img-wrapper">
-              <img decoding="async" loading="lazy" class=""  src="/wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg.avif" alt="Curved Glass Water Wall with Stainless Steel Frame for Spa in Dublin Columbus Ohio 5 jpg" title="Home 35"  srcset="/wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg-100x100.avif 100w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-768x768.jpg 768w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg-800x800.avif 800w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg-1440x1440.avif 1440w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-1536x1536.jpg 1536w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg.avif 1936w"  sizes="auto, (max-width: 1936px) 100vw, 1936px" width="1936" height="1936" data-mtfi="1">
+              <img decoding="async" loading="lazy" src="/wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg.avif" alt="Curved Glass Water Wall with Stainless Steel Frame for Spa in Dublin Columbus Ohio 5 jpg" title="Home 35" srcset="/wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg-100x100.avif 100w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-768x768.jpg 768w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg-800x800.avif 800w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg-1440x1440.avif 1440w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-1536x1536.jpg 1536w, /wp-content/uploads/Curved-Glass-Water-Wall-with-Stainless-Steel-Frame-for-Spa-in-Dublin-Columbus-Ohio-5-jpg.avif 1936w" sizes="(max-width: 1936px) 100vw, 1936px" width="1936" height="1936" data-mtfi="1">
               <div class="img-title">Curved Glass Water Wall with Stainless Steel Frame for Spa in Dublin Columbus, Ohio 5</div>
           </div>
       </li>
@@ -657,6 +770,38 @@
     <img decoding="async" loading="lazy" class="lightbox-content" id="lightbox-img" alt="">
     <div id="caption"></div>
 </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Get the modal
+        const lightbox = document.getElementById('lightbox');
+        // Get the image and caption elements in the modal
+        const lightboxImg = document.getElementById('lightbox-img');
+        const captionText = document.getElementById('caption');
+        // Get all images and attach click event listeners
+        const images = document.querySelectorAll('.gallery_home_grid img');
+        images.forEach(image => {
+            image.addEventListener('click', () => {
+                lightbox.style.display = 'block';
+g.src = image.src;
+lightboxImg.alt = image.alt;
+               g.al
+                captionText.innerHTML = image.nextElementSibling.innerHTML;
+            });
+        });
+        // Get the <span> element that closes the modal
+        const closeBtn = document.querySelector('.close');
+        // When the user clicks on <span> (x), close the modal
+        closeBtn.addEventListener('click', () => {
+            lightbox.style.display = 'none';
+        });
+        // Close the lightbox when the user clicks anywhere outside of the image
+        lightbox.addEventListener('click', (e) => {
+            if (e.target === lightbox) {
+                lightbox.style.display = 'none';
+            }
+        });
+    });
+</script>
 				</div>
 					</div>
 		</div>
@@ -694,7 +839,117 @@
 					</div>
 		</section>
 				</div>
-				<?php include __DIR__ . '/includes/footer-0fe06582.php'; ?>
+				<?php include __DIR__ . '/includes/footer-ab9d1246.php'; ?>
+<style id="mt-xplatform-css">
+
+/* MT cross-platform micro-pack CSS — v1.0.0 (2026-11-11) — BUILD ONLY, not deployed.
+
+   Scope: audit hazards H6 (dvh) + H8 (16px inputs) + H12 (backdrop-filter prefix).
+
+   Safe: every rule is a progressive enhancement or a size floor; no layout changes
+
+   on browsers that already behave. */
+
+/* H6 — iOS Safari URL-bar clipping: the mobile nav container height is driven by
+
+   --menu-height. Served CSS declares only 100vh. Add 100dvh AFTER it (same
+
+   specificity, later in cascade via this file loading after theme CSS, plus the
+
+   explicit selector match) so supporting browsers use the dynamic viewport and
+
+   older browsers keep the 100vh line they already have. */
+
+.elementor-nav-menu--toggle .elementor-nav-menu--dropdown,
+
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown {
+
+  --menu-height: 100vh;
+
+  --menu-height: 100dvh;
+
+}
+
+.elementor-nav-menu--toggle {
+
+  --menu-height: 100vh;
+
+  --menu-height: 100dvh;
+
+}
+
+/* Fallback-open state used ONLY by mt-menu-guard.js when Elementor's own toggle
+
+   handler never bound (cold-load race). Elementor normally controls dropdown
+
+   visibility itself; this rule is inert on a healthy page because the
+
+   mt-fb-open class is only ever added by the fallback path. */
+
+.elementor-widget-nav-menu.mt-fb-open .elementor-nav-menu--dropdown {
+
+  display: block !important;
+
+  visibility: visible !important;
+
+  max-height: none !important;
+
+}
+
+/* Submenu expanded by the menu guard (first-tap expand). SmartMenus/Elementor
+
+   normally manage this display state; the guard only sets mt-sub-open when it
+
+   intercepted the click itself. */
+
+.elementor-nav-menu .sub-menu.mt-sub-open {
+
+  display: block !important;
+
+  visibility: visible !important;
+
+}
+
+/* H8 — iOS focus zoom: inputs below 16px trigger Safari auto-zoom on focus.
+
+   Served CSS puts the header search input at 14px and file inputs at 14px.
+
+   Raise exactly those two families to 16px. Main quote/checkout text fields
+
+   already serve at 16px/1rem and are intentionally NOT touched here. */
+
+.elementor-search-form__input,
+
+input.elementor-search-form__input {
+
+  font-size: 16px !important;
+
+}
+
+.elementor-field-type-upload input[type="file"],
+
+.elementor-form input[type="file"],
+
+input[type="file"].elementor-field {
+
+  font-size: 16px !important;
+
+}
+
+/* H12 (optional, cosmetic) — one header element serves backdrop-filter without
+
+   its -webkit- twin; Safari 9–15.3 needs the prefix. Harmless elsewhere. */
+
+.elementor-element-7e53c90d {
+
+  -webkit-backdrop-filter: saturate(160%) blur(14px);
+
+  backdrop-filter: saturate(160%) blur(14px);
+
+}
+
+</style>
+
 					<div class="jetpack-instant-search__widget-area" style="display: none">
 					</div>
 		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
@@ -708,7 +963,8 @@
 		<div class="jp-carousel-container">
 			<div
 				class="jp-carousel-wrap mtslider jp-carousel-mtslider-container jp-carousel-transitions"
-				>
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
 				<div class="jp-carousel mtslider-wrapper"></div>
 				<div class="jp-mtslider-button-prev mtslider-button-prev">
 					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -775,7 +1031,7 @@
 						<div class="jp-carousel-image-meta">
 							<div class="jp-carousel-title-and-caption">
 								<div class="jp-carousel-photo-info">
-									<div class="jp-carousel-caption" ></div>
+									<div class="jp-carousel-caption" itemprop="caption description"></div>
 								</div>
 								<div class="jp-carousel-photo-description"></div>
 							</div>

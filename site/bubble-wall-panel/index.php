@@ -13,7 +13,7 @@
 <meta property="og:description" content="Midwest Tropical custom water features: Transform your space with stunning bubble wall panels. Request a free consultation today to design your dream feature!" />
 <meta property="og:url" content="https://www.midwest-tropical.com/bubble-wall-panel/" />
 <meta property="og:site_name" content="Midwest Tropical" />
-<meta property="og:updated_time" content="2026-11-06T22:41:50+00:00" />
+<meta property="og:updated_time" content="2026-11-11T06:27:05+00:00" />
 <meta property="og:image" content="https://www.midwest-tropical.com/wp-content/uploads/Reflection-Pool-with-Bubbler-Fountain-Jets-at-Embassy-Suites-Milpitas-San-Jose-California-jpg-768x576.avif" />
 <meta property="og:image:secure_url" content="https://www.midwest-tropical.com/wp-content/uploads/Reflection-Pool-with-Bubbler-Fountain-Jets-at-Embassy-Suites-Milpitas-San-Jose-California-jpg-768x576.avif" />
 <meta property="og:image:width" content="768" />
@@ -21,7 +21,7 @@
 <meta property="og:image:alt" content="Reflection Pool with Bubbler Fountain Jets at Embassy Suites Milpitas San Jose California" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="article:published_time" content="2025-06-25T20:53:34+00:00" />
-<meta property="article:modified_time" content="2026-11-06T22:41:50+00:00" />
+<meta property="article:modified_time" content="2026-11-11T06:27:05+00:00" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Midwest Tropical: Custom Bubble Wall Panels For Your Space" />
 <meta name="twitter:description" content="Midwest Tropical custom water features: Transform your space with stunning bubble wall panels. Request a free consultation today to design your dream feature!" />
@@ -178,10 +178,11 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
-<link rel="stylesheet" href="/assets/css/b-887fe0e2b1.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
-<script src="/assets/js/main.js?v=45cc267d" defer></script>
+<link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
+<link rel="stylesheet" href="/assets/css/b-c712b78b8e.css">
+<link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
+<link rel="stylesheet" href="/assets/css/fix.css?v=559c709a">
+<script src="/assets/js/main.js?v=f8804d43" defer></script>
 </head>
 <body class="wp-singular page-template page-template-elementor_header_footer page page-id-129853 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-129853">
 
@@ -324,7 +325,7 @@
 						</div>
 				<div class="elementor-element elementor-element-13551c67 elementor-widget elementor-widget-image" data-id="13551c67" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 																<a href="/gallery/">
-							<img decoding="async" width="570" height="320" src="/wp-content/uploads/Gallery-Banner-1.jpg" class="attachment-large size-large wp-image-106053" alt="Gallery Banner 1" srcset="/wp-content/uploads/Gallery-Banner-1-50x50.webp 50w, /wp-content/uploads/Gallery-Banner-1-100x100.jpg 100w, /wp-content/uploads/Gallery-Banner-1-150x84.jpg 150w, /wp-content/uploads/Gallery-Banner-1-300x168.jpg 300w, /wp-content/uploads/Gallery-Banner-1-380x213.jpg 380w, /wp-content/uploads/Gallery-Banner-1-480x269.jpg 480w, /wp-content/uploads/Gallery-Banner-1.jpg 570w" sizes="(max-width: 570px) 100vw, 570px" title="Bubble Wall Panel 1">								</a>
+							<picture><source srcset="/wp-content/uploads/Gallery-Banner-1-50x50.webp 50w, /wp-content/uploads/Gallery-Banner-1-100x100.jpg.webp 100w, /wp-content/uploads/Gallery-Banner-1-150x84.jpg.webp 150w, /wp-content/uploads/Gallery-Banner-1-300x168.jpg.webp 300w, /wp-content/uploads/Gallery-Banner-1-380x213.jpg.webp 380w, /wp-content/uploads/Gallery-Banner-1-480x269.jpg.webp 480w, /wp-content/uploads/Gallery-Banner-1.jpg 570w" type="image/webp"><img decoding="async" width="570" height="320" src="/wp-content/uploads/Gallery-Banner-1.jpg" class="attachment-large size-large wp-image-106053" alt="Gallery Banner 1" srcset="/wp-content/uploads/Gallery-Banner-1-50x50.webp 50w, /wp-content/uploads/Gallery-Banner-1-100x100.jpg 100w, /wp-content/uploads/Gallery-Banner-1-150x84.jpg 150w, /wp-content/uploads/Gallery-Banner-1-300x168.jpg 300w, /wp-content/uploads/Gallery-Banner-1-380x213.jpg 380w, /wp-content/uploads/Gallery-Banner-1-480x269.jpg 480w, /wp-content/uploads/Gallery-Banner-1.jpg 570w" sizes="(max-width: 570px) 100vw, 570px" title="Bubble Wall Panel 1"></picture>								</a>
 															</div>
 					</div>
 		</div>
@@ -335,7 +336,7 @@
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-50942580" data-id="50942580" data-element_type="column" data-e-type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-4324f257 elementor-widget elementor-widget-image" data-id="4324f257" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img decoding="async" fetchpriority="high" width="765" height="1020" src="/wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1.jpg" class="attachment-large size-large wp-image-129801" alt="Bubble Wall Rod Style Swirley-Curry Leaf Restaurant In Indianapolis, Indiana" srcset="/wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-100x100.jpg 100w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-150x200.jpg 150w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-300x400.jpg 300w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-380x507.jpg 380w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-480x640.jpg 480w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-640x853.jpg 640w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1.jpg 765w" sizes="(max-width: 765px) 100vw, 765px" title="Bubble Wall Panel 2">															</div>
+															<picture><source srcset="/wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-100x100.jpg.webp 100w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-150x200.jpg.webp 150w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-300x400.jpg.webp 300w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-380x507.jpg.webp 380w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-480x640.jpg.webp 480w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-640x853.jpg.webp 640w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1.jpg.webp 765w" type="image/webp"><img decoding="async" fetchpriority="high" width="765" height="1020" src="/wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1.jpg" class="attachment-large size-large wp-image-129801" alt="Bubble Wall Rod Style Swirley-Curry Leaf Restaurant In Indianapolis, Indiana" srcset="/wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-100x100.jpg.webp 100w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-150x200.jpg.webp 150w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-300x400.jpg.webp 300w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-380x507.jpg.webp 380w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-480x640.jpg.webp 480w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1-640x853.jpg.webp 640w, /wp-content/uploads/Bubble-Wall-Rod-Style-Swirley-Curry-Leaf-Restaurant-In-Indianapolis-Indiana-1.jpg.webp 765w" sizes="(max-width: 765px) 100vw, 765px" title="Bubble Wall Panel 2"></picture>															</div>
 					</div>
 		</div>
 				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2746b32" data-id="2746b32" data-element_type="column" data-e-type="column">
@@ -658,7 +659,117 @@ document.addEventListener("DOMContentLoaded", () => {
 					</div>
 		</section>
 				</div>
-		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Explore more custom water features</h2><p>Popular feature types and recent articles.</p></div><ul class="mtx-related__grid"><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li><li><a href="/reflection-pools/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Reflection-Pool-with-Bubbler-Fountain-Jets-at-Embassy-Suites-Milpitas-San-Jose-California-jpg-768x576.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Reflection Pools</span></a></li><li><a href="/swirly-bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Swirly Bubble Walls</span></a></li><li><a href="/the-screen-free-design-trend-bringing-movement-into-modern-spaces/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/The-Screen-Free-Design-Trend-Bringing-Movement-Into-Modern-Spaces-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Screen-Free Design Trend – Bringing Movement Into Modern Spaces</span></a></li><li><a href="/the-rise-of-transparent-waterfalls-in-modern-interior-design/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/The-Rise-of-Transparent-Waterfalls-in-Modern-Interior-Design-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Rise of Transparent Waterfalls in Modern Interior Design</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Explore more custom water features</h2><p>Popular feature types and recent articles.</p></div><ul class="mtx-related__grid"><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li><li><a href="/reflection-pools/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Reflection-Pool-with-Bubbler-Fountain-Jets-at-Embassy-Suites-Milpitas-San-Jose-California-jpg-768x576.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Reflection Pools</span></a></li><li><a href="/swirly-bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Swirly Bubble Walls</span></a></li><li><a href="/using-vertical-chamber-bubble-walls-to-define-a-space/"><span class="mtx-related__img"><picture><source srcset="/wp-content/uploads/Using-Vertical-Chamber-Bubble-Walls-to-Define-a-Space-768x512.png.webp" type="image/webp"><img decoding="async" loading="lazy" src="/wp-content/uploads/Using-Vertical-Chamber-Bubble-Walls-to-Define-a-Space-768x512.png" alt="" width="480" height="320"></picture></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Using Vertical Chamber Bubble Walls to Define a Space</span></a></li><li><a href="/the-screen-free-design-trend-bringing-movement-into-modern-spaces/"><span class="mtx-related__img"><picture><source srcset="/wp-content/uploads/The-Screen-Free-Design-Trend-Bringing-Movement-Into-Modern-Spaces-768x512.png.webp" type="image/webp"><img decoding="async" loading="lazy" src="/wp-content/uploads/The-Screen-Free-Design-Trend-Bringing-Movement-Into-Modern-Spaces-768x512.png" alt="" width="480" height="320"></picture></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Screen-Free Design Trend – Bringing Movement Into Modern Spaces</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+<style id="mt-xplatform-css">
+
+/* MT cross-platform micro-pack CSS — v1.0.0 (2026-11-11) — BUILD ONLY, not deployed.
+
+   Scope: audit hazards H6 (dvh) + H8 (16px inputs) + H12 (backdrop-filter prefix).
+
+   Safe: every rule is a progressive enhancement or a size floor; no layout changes
+
+   on browsers that already behave. */
+
+/* H6 — iOS Safari URL-bar clipping: the mobile nav container height is driven by
+
+   --menu-height. Served CSS declares only 100vh. Add 100dvh AFTER it (same
+
+   specificity, later in cascade via this file loading after theme CSS, plus the
+
+   explicit selector match) so supporting browsers use the dynamic viewport and
+
+   older browsers keep the 100vh line they already have. */
+
+.elementor-nav-menu--toggle .elementor-nav-menu--dropdown,
+
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown {
+
+  --menu-height: 100vh;
+
+  --menu-height: 100dvh;
+
+}
+
+.elementor-nav-menu--toggle {
+
+  --menu-height: 100vh;
+
+  --menu-height: 100dvh;
+
+}
+
+/* Fallback-open state used ONLY by mt-menu-guard.js when Elementor's own toggle
+
+   handler never bound (cold-load race). Elementor normally controls dropdown
+
+   visibility itself; this rule is inert on a healthy page because the
+
+   mt-fb-open class is only ever added by the fallback path. */
+
+.elementor-widget-nav-menu.mt-fb-open .elementor-nav-menu--dropdown {
+
+  display: block !important;
+
+  visibility: visible !important;
+
+  max-height: none !important;
+
+}
+
+/* Submenu expanded by the menu guard (first-tap expand). SmartMenus/Elementor
+
+   normally manage this display state; the guard only sets mt-sub-open when it
+
+   intercepted the click itself. */
+
+.elementor-nav-menu .sub-menu.mt-sub-open {
+
+  display: block !important;
+
+  visibility: visible !important;
+
+}
+
+/* H8 — iOS focus zoom: inputs below 16px trigger Safari auto-zoom on focus.
+
+   Served CSS puts the header search input at 14px and file inputs at 14px.
+
+   Raise exactly those two families to 16px. Main quote/checkout text fields
+
+   already serve at 16px/1rem and are intentionally NOT touched here. */
+
+.elementor-search-form__input,
+
+input.elementor-search-form__input {
+
+  font-size: 16px !important;
+
+}
+
+.elementor-field-type-upload input[type="file"],
+
+.elementor-form input[type="file"],
+
+input[type="file"].elementor-field {
+
+  font-size: 16px !important;
+
+}
+
+/* H12 (optional, cosmetic) — one header element serves backdrop-filter without
+
+   its -webkit- twin; Safari 9–15.3 needs the prefix. Harmless elsewhere. */
+
+.elementor-element-7e53c90d {
+
+  -webkit-backdrop-filter: saturate(160%) blur(14px);
+
+  backdrop-filter: saturate(160%) blur(14px);
+
+}
+
+</style>
+
 					<div class="jetpack-instant-search__widget-area" style="display: none">
 					</div>
 		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />

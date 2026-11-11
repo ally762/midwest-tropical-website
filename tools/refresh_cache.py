@@ -3,7 +3,7 @@
 Reads the live sitemaps (lastmod) and deletes the cached copy of every URL whose lastmod is
 newer than the cache file, plus the cached sitemaps themselves, so the next build refetches them.
 
-usage: python -I tools/refresh_cache.py <cache dir>
+usage: python -I tools/refresh_cache.py <cache dir> [sitemap-name ...]
 """
 import datetime
 import hashlib
@@ -13,6 +13,9 @@ import sys
 import urllib.request
 
 CACHE = os.path.abspath(sys.argv[1])
+# optional: sitemap names to re-download completely, e.g. "post-sitemap" after the live blog
+# template changed (template edits do not change each post's lastmod)
+FORCE = sys.argv[2:]
 ORIGIN = "https://www.midwest-tropical.com"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
 
@@ -36,6 +39,10 @@ for sm in re.findall(r"<loc>([^<]+)</loc>", idx):
         p = cpath(loc)
         if not os.path.exists(p):
             new += 1
+            continue
+        if any(k in sm for k in FORCE):  # template-wide change (no lastmod bump): refetch all of them
+            os.remove(p)
+            changed += 1
             continue
         if lastmod:
             lm = datetime.datetime.fromisoformat(lastmod.replace("Z", "+00:00")).timestamp()

@@ -151,15 +151,16 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
-<link rel="stylesheet" href="/assets/css/b-4c43d70211.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
-<script src="/assets/js/main.js?v=45cc267d" defer></script>
+<link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
+<link rel="stylesheet" href="/assets/css/b-6ec4584a74.css">
+<link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
+<link rel="stylesheet" href="/assets/css/fix.css?v=559c709a">
+<script src="/assets/js/main.js?v=f8804d43" defer></script>
 </head>
 <body class="wp-singular page-template-default page page-id-91574 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5 elementor-page elementor-page-91574 elementor-page-109341">
 
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-		<?php include __DIR__ . '/../includes/header-ce8fb444.php'; ?>
+		<?php include __DIR__ . '/../includes/header-43acf302.php'; ?>
 <main id="content" class="site-main post-91574 page type-page status-publish has-post-thumbnail hentry">
 			<div class="page-header">
 			<h1 class="entry-title">Midwest Tropical is your go-to for water wall construction, installation, and maintenance.</h1>		</div>
@@ -179,7 +180,7 @@
 <h2>Midwest Tropical is your first and last stop when it comes to fountain construction.</h2>
 <p>Whether you’re looking for a small fountain or a large pond, Midwest Tropical can help you create the perfect water feature for your space. Our designs include simple fountains and ponds to elaborate waterfalls and larger water features. We also offer many different types of stone finishes so that you can choose something that will complement your landscape or architectural style.</p>
 <p>														<a href="/gallery/"><br />
-							<img decoding="async" class=""  width="570" height="320" src="/wp-content/uploads/Gallery-Banner-1.jpg" alt="Gallery Banner 1"  srcset="/wp-content/uploads/Gallery-Banner-1-50x50.webp 50w, /wp-content/uploads/Gallery-Banner-1-100x100.jpg 100w, /wp-content/uploads/Gallery-Banner-1-150x84.jpg 150w, /wp-content/uploads/Gallery-Banner-1-300x168.jpg 300w, /wp-content/uploads/Gallery-Banner-1-380x213.jpg 380w, /wp-content/uploads/Gallery-Banner-1-480x269.jpg 480w, /wp-content/uploads/Gallery-Banner-1.jpg 570w"  sizes="(max-width: 570px) 100vw, 570px" title="Midwest Tropical is your go-to for water wall construction, installation, and maintenance. 1" data-mtfi="1">								</a></p>
+							<picture><source srcset="/wp-content/uploads/Gallery-Banner-1-50x50.webp 50w, /wp-content/uploads/Gallery-Banner-1-100x100.jpg.webp 100w, /wp-content/uploads/Gallery-Banner-1-150x84.jpg.webp 150w, /wp-content/uploads/Gallery-Banner-1-300x168.jpg.webp 300w, /wp-content/uploads/Gallery-Banner-1-380x213.jpg.webp 380w, /wp-content/uploads/Gallery-Banner-1-480x269.jpg.webp 480w, /wp-content/uploads/Gallery-Banner-1.jpg 570w" type="image/webp"><img decoding="async" width="570" height="320" src="/wp-content/uploads/Gallery-Banner-1.jpg" alt="Gallery Banner 1" srcset="/wp-content/uploads/Gallery-Banner-1-50x50.webp 50w, /wp-content/uploads/Gallery-Banner-1-100x100.jpg 100w, /wp-content/uploads/Gallery-Banner-1-150x84.jpg 150w, /wp-content/uploads/Gallery-Banner-1-300x168.jpg 300w, /wp-content/uploads/Gallery-Banner-1-380x213.jpg 380w, /wp-content/uploads/Gallery-Banner-1-480x269.jpg 480w, /wp-content/uploads/Gallery-Banner-1.jpg 570w" sizes="(max-width: 570px) 100vw, 570px" title="Midwest Tropical is your go-to for water wall construction, installation, and maintenance. 1" data-mtfi="1"></picture>								</a></p>
 <h2>Are you looking for a fountain construction company?</h2>
 <p>Fountains are a great way to bring life and color to your business, and they can also be an essential part of the local community. Midwest Tropical works with you to ensure that the fountain you get is exactly what you need. They provide a wide range of services, including design, installation, repair, and maintenance.</p>
 <p>If you’re ready to create the perfect place for people to relax at work, contact us today!</p>
@@ -198,12 +199,122 @@
 <p>Pondless waterfalls don’t require excavation work or maintenance like traditional ponds do, so they’re easier to install! They add elegance and beauty to any landscape while providing sound masking features to make homes more peaceful than ever before.</p>
 <h2>We’re excited to share our latest construction project with you!</h2>
 <p>We started by identifying the best location for our ponds, which were created to maximize the natural beauty of a given area without disturbing the environment. We then dug out the ponds and installed pumps so that they could be filled with water. Once we had served them, it was time to start building rock walls around them!</p>
-<p>													<img decoding="async" fetchpriority="high" class=""  width="1024" height="576" src="/wp-content/uploads/amaxresdefault-0x0.jpg" alt="amaxresdefault"  srcset="/wp-content/uploads/amaxresdefault-jpg-800x450.avif 800w, /wp-content/uploads/amaxresdefault-jpg-600x338.avif 600w, /wp-content/uploads/amaxresdefault-jpg.avif 768w, /wp-content/uploads/amaxresdefault-jpg.avif 1024w"  sizes="(max-width: 1024px) 100vw, 1024px" title="Midwest Tropical is your go-to for water wall construction, installation, and maintenance. 2">													</p>
+<p>													<picture><source srcset="/wp-content/uploads/amaxresdefault-jpg-800x450.avif 800w, /wp-content/uploads/amaxresdefault-jpg-600x338.avif 600w, /wp-content/uploads/amaxresdefault-jpg.avif 768w, /wp-content/uploads/amaxresdefault-jpg.avif 1024w" type="image/webp"><img decoding="async" fetchpriority="high" width="1024" height="576" src="/wp-content/uploads/amaxresdefault-0x0.jpg" alt="amaxresdefault" srcset="/wp-content/uploads/amaxresdefault-jpg-800x450.avif 800w, /wp-content/uploads/amaxresdefault-jpg-600x338.avif 600w, /wp-content/uploads/amaxresdefault-jpg.avif 768w, /wp-content/uploads/amaxresdefault-jpg.avif 1024w" sizes="(max-width: 1024px) 100vw, 1024px" title="Midwest Tropical is your go-to for water wall construction, installation, and maintenance. 2"></picture>													</p>
 <h2>Are you tired of searching for Water feature contractors near me?</h2>
 <p>A water feature is an excellent addition to any office. They can be simple, elegant, or complex, with many layers of depth and detail. Midwest Tropical is your one-stop-shop for all of your water feature needs. We specialize in water wall construction, fountain construction, and everything. If you’re looking to add a splash of color and excitement to your outdoor space, we’re the company for you!</p>
 			</div>
 </main>
-	<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Explore more custom water features</h2><p>Popular feature types and recent articles.</p></div><ul class="mtx-related__grid"><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" loading="lazy" class=""  src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li><li><a href="/the-screen-free-design-trend-bringing-movement-into-modern-spaces/"><span class="mtx-related__img"><img decoding="async" loading="lazy" class=""  src="/wp-content/uploads/The-Screen-Free-Design-Trend-Bringing-Movement-Into-Modern-Spaces-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Screen-Free Design Trend – Bringing Movement Into Modern Spaces</span></a></li><li><a href="/the-rise-of-transparent-waterfalls-in-modern-interior-design/"><span class="mtx-related__img"><img decoding="async" loading="lazy" class=""  src="/wp-content/uploads/The-Rise-of-Transparent-Waterfalls-in-Modern-Interior-Design-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Rise of Transparent Waterfalls in Modern Interior Design</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-0fe06582.php'; ?>
+	<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Explore more custom water features</h2><p>Popular feature types and recent articles.</p></div><ul class="mtx-related__grid"><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li><li><a href="/using-vertical-chamber-bubble-walls-to-define-a-space/"><span class="mtx-related__img"><picture><source srcset="/wp-content/uploads/Using-Vertical-Chamber-Bubble-Walls-to-Define-a-Space-768x512.png.webp" type="image/webp"><img decoding="async" loading="lazy" src="/wp-content/uploads/Using-Vertical-Chamber-Bubble-Walls-to-Define-a-Space-768x512.png" alt="" width="480" height="320"></picture></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Using Vertical Chamber Bubble Walls to Define a Space</span></a></li><li><a href="/the-screen-free-design-trend-bringing-movement-into-modern-spaces/"><span class="mtx-related__img"><picture><source srcset="/wp-content/uploads/The-Screen-Free-Design-Trend-Bringing-Movement-Into-Modern-Spaces-768x512.png.webp" type="image/webp"><img decoding="async" loading="lazy" src="/wp-content/uploads/The-Screen-Free-Design-Trend-Bringing-Movement-Into-Modern-Spaces-768x512.png" alt="" width="480" height="320"></picture></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Screen-Free Design Trend – Bringing Movement Into Modern Spaces</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
+<style id="mt-xplatform-css">
+
+/* MT cross-platform micro-pack CSS — v1.0.0 (2026-11-11) — BUILD ONLY, not deployed.
+
+   Scope: audit hazards H6 (dvh) + H8 (16px inputs) + H12 (backdrop-filter prefix).
+
+   Safe: every rule is a progressive enhancement or a size floor; no layout changes
+
+   on browsers that already behave. */
+
+/* H6 — iOS Safari URL-bar clipping: the mobile nav container height is driven by
+
+   --menu-height. Served CSS declares only 100vh. Add 100dvh AFTER it (same
+
+   specificity, later in cascade via this file loading after theme CSS, plus the
+
+   explicit selector match) so supporting browsers use the dynamic viewport and
+
+   older browsers keep the 100vh line they already have. */
+
+.elementor-nav-menu--toggle .elementor-nav-menu--dropdown,
+
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown {
+
+  --menu-height: 100vh;
+
+  --menu-height: 100dvh;
+
+}
+
+.elementor-nav-menu--toggle {
+
+  --menu-height: 100vh;
+
+  --menu-height: 100dvh;
+
+}
+
+/* Fallback-open state used ONLY by mt-menu-guard.js when Elementor's own toggle
+
+   handler never bound (cold-load race). Elementor normally controls dropdown
+
+   visibility itself; this rule is inert on a healthy page because the
+
+   mt-fb-open class is only ever added by the fallback path. */
+
+.elementor-widget-nav-menu.mt-fb-open .elementor-nav-menu--dropdown {
+
+  display: block !important;
+
+  visibility: visible !important;
+
+  max-height: none !important;
+
+}
+
+/* Submenu expanded by the menu guard (first-tap expand). SmartMenus/Elementor
+
+   normally manage this display state; the guard only sets mt-sub-open when it
+
+   intercepted the click itself. */
+
+.elementor-nav-menu .sub-menu.mt-sub-open {
+
+  display: block !important;
+
+  visibility: visible !important;
+
+}
+
+/* H8 — iOS focus zoom: inputs below 16px trigger Safari auto-zoom on focus.
+
+   Served CSS puts the header search input at 14px and file inputs at 14px.
+
+   Raise exactly those two families to 16px. Main quote/checkout text fields
+
+   already serve at 16px/1rem and are intentionally NOT touched here. */
+
+.elementor-search-form__input,
+
+input.elementor-search-form__input {
+
+  font-size: 16px !important;
+
+}
+
+.elementor-field-type-upload input[type="file"],
+
+.elementor-form input[type="file"],
+
+input[type="file"].elementor-field {
+
+  font-size: 16px !important;
+
+}
+
+/* H12 (optional, cosmetic) — one header element serves backdrop-filter without
+
+   its -webkit- twin; Safari 9–15.3 needs the prefix. Harmless elsewhere. */
+
+.elementor-element-7e53c90d {
+
+  -webkit-backdrop-filter: saturate(160%) blur(14px);
+
+  backdrop-filter: saturate(160%) blur(14px);
+
+}
+
+</style>
+
 					<div class="jetpack-instant-search__widget-area" style="display: none">
 					</div>
 		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />

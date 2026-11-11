@@ -160,10 +160,11 @@
 <link crossorigin="anonymous" rel="icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-192x192.avif" sizes="192x192" />
 <link crossorigin="anonymous" rel="apple-touch-icon" href="/wp-content/uploads/cropped-favicon-32x32-1-png-180x180.avif" />
 <link rel="preload" href="/wp-content/uploads/elementor/google-fonts/fonts/quicksand-21dc8b9f.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/core.css?v=df5316ce">
-<link rel="stylesheet" href="/assets/css/b-b6189eb9db.css">
-<link rel="stylesheet" href="/assets/css/fix.css?v=81892d2e">
-<script src="/assets/js/main.js?v=45cc267d" defer></script>
+<link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
+<link rel="stylesheet" href="/assets/css/b-4ead64c614.css">
+<link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
+<link rel="stylesheet" href="/assets/css/fix.css?v=559c709a">
+<script src="/assets/js/main.js?v=f8804d43" defer></script>
 </head>
 <body class="archive paged tax-product_cat term-portfolio term-394 wp-custom-logo wp-embed-responsive paged-32 wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop mtshop-page mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-kit-5">
 

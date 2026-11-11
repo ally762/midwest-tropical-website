@@ -658,6 +658,17 @@ def phash(part):
 def finish_css():
     """Shared core.css (parts used by most pages, cached across the site) + small per-page bundle."""
     core_path = os.path.join(OUT, "includes", "core.json")
+    # A stylesheet that occurs twice on a page (e.g. the site's custom design CSS is printed both
+    # early and at the very end) takes effect at its LAST position: keep only that one, otherwise
+    # dedupe would move it before the kit/base CSS it is meant to override.
+    for url in list(page_parts):
+        parts, seen_h, kept = page_parts[url], set(), []
+        for p in reversed(parts):
+            h = phash(p)
+            if h not in seen_h:
+                seen_h.add(h)
+                kept.append(p)
+        page_parts[url] = kept[::-1]
     if os.path.exists(core_path):
         core = set(json.load(open(core_path)))
     else:
@@ -673,15 +684,38 @@ def finish_css():
         n = len(page_parts)
         core_parts = [p for p in order if freq[phash(p)] >= max(2, n * 0.5)]
         core = {phash(p) for p in core_parts}
-        body = make_bundle(core_parts)
-        os.replace(OUT + body, OUT + "/assets/css/core.css")
-        bundles.pop(body, None)
-        json.dump(sorted(core), open(core_path, "w"))
+        # Keep the cascade order of the original pages: shared parts that normally come AFTER the
+        # page's own CSS (the site's custom design layer, inline overrides) go to core-late.css,
+        # loaded after the page bundle. Otherwise the page bundle's base/kit rules would override them.
+        late_votes, seen = {}, {}
+        for parts in page_parts.values():
+            hs = [phash(p) for p in parts]
+            first_own = next((i for i, h in enumerate(hs) if h not in core), None)
+            for i, h in enumerate(hs):
+                if h in core:
+                    seen[h] = seen.get(h, 0) + 1
+                    if first_own is not None and i > first_own:
+                        late_votes[h] = late_votes.get(h, 0) + 1
+        late = {h for h in core if late_votes.get(h, 0) * 2 > seen.get(h, 0)}
+        for name, sel in (("core.css", [p for p in core_parts if phash(p) not in late]),
+                          ("core-late.css", [p for p in core_parts if phash(p) in late])):
+            body = make_bundle(sel)
+            os.replace(OUT + body, OUT + "/assets/css/" + name)
+            bundles.pop(body, None)
+        json.dump({"core": sorted(core), "late": sorted(late)}, open(core_path, "w"))
+    if isinstance(core, set) and os.path.exists(core_path):
+        data = json.load(open(core_path))
+        if isinstance(data, dict):
+            core, late = set(data["core"]), set(data["late"])
+        else:
+            late = set()
     for url, parts in page_parts.items():
         rest = [p for p in parts if phash(p) not in core]
         tags = '<link rel="stylesheet" href="/assets/css/core.css">'
         if rest:
             tags += f'\n<link rel="stylesheet" href="{make_bundle(rest)}">'
+        if late:
+            tags += '\n<link rel="stylesheet" href="/assets/css/core-late.css">'
         f = page_files[url]
         t = open(f, encoding="utf-8").read().replace("<!--@css-->", tags)
         open(f, "w", encoding="utf-8").write(t)

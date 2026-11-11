@@ -78,6 +78,75 @@ def tag_cards(t):
     return re.sub(r'<article class="(elementor-portfolio-item[^"]*)"', rep, t)
 
 
+# Project-gallery grid (".mt-lg-card", up to 648 cards on every blog post): the live site loads the
+# full-size originals (1448px+) into ~416px cards. Use a ~600px variant that exists locally instead,
+# and give each link the image's alt as its name (the live site adds that with JS).
+UPL = os.path.join(OUT, "wp-content", "uploads")
+_variants = {}
+if os.path.isdir(UPL):
+    for _f in os.listdir(UPL):
+        _m = re.match(r"(.+)-(\d+)x(\d+)\.(png|jpe?g|webp|avif)$", _f, re.I)
+        if _m:
+            _variants.setdefault((_m.group(1), _m.group(4).lower()), []).append((int(_m.group(2)), _f))
+
+
+def small(path):
+    """768px-wide copy (WordPress 'medium_large': always the whole picture scaled, never cropped;
+    sizes like 640x480 or 600x600 can be hard crops). Falls back to 1024 wide."""
+    m = re.match(r"/wp-content/uploads/(.+?)(?:-\d+x\d+)?\.(png|jpe?g|webp|avif)$", path, re.I)
+    if not m:
+        return None
+    vs = dict(_variants.get((m.group(1), m.group(2).lower()), []))
+    for w in (768, 1024):
+        if w in vs:
+            return "/wp-content/uploads/" + vs[w]
+    # no safe smaller copy: use the original file (undo an earlier, possibly cropped, choice)
+    orig = f"/wp-content/uploads/{m.group(1)}.{m.group(2)}"
+    if orig != path and os.path.exists(os.path.join(UPL, f"{m.group(1)}.{m.group(2)}")):
+        return orig
+    return None
+
+
+def lg_card(m):
+    card = m.group(0)
+    img = re.search(r'<img\b[^>]*\ssrc="([^"]+)"', card)
+    alt = re.search(r'<img\b[^>]*\salt="([^"]*)"', card)
+    if img:
+        s = small(img.group(1))
+        if s and s != img.group(1):
+            card = card.replace(f'src="{img.group(1)}"', f'src="{s}"')
+            wh = re.search(r"-(\d+)x(\d+)\.\w+$", s)
+            card = re.sub(r'(<img\b[^>]*?)\swidth="\d+"\sheight="\d+"', r"\1", card)
+            if wh:
+                card = card.replace("<img ", f'<img width="{wh.group(1)}" height="{wh.group(2)}" ', 1)
+            webp = s + ".webp"
+            if os.path.exists(os.path.join(OUT, webp.lstrip("/").replace("/", os.sep))):
+                card = re.sub(r'<source srcset="[^"]*"', f'<source srcset="{webp}"', card)
+            else:
+                card = re.sub(r"<source\b[^>]*>", "", card)
+    # already resized by an earlier run: make sure the size attributes are there (no layout shift)
+    cur = re.search(r'<img\b[^>]*\ssrc="[^"]*-(\d+)x(\d+)\.\w+"', card)
+    if cur and not re.search(r"<img\b[^>]*\swidth=", card):
+        card = card.replace("<img ", f'<img width="{cur.group(1)}" height="{cur.group(2)}" ', 1)
+    if alt and "aria-label=" not in card[:200]:
+        card = card.replace('<a class="mt-lg-card"', f'<a class="mt-lg-card" aria-label="{alt.group(1)}"', 1)
+    return card
+
+
+lg_pages = 0
+for dp, dn, fn in os.walk(OUT):
+    if os.sep + "wp-content" in dp or os.sep + "assets" in dp:
+        continue
+    if "index.php" in fn:
+        p = os.path.join(dp, "index.php")
+        t = open(p, encoding="utf-8", errors="replace").read()
+        if "mt-lg-card" in t:
+            n = re.sub(r'<a class="mt-lg-card"[^>]*>.*?</a>', lg_card, t, flags=re.S)
+            if n != t:
+                open(p, "w", encoding="utf-8").write(n)
+                lg_pages += 1
+print("project-gallery cards resized on", lg_pages, "pages")
+
 tagged_pages = 0
 for dp, dn, fn in os.walk(OUT):
     if os.sep + "wp-content" in dp or os.sep + "assets" in dp:
@@ -98,6 +167,9 @@ preload = ""
 core = os.path.join(OUT, "assets", "css", "core.css")
 if os.path.exists(core):
     cc = open(core, encoding="utf-8").read()
+    late_css = os.path.join(OUT, "assets", "css", "core-late.css")
+    if os.path.exists(late_css):
+        cc += open(late_css, encoding="utf-8").read()
     for blk in re.findall(r"@font-face\s*{[^}]*}", cc):
         if re.search(r"font-family:\s*['\"]?Quicksand", blk, re.I) and "U+0000-00FF" in blk.upper():
             u = re.search(r"url\(([^)]+\.woff2)\)", blk)

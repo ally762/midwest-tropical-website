@@ -129,7 +129,7 @@ def emit(items):
 cssdir = os.path.join(ROOT, "assets/css")
 import hashlib
 for f in os.listdir(cssdir):
-    if not (f.startswith("b-") or f == "core.css"):
+    if not (f.startswith("b-") or f in ("core.css", "core-late.css")):
         continue
     p = os.path.join(cssdir, f)
     src = open(p, encoding="utf-8").read()
@@ -160,7 +160,8 @@ for f in os.listdir(cssdir):
 def ver(rel):
     return hashlib.sha1(open(os.path.join(ROOT, rel), "rb").read()).hexdigest()[:8]
 
-v = {p: ver(p.lstrip("/")) for p in ("/assets/css/core.css", "/assets/css/fix.css", "/assets/js/main.js")}
+v = {p: ver(p.lstrip("/")) for p in ("/assets/css/core.css", "/assets/css/core-late.css", "/assets/css/fix.css", "/assets/js/main.js")
+     if os.path.exists(os.path.join(ROOT, p.lstrip("/")))}
 for dp, dn, fn in os.walk(ROOT):
     if os.sep + "wp-content" in dp or os.sep + "assets" in dp:
         continue

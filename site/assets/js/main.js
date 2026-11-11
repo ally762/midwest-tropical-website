@@ -92,20 +92,23 @@
   $$('.elementor-widget-tabs, .elementor-widget-accordion, .elementor-widget-toggle').forEach(function (w) {
     var isTabs = w.classList.contains('elementor-widget-tabs');
     var isToggle = w.classList.contains('elementor-widget-toggle');
-    $$('.elementor-tab-title', w).forEach(function (t) {
+    // only this widget's own titles/panes: a tabs widget placed inside another tab (gallery: "Waterfall
+    // Water Walls" > "Glass / Acrylic / Mesh ...") must not be opened or closed by the outer one
+    function own(sel) { return $$(sel, w).filter(function (x) { return x.closest('.elementor-widget-tabs, .elementor-widget-accordion, .elementor-widget-toggle') === w; }); }
+    own('.elementor-tab-title').forEach(function (t) {
       t.addEventListener('click', function () {
         var n = t.getAttribute('data-tab');
         var open = !t.classList.contains('elementor-active');
         if (isTabs) open = true;
         if (!isToggle) {
-          $$('.elementor-tab-title', w).forEach(function (x) { x.classList.remove('elementor-active'); x.setAttribute('aria-selected', 'false'); x.setAttribute('aria-expanded', 'false'); });
-          $$('.elementor-tab-content', w).forEach(function (c) { c.classList.remove('elementor-active'); c.style.display = 'none'; c.hidden = true; });
+          own('.elementor-tab-title').forEach(function (x) { x.classList.remove('elementor-active'); x.setAttribute('aria-selected', 'false'); x.setAttribute('aria-expanded', 'false'); });
+          own('.elementor-tab-content').forEach(function (c) { c.classList.remove('elementor-active'); c.style.display = 'none'; c.hidden = true; });
         }
-        $$('.elementor-tab-title[data-tab="' + n + '"]', w).forEach(function (x) { x.classList.toggle('elementor-active', open); x.setAttribute('aria-selected', open); x.setAttribute('aria-expanded', open); });
-        $$('.elementor-tab-content[data-tab="' + n + '"]', w).forEach(function (c) { c.classList.toggle('elementor-active', open); c.style.display = open ? 'block' : 'none'; c.hidden = !open; });
+        own('.elementor-tab-title[data-tab="' + n + '"]').forEach(function (x) { x.classList.toggle('elementor-active', open); x.setAttribute('aria-selected', open); x.setAttribute('aria-expanded', open); });
+        own('.elementor-tab-content[data-tab="' + n + '"]').forEach(function (c) { c.classList.toggle('elementor-active', open); c.style.display = open ? 'block' : 'none'; c.hidden = !open; });
       });
     });
-    var first = w.querySelector('.elementor-tab-title.elementor-active') || (isTabs && w.querySelector('.elementor-tab-title'));
+    var first = own('.elementor-tab-title.elementor-active')[0] || (isTabs && own('.elementor-tab-title')[0]);
     if (first && isTabs) first.click();
   });
 
@@ -153,11 +156,18 @@
   });
 
   /* ---------- posts / portfolio grids: image ratio cropping (Elementor posts handler) ---------- */
-  $$('.elementor-posts-container').forEach(function (c) {
+  function initGrid(c) {
     var thumbs = $$('.elementor-post__thumbnail', c);
+    if (!thumbs.length) return;
+    // grid inside a closed tab / accordion has no width yet: decide once it becomes visible,
+    // otherwise "10px < 0" below would wrongly switch the cards to ratio boxes (squashed images)
+    if (!thumbs[0].offsetWidth) {
+      if (window.ResizeObserver) { var ro = new ResizeObserver(function () { if (thumbs[0].offsetWidth) { ro.disconnect(); initGrid(c); } }); ro.observe(c); }
+      return;
+    }
     // only a real aspect-ratio box (padding-bottom = a % of the width) means "crop images to ratio";
     // a small padding (e.g. 10px spacing on the gallery cards) must not trigger it
-    if (!thumbs.length || parseFloat(getComputedStyle(thumbs[0]).paddingBottom) < thumbs[0].offsetWidth * 0.2) return;
+    if (parseFloat(getComputedStyle(thumbs[0]).paddingBottom) < thumbs[0].offsetWidth * 0.2) return;
     c.classList.add('elementor-has-item-ratio');
     thumbs.forEach(function (t) {
       var img = t.querySelector('img'); if (!img) return;
@@ -167,7 +177,8 @@
       }
       img.complete ? fit() : img.addEventListener('load', fit); fit();
     });
-  });
+  }
+  $$('.elementor-posts-container').forEach(initGrid);
   /* masonry-free portfolio widget: show items (Elementor fades them in with JS) */
   $$('.elementor-portfolio-item, .elementor-portfolio .elementor-post').forEach(function (p) { p.style.opacity = 1; });
 
