@@ -75,7 +75,33 @@ HEAD_JUNK = re.compile(
 STYLE = re.compile(r"(<style\b[^>]*>)(.*?)(</style>)", re.S | re.I)
 
 
+def drop_div(t, opening):
+    """remove the <div> that starts with `opening` together with everything inside it"""
+    while True:
+        i = t.find(opening)
+        if i < 0:
+            return t
+        depth, j = 0, i
+        for m in re.finditer(r"<div\b|</div>", t[i:]):
+            depth += 1 if m.group(0) == "<div" else -1
+            if depth == 0:
+                j = i + m.end()
+                break
+        else:
+            return t
+        t = t[:i].rstrip(" \t") + t[j:]
+
+
+# dead markup left behind by removed plugins (search widget area, image carousel, mail-tracker inputs)
+DEAD_DIVS = ('<div class="jetpack-instant-search__widget-area"', '<div id="jp-carousel-loading-overlay"',
+             '<div class="jp-carousel-overlay"')
+DEAD_INPUTS = re.compile(r"\s*<input id='ws_ma_event_(?:type|data)'[^>]*/>")
+
+
 def fix_html(t):
+    for o in DEAD_DIVS:
+        t = drop_div(t, o)
+    t = DEAD_INPUTS.sub("", t)
     t = HEAD_JUNK.sub("", t)
     t = CLASS_ATTR.sub(fix_class_attr, t)
     t = STYLE.sub(lambda m: m.group(1) + fix_css(m.group(2)) + m.group(3), t)

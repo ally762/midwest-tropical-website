@@ -222,8 +222,8 @@
 <link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
 <link rel="stylesheet" href="/assets/css/b-261135bb57.css">
 <link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
-<link rel="stylesheet" href="/assets/css/fix.css?v=e42a57ed">
-<script src="/assets/js/main.js?v=48d7623d" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=532ffd8f">
+<script src="/assets/js/main.js?v=fc24b1e0" defer></script>
 <script>var $wc_load=function(a){return JSON.parse(JSON.stringify(a))},$wc_leads=$wc_leads||{doc:{url:$wc_load(document.URL),ref:$wc_load(document.referrer),search:$wc_load(location.search),hash:$wc_load(location.hash)}};</script>
 <script src="//s.ksrndkehqnwntyxlhgto.com/76819.js" defer></script>
 </head>
@@ -461,10 +461,6 @@ input[type="file"].elementor-field {
 }
 
 </style>
-
-					<div class="jetpack-instant-search__widget-area" style="display: none">
-					</div>
-		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
 		<?php include __DIR__ . '/../includes/popup-8c9eb8e8.php'; ?>
 
 </body>

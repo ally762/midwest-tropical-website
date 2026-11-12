@@ -189,8 +189,8 @@
 <link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
 <link rel="stylesheet" href="/assets/css/b-f47cde53a3.css">
 <link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
-<link rel="stylesheet" href="/assets/css/fix.css?v=e42a57ed">
-<script src="/assets/js/main.js?v=48d7623d" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=532ffd8f">
+<script src="/assets/js/main.js?v=fc24b1e0" defer></script>
 <script>var $wc_load=function(a){return JSON.parse(JSON.stringify(a))},$wc_leads=$wc_leads||{doc:{url:$wc_load(document.URL),ref:$wc_load(document.referrer),search:$wc_load(location.search),hash:$wc_load(location.hash)}};</script>
 <script src="//s.ksrndkehqnwntyxlhgto.com/76819.js" defer></script>
 </head>
@@ -330,9 +330,6 @@ The Bubble Wall Rod Peg Style Swirley at Courduroy Bar is a prime example of how
 				</div>
 				</div>
 		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Design a feature like this one</h2><p>Every project is built to order. Start with the product line, then talk to a designer.</p></div><ul class="mtx-related__grid"><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li><li><a href="/swirly-bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Swirly Bubble Walls</span></a></li><li><a href="/swirly-or-vertical-chamber-choosing-a-bubble-wall-style-for-your-space/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Swirly-or-Vertical-Chamber-Choosing-a-Bubble-Wall-Style-for-Your-Space-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Swirly or Vertical Chamber? Choosing a Bubble Wall Style for Your Space</span></a></li><li><a href="/swirly-bubble-walls-and-the-art-of-movement-in-interior-design/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Swirly-Bubble-Walls-and-the-Art-of-Movement-in-Interior-Design-1-1-768x512.png" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Swirly Bubble Walls and the Art of Movement in Interior Design</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../../includes/footer-ab9d1246.php'; ?>
-					<div class="jetpack-instant-search__widget-area" style="display: none">
-					</div>
-		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
 		<?php include __DIR__ . '/../../includes/popup-8c9eb8e8.php'; ?>
 <div id="photoswipe-fullscreen-dialog" class="pswp" tabindex="-1" role="dialog" aria-modal="true" aria-hidden="true" aria-label="Full screen image">
 	<div class="pswp__bg"></div>

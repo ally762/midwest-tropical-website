@@ -222,8 +222,8 @@
 <link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
 <link rel="stylesheet" href="/assets/css/b-261135bb57.css">
 <link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
-<link rel="stylesheet" href="/assets/css/fix.css?v=e42a57ed">
-<script src="/assets/js/main.js?v=48d7623d" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=532ffd8f">
+<script src="/assets/js/main.js?v=fc24b1e0" defer></script>
 <script>var $wc_load=function(a){return JSON.parse(JSON.stringify(a))},$wc_leads=$wc_leads||{doc:{url:$wc_load(document.URL),ref:$wc_load(document.referrer),search:$wc_load(location.search),hash:$wc_load(location.hash)}};</script>
 <script src="//s.ksrndkehqnwntyxlhgto.com/76819.js" defer></script>
 </head>
@@ -355,9 +355,6 @@
 				</div>
 				</div>
 		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/when-water-becomes-architecture-how-a-rain-curtain-changes-the-experience-of-a-room/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">When Water Becomes Architecture – How a Rain Curtain Changes the Experience of a Room</span></a></li><li><a href="/what-to-know-before-adding-a-rain-curtain-to-your-interior-design/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">What to Know Before Adding a Rain Curtain to Your Interior Design</span></a></li><li><a href="/rain-curtain-features-for-hotels-lobbies-and-luxury-interiors/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Rain Curtain Features for Hotels, Lobbies, and Luxury Interiors</span></a></li><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li><li><a href="/rain-curtains/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Vertical-Chamber-Bubble-Wall-Homewood-SUites-Orlando-FLorida-300x1631-jpg.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Rain Curtains</span></a></li><li><a href="/specialty-fountains/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Custom Fountains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
-					<div class="jetpack-instant-search__widget-area" style="display: none">
-					</div>
-		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
 		<?php include __DIR__ . '/../includes/popup-8c9eb8e8.php'; ?>
 
 </body>

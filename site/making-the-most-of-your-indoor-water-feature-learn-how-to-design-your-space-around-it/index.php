@@ -199,8 +199,8 @@
 <link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
 <link rel="stylesheet" href="/assets/css/b-fe7d981675.css">
 <link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
-<link rel="stylesheet" href="/assets/css/fix.css?v=e42a57ed">
-<script src="/assets/js/main.js?v=48d7623d" defer></script>
+<link rel="stylesheet" href="/assets/css/fix.css?v=532ffd8f">
+<script src="/assets/js/main.js?v=fc24b1e0" defer></script>
 <script>var $wc_load=function(a){return JSON.parse(JSON.stringify(a))},$wc_leads=$wc_leads||{doc:{url:$wc_load(document.URL),ref:$wc_load(document.referrer),search:$wc_load(location.search),hash:$wc_load(location.hash)}};</script>
 <script src="//s.ksrndkehqnwntyxlhgto.com/76819.js" defer></script>
 </head>
@@ -319,109 +319,9 @@
 				</div>
 				</div>
 		<section class="mtx-related" aria-labelledby="mtx-related-title"><div class="mtx-related__inner"><div class="mtx-related__head"><h2 id="mtx-related-title">Keep reading</h2><p>Related articles and the water feature types this post talks about.</p></div><ul class="mtx-related__grid"><li><a href="/popular-intricately-designed-water-features-for-corporate-environments-2019-edition/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Glass-Water-Wall-at-Holiday-Inn-Houston-Airport-6-1-1-jpg.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Popular, Intricately Designed Water Features for Corporate Environments ? 2019 Edition</span></a></li><li><a href="/the-possibilities-are-endless-when-you-choose-midwest-tropical-as-your-water-feature-partner/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Glass-Water-Wall-Frameless-Embassy-Suites-Charlotte-Ayrsley-North-Carolina-3-300x1441-jpg.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">The Possibilities are Endless When You Choose Midwest Tropical as Your Water Feature Partner</span></a></li><li><a href="/find-out-industries-that-can-benefit-from-indoor-water-features-and-why/"><span class="mtx-related__kicker">Article</span><span class="mtx-related__title">Find Out Industries That Can Benefit From Indoor Water Features and Why?</span></a></li><li><a href="/bubble-walls/"><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Bubble Walls</span></a></li><li><a href="/water-walls/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/water_walls_in_hotel_lobby_godfrey_hotel_chicago_scored_black_acrylic_waterfalls-2-768x511.jpg" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Water Walls</span></a></li><li><a href="/rain-curtains/"><span class="mtx-related__img"><img decoding="async" loading="lazy" src="/wp-content/uploads/Vertical-Chamber-Bubble-Wall-Homewood-SUites-Orlando-FLorida-300x1631-jpg.avif" alt="" width="480" height="320"></span><span class="mtx-related__kicker">Water feature type</span><span class="mtx-related__title">Rain Curtains</span></a></li></ul><div class="mtx-related__cta"><p><strong>Planning a water feature?</strong> Free design consultation and price estimate — since 1977, made in Skokie, Illinois, installed nationwide.</p><a class="mtx-btn" href="/request-a-quote/">Request a free consultation</a> <a class="mtx-btn mtx-btn--ghost" href="tel:+18883652393">Call 888-365-2393</a></div></div></section>		<?php include __DIR__ . '/../includes/footer-ab9d1246.php'; ?>
-					<div class="jetpack-instant-search__widget-area" style="display: none">
-					</div>
-		<input id='ws_ma_event_type' type='hidden' style='display: none' /><input id='ws_ma_event_data' type='hidden' style='display: none' />
 		<?php include __DIR__ . '/../includes/popup-8c9eb8e8.php'; ?>
-		<div id="jp-carousel-loading-overlay" style="display: none;">
-			<div id="jp-carousel-loading-wrapper">
-				<span id="jp-carousel-library-loading"><svg class="jetpack-spinner" width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><circle cx="50" cy="50" r="46" fill="none" stroke="#ddd" stroke-width="8"/><path d="M 50 4 A 46 46 0 0 1 96 50" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1.4s" from="0 50 50" to="360 50 50" repeatCount="indefinite"/></path></svg></span>
-			</div>
-		</div>
-		<div class="jp-carousel-overlay" style="display: none;">
-		<div class="jp-carousel-container">
-			<div
-				class="jp-carousel-wrap mtslider jp-carousel-mtslider-container jp-carousel-transitions"
-				itemscope
-				itemtype="https://schema.org/ImageGallery">
-				<div class="jp-carousel mtslider-wrapper"></div>
-				<div class="jp-mtslider-button-prev mtslider-button-prev">
-					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
-							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
-						</mask>
-						<g mask="url(#maskPrev)">
-							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
-						</g>
-					</svg>
-				</div>
-				<div class="jp-mtslider-button-next mtslider-button-next">
-					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
-							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
-						</mask>
-						<g mask="url(#maskNext)">
-							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="jp-carousel-close-hint">
-				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
-						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
-					</mask>
-					<g mask="url(#maskClose)">
-						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
-					</g>
-				</svg>
-			</div>
-			<div class="jp-carousel-info">
-				<div class="jp-carousel-info-footer">
-					<div class="jp-carousel-pagination-container">
-						<div class="jp-mtslider-pagination mtslider-pagination"></div>
-						<div class="jp-carousel-pagination"></div>
-					</div>
-					<div class="jp-carousel-photo-title-container">
-						<div class="jp-carousel-photo-caption"></div>
-					</div>
-					<div class="jp-carousel-photo-icons-container">
-						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
-							<span class="jp-carousel-icon">
-								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
-										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
-									</mask>
-									<g mask="url(#maskInfo)">
-										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
-									</g>
-								</svg>
-							</span>
-						</a>
-											</div>
-				</div>
-				<div class="jp-carousel-info-extra">
-					<div class="jp-carousel-info-content-wrapper">
-						<div class="jp-carousel-photo-title-container">
-							<div class="jp-carousel-photo-title"></div>
-						</div>
-						<div class="jp-carousel-comments-wrapper">
-													</div>
-						<div class="jp-carousel-image-meta">
-							<div class="jp-carousel-title-and-caption">
-								<div class="jp-carousel-photo-info">
-									<div class="jp-carousel-caption" itemprop="caption description"></div>
-								</div>
-								<div class="jp-carousel-photo-description"></div>
-							</div>
-							<a class="jp-carousel-image-download" href="#" aria-label="Download image" target="_blank" style="display: none;">
-								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
-										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
-									</mask>
-									<g mask="url(#mask0)">
-										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
-									</g>
-								</svg>
-								<span class="jp-carousel-download-text"></span>
-							</a>
-							<div class="jp-carousel-image-map" style="display: none;"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		</div>
+
+
 
 </body>
 </html>
