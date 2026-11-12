@@ -178,6 +178,26 @@ for dp, dn, fn in os.walk(OUT):
                 fb_pages += 1
 print("pdf flipbooks on", fb_pages, "pages")
 
+# WhatConverts (lead tracking, profile 76819) - same code the live site has. It records form
+# submissions (it watches form.elementor-form) and swaps phone numbers for call tracking.
+WC = ('<script>var $wc_load=function(a){return JSON.parse(JSON.stringify(a))},$wc_leads=$wc_leads||'
+      '{doc:{url:$wc_load(document.URL),ref:$wc_load(document.referrer),search:$wc_load(location.search),'
+      'hash:$wc_load(location.hash)}};</script>\n'
+      '<script src="//s.ksrndkehqnwntyxlhgto.com/76819.js" defer></script>\n')
+wc_pages = 0
+for dp, dn, fn in os.walk(OUT):
+    if os.sep + "wp-content" in dp or os.sep + "assets" in dp or os.sep + "includes" in dp:
+        continue
+    for f in fn:
+        if f.endswith(".php") and f != "form-handler.php":
+            p = os.path.join(dp, f)
+            t = open(p, encoding="utf-8", errors="replace").read()
+            if "$wc_leads" not in t and "</head>" in t:
+                t = t.replace("</head>", WC + "</head>", 1)
+                open(p, "w", encoding="utf-8").write(t)
+                wc_pages += 1
+print("WhatConverts tracking added to", wc_pages, "pages")
+
 tagged_pages = 0
 for dp, dn, fn in os.walk(OUT):
     if os.sep + "wp-content" in dp or os.sep + "assets" in dp:

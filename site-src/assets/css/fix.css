@@ -116,7 +116,7 @@ h2.e-heading-base{font-family:"Quicksand",sans-serif;font-size:36px;font-weight:
 .elementor-nav-menu--dropdown.elementor-nav-menu__container{max-height:80vh;overflow-y:auto}
 
 /* Popups -> modal */
-[data-elementor-type="popup"]{display:block}
+.mt-modal [data-elementor-type="popup"]{display:block!important}
 .elementor-location-popup:not(.mt-modal .elementor-location-popup){display:none!important}
 .mt-modal{position:fixed;inset:0;z-index:9999;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,.8);padding:16px}
 .mt-modal.mt-open{display:flex}
