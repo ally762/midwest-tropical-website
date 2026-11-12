@@ -521,7 +521,7 @@
     function setView(v) {
       view = v; busy = true;
       Promise.all([render(v[0]), render(v[1])]).then(function () {
-        put(L, v[0]); put(R, v[1]); busy = false; preload();
+        put(L, v[0]); put(R, v[1]); busy = false; preload(); runQueued();
       });
       bk.style.transform = 'translateX(' + shift(v) + 'px)';
       ui();
@@ -577,7 +577,7 @@
             f.remove(); bk.classList.remove('mt-fb-turning');
             bk.style.transform = 'translateX(' + shift(view) + 'px)';
             requestAnimationFrame(function () { bk.style.transition = ''; });
-            busy = false; ui(); preload();
+            busy = false; ui(); preload(); runQueued();
           }
           requestAnimationFrame(step);
         }
@@ -586,11 +586,13 @@
       });
     }
     function turn(dir, target) {
-      if (busy || !view) return;
+      if (busy || !view) { queued = [dir, target]; return; }
       target = target || (dir === 'next' ? nextOf(view) : prevOf(view));
       if (!target || (target[0] === view[0] && target[1] === view[1])) return;
       start(dir, target).then(function (f) { f.finish(true); });
     }
+    var queued = null;
+    function runQueued() { var q = queued; queued = null; if (q) turn(q[0], q[1]); }
     function jump(p) { var t = spreadOf(p); turn((t[1] || t[0]) > (view[1] || view[0]) ? 'next' : 'prev', t); }
 
     box.querySelector('.mt-fb-prev').onclick = function () { turn('prev'); };
